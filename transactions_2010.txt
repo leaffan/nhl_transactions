@@ -160,7 +160,7 @@ Ottawa Senators: Waived defenseman David Hale.
 Phoenix Coyotes: Waived center Andrew Ebbett.
 Pittsburgh Penguins: Waived center Ryan Craig and defenseman Andrew Hutchinson.
 Tampa Bay Lightning: Claimed center Mattias Ritola off waivers from the Detroit Red Wings; waived defenseman Mathieu Roy; released center Eric Perrin.
-Vancouver Canucks: 	Acquired defenseman Ryan Parent and left wing Jonas Andersson from the Nashville Predators for defenseman Shane O'Brien and right wing Dan Gendur; waived left wing Jeff Tambellini.
+Vancouver Canucks: Acquired defenseman Ryan Parent and left wing Jonas Andersson from the Nashville Predators for defenseman Shane O'Brien and right wing Dan Gendur; waived left wing Jeff Tambellini.
 Washington Capitals: Waived defensemen Patrick McNeill and Brian Fahey, center Steve Pinnizotto and right wing Andrew Gordon.
 
 Oct 4, 2010
@@ -170,10 +170,10 @@ New York Rangers: Signed left wing Ruslan Fedotenko, who had been with the Pitts
 Washington Capitals: Signed goaltender Philipp Grubauer to a three-year contract.
 
 Oct 3, 2010
-New York Islanders:	Released centers Dean McAmmond and Krys Kolanos, right wing Jed Ortmeyer, defenseman Anders Eriksson, goaltender Manny Legace.
+New York Islanders: Released centers Dean McAmmond and Krys Kolanos, right wing Jed Ortmeyer, defenseman Anders Eriksson, and goaltender Manny Legace.
 
 Oct 2, 2010
-Buffalo Sabres:	Released right wing Mark Parrish.
+Buffalo Sabres: Released right wing Mark Parrish.
 Columbus Blue Jackets: Waived centers Tom Sestito and Ben Guite; released center Dan Fritsche.
 Minnesota Wild: Signed goaltender Jose Theodore, who had been with the Washington Capitals, to a one-year contract.
 
@@ -204,7 +204,7 @@ Montreal Canadiens: Announced the retirement of defenseman Mathieu Dandenault.
 Tampa Bay Lightning: Released right wing Matt Fornataro and left wing Tim Marks.
 
 Sep 25, 2010
-Chicago Blackhawks:	Released centers Rastislav Pavlikovsky and Nick Tarnasky and D Wade Brookbank.
+Chicago Blackhawks: Released centers Rastislav Pavlikovsky and Nick Tarnasky and defenseman Wade Brookbank.
 New York Rangers: Waived defenseman Wade Redden.
 
 Sep 24, 2010
@@ -341,7 +341,7 @@ Calgary Flames: Named Michel Goulet western professional scout and Ari Haanpaa a
 Chicago Blackhawks: Signed right wing Fernando Pisani, who had been with the Edmonton Oilers.
 Columbus Blue Jackets: Signed center Ben Guite, who had been with the Nashville Predators, to a one-year contract.
 New York Islanders: Signed centers Andy Hilbert and Rob Hilsey on one-year contracts.
-	
+
 Aug 17, 2010
 Tampa Bay Lightning: Signed left wing Sean Bergenheim, who had been with the New York Islanders, to a one-year contract.
 
@@ -384,7 +384,7 @@ Aug 5, 2010
 Anaheim Ducks: Re-signed defenseman Marc-Andre Gragnani to a one-year contract.
 Florida Panthers: Acquired center Mike Santorelli from the Nashville Predators for a conditional fourth-round pick (condition unknown; 94th overall, Predators selected Josh Shalla) in the 2011 NHL Entry Draft.
 Ottawa Senators: Re-signed defenseman Geoff Kinrade to a one-year contract; signed left wing Corey Cowick; signed defenseman Andre Benoit, who had been with the Montreal Canadiens, to a one-year contract.
-	
+
 Aug 4, 2010
 Boston Bruins: Named Doug Jarvis assistant coach.
 Chicago Blackhawks: Signed centers Evan Brophey and Nathan Davis, right wing Hugh Jessiman, defenseman Jassen Cullimore and goaltender Hannu Toivonen to one-year contracts.
@@ -775,7 +775,7 @@ Boston Bruins: Re-signed right wing Shawn Thornton to a two-year contract extens
 Detroit Red Wings: Re-signed right wing Tomas Holmstrom to a two-year contract.
 
 Jun 3, 2010
-Colorado Avalanche:	Re-signed goaltender Peter Budaj and defenseman David Koci to one-year contracts.
+Colorado Avalanche: Re-signed goaltender Peter Budaj and defenseman David Koci to one-year contracts.
 Columbus Blue Jackets: Signed defenseman David Savard to a three-year contract.
 
 Jun 2, 2010
@@ -1100,7 +1100,7 @@ Jan 13, 2010
 Ottawa Senators: Relieved goaltending coach Eli Wilson of his duties. 
 
 Jan 11, 2010
-Chicago Blackhawks:	Signed president John McDonough to a contract extension through 2016.
+Chicago Blackhawks: Signed president John McDonough to a contract extension through 2016.
 
 Jan 6, 2010
 Washington Capitals: Signed center David Steckel to a three-year contract extension and defenseman Tyler Sloan to a two-year contract extension.
