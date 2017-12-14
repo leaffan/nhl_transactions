@@ -590,7 +590,7 @@ Edmonton Oilers: Re-signed defenseman Matt Greene to a two-year contract.
 Montreal Canadiens: Signed right wing Tom Kostopoulos, who had been with the Los Angeles Kings.
 New York Islanders: Signed left wing Ruslan Fedotenko, who had been with the Tampa Bay Lightning, to a one-year contract.
 Phoenix Coyotes: Announced the retirement of center Jeremy Roenick.
-Tampa Bay Lightning: Acquired defenseman Bryce Lampman from the New York Rangers for the left wing Mitch Fritz; resigned Lampman.
+Tampa Bay Lightning: Acquired defenseman Bryce Lampman from the New York Rangers for the left wing Mitch Fritz; re-signed Lampman.
 Toronto Maple Leafs: Signed goaltender Vesa Toskala to a two-year contract extension.
 
 Jul 3, 2007
@@ -621,11 +621,10 @@ Minnesota Wild: Signed center Steve Kelly to a one-year contract.
 Montreal Canadiens: Signed defenseman Roman Hamrlik, who had been with the Calgary Flames, to a four-year contract and center Bryan Smolinski, who had been with the Vancouver Canucks, to a one-year contract.
 Nashville Predators: Signed defenseman Greg de Vries, who had been with the Atlanta Thrashers, center Radek Bonk, who had been with the Montreal Canadiens, and right wing Jed Ortmeyer, who had been with the New York Rangers, to two-year contracts; signed center Mike Santorelli, defenseman Teemu Laakso and goaltender Dov Grumet-Morris.
 New York Rangers: Signed defenseman Jason Strudwick.
-Phoenix Coyotes	Bought out the remaining two years on the contract of center Dave Scatchard.
+Phoenix Coyotes: Bought out the remaining two years on the contract of center Dave Scatchard.
 Pittsburgh Penguins: Signed defenseman Darryl Sydor, who had been with the Dallas Stars, goaltender Dany Sabourin, who had been with the Vancouver Canucks, and right wing Petr Sykora, who had been with the Edmonton Oilers. Re-signed defenseman Ryan Whitney to a six-year contract;  re-signed defenseman Rob Scuderi.
 San Jose Sharks: Re-signed defenseman Patrick Traverse to a two-year contract.
-St. Louis Blues: Re-signed left wing Keith Tkachuk.
-Tampa Bay Lightning: Singed left wings Craig MacDonald, who had been with the Chicago Blackhawks, and Mathieu Darche, who had been with the San Jose Sharks, to one-year contracts.
+Tampa Bay Lightning: Signed left wings Craig MacDonald, who had been with the Chicago Blackhawks, and Mathieu Darche, who had been with the San Jose Sharks, to one-year contracts.
 Toronto Maple Leafs: Re-signed left wing Bates Battaglia to a two-year contract.
 Vancouver Canucks: Re-signed defenseman Lukas Krajicek to a two-year contract.
 Washington Capitals: Signed center Michael Nylander, who had been with the New York Rangers, to a four-year contract.
@@ -656,7 +655,7 @@ Jun 30, 2007
 Buffalo Sabres: Re-signed center Adam Mair to a three-year contract.
 Minnesota Wild: Re-signed center Mikko Koivu and defenseman Martin Skoula to multi-year contracts.
 Nashville Predators: Re-signed center Scott Nichol to a two-year contract and defenseman Alex Henry to a one-year contract.
-St. Louis Blues Re-signed left wing Keith Tkachuk.
+St. Louis Blues: Re-signed left wing Keith Tkachuk.
 
 Jun 29, 2007
 Florida Panthers: Signed center Jozef Stumpel to a two-year contract extension.
@@ -751,7 +750,7 @@ Buffalo Sabres: Re-signed general manager Darcy Regier to a two-year contract an
 Calgary Flames: Named Mike Keenan head coach and Jim Playfair associate coach.
 Columbus Blue Jackets: Named Scott Howson general manager.
 Montreal Canadiens: Signed defenseman Pavel Valentenko to a three-year contract.
-Philadelphia Phillies: Re-signed goaltender Antero Niittymaki to a two-year contract.
+Philadelphia Flyers: Re-signed goaltender Antero Niittymaki to a two-year contract.
 Tampa Bay Lightning: Signed left wing Jan Hlavac to a one-year contract.
 
 Jun 13, 2007
@@ -915,7 +914,7 @@ Montreal Canadiens: Signed defenseman Mathieu Carle to a three-year contract.
 New York Islanders: Re-signed goaltender Wade Dubielewicz to a one-year contract.
 Toronto Maple Leafs: Re-signed defenseman Ian White to a three-year contract.
 
-May 7, 2007:
+May 7, 2007
 Colorado Avalanche: Named Joe Sacco coach and Sylvain Lefebvre assistant coach for Lake Erie of the AHL.
 
 May 5, 2007
@@ -1082,7 +1081,7 @@ Calgary Flames: Acquired defenseman David Hale from the New Jersey Devils and a 
 Colorado Avalanche: Acquired right wing Scott Parker from the San Jose Sharks for a sixth-round pick (later traded back to Colorado; 170th overall) in the 2008 NHL Entry Draft.
 Columbus Blue Jackets: Claimed goaltender Brian Boucher off waivers from the Chicago Blackhawks.
 Dallas Stars: Acquired defenseman Mattias Norstrom, right wing Konstantin Pushkarev and third- (64th overall, Stars selected Sergei Korostin) and fourth-round (later traded to Columbus; 94th overall) picks in the 2007 NHL Entry Draft from the Los Angeles Kings for defensemen Jaroslav Modry and Johan Fransson, second- and third-round picks (52nd and 82nd overall, Kings selected Oscar Moller and Bryan Cameron) in the 2007 NHL Entry Draft and a first-round pick (later traded to Phoenix via Anaheim; 28th overall) in the 2008 NHL Entry Draft.
-Detroit Red Wings: Acquired right wing Todd Bertuzzi from the Florida Panthers for center Shawn Matthias and a second-round pick (later traded to Nashville; 58th overall) in the 2007 NHL Entry Draft (The conditional pick was dependant on Detroit's playoff performance. It was to be a third-rounder if Bertuzzi played in two-thirds of Detroit's playoff games; a second-rounder if Detroit reached the Western Conference Final and Bertuzzi appeared in two-thirds of Detroit's playoff games; a first-rounder if a) Detroit advanced to the Western Conference Final and Bertuzzi played in two-thirds of Detroit's playoff games and was among Detroit's top-five scorers or b) Detroit advanced to the Stanley Cup Final and Bertuzzi appeared in two-thirds of Detroit's playoff games.) and a conditional pick in the 2008 NHL Entry Draft (if Bertuzzi re-signs with Detroit).
+Detroit Red Wings: Acquired right wing Todd Bertuzzi from the Florida Panthers for center Shawn Matthias and a second-round pick (later traded to Nashville; 58th overall) in the 2007 NHL Entry Draft (The conditional pick was dependant on Detroit's playoff performance. It was to be a third-rounder if Bertuzzi played in two-thirds of Detroit's playoff games, a second-rounder if Detroit reached the Western Conference Final and Bertuzzi appeared in two-thirds of Detroit's playoff games, a first-rounder if a) Detroit advanced to the Western Conference Final and Bertuzzi played in two-thirds of Detroit's playoff games and was among Detroit's top-five scorers or b) Detroit advanced to the Stanley Cup Final and Bertuzzi appeared in two-thirds of Detroit's playoff games.) and a conditional pick in the 2008 NHL Entry Draft (if Bertuzzi re-signs with Detroit).
 Los Angeles Kings: Acquired defenseman Jamie Heward from the Washington Capitals for a conditional pick in the 2008 NHL Entry Draft.
 Minnesota Wild: Acquired center Dominic Moore from the Pittsburgh Penguins for a third-round pick (80th overall, Penguins selected Casey Pierro-Zabotel) in the 2007 NHL Entry Draft; acquired right wing Aaron Voros from the New Jersey Devils for a seventh-round pick (205th overall, Devils selected Jean-Sebastien Berube) in the 2008 NHL Entry Draft.
 Montreal Canadiens: Claimed goaltender Michael Leighton off waivers from the Philadelphia Flyers.
@@ -1100,7 +1099,7 @@ Feb 26, 2007
 Chicago Blackhawks: Acquired left wing Kyle Calder from the Philadelphia Flyers for defenseman Lasse Kukkonen and a third-round pick (66th overall, Flyers selected Garrett Klotz) in the 2007 NHL Entry Draft.
 Detroit Red Wings: Acquired left wing Kyle Calder from the Chicago Blackhawks for center Jason Williams.
 Montreal Canadiens: Waived right wing Aaron Downey.
-New York Islanders: Aquired right wing Richard Zednik from the Washington Capitals for a second-round pick (46th overall, Capitals selected Ted Ruth) in the 2007 NHL Entry Draft.
+New York Islanders: Acquired right wing Richard Zednik from the Washington Capitals for a second-round pick (46th overall, Capitals selected Ted Ruth) in the 2007 NHL Entry Draft.
 Ottawa Senators: Acquired defenseman Lawrence Nycholat from the Washington Capitals for defenseman Andy Hedlund and a sixth-round pick (180th overall, Capitals selected Justin Taylor) in the 2007 NHL Entry Draft.
 Vancouver Canucks: Acquired center Bryan Smolinski from the Chicago Blackhawks for a second-round pick (56th overall, Blackhawks selected Akim Aliu) in the 2007 NHL Entry Draft; acquired defenseman Brent Sopel from the Los Angeles Kings for a second-round pick (previously acquired from Anaheim; 61st overall, Kings selected Wayne Simmonds) in the 2007 NHL Entry Draft and a fourth-round pick (later traded to Buffalo; 101st overall) in the 2008 NHL Entry Draft. Waived center Marc Chouinard.
 
@@ -1116,7 +1115,7 @@ Tampa Bay Lightning: Acquired defenseman Shane O'Brien and a third-round pick (p
 
 Feb 23, 2007
 Anaheim Ducks: Signed right wing Mike Hoffman to a two-year contract.
-Carolina Hurricanes: Acquired right wing Anson Carter from the Columbus Blue Jackets for a fifth-round pick (135th overall; Blue Jackets selected Tomas Kubalik) in the 2008 NHL Entry Draft.
+Carolina Hurricanes: Acquired right wing Anson Carter from the Columbus Blue Jackets for a fifth-round pick (135th overall, Blue Jackets selected Tomas Kubalik) in the 2008 NHL Entry Draft.
 Dallas Stars: Acquired center Shane Endicott from the Anaheim Ducks for future considerations.
 San Jose Sharks: Voided the trade that sent a conditional third-round pick in the 2007 NHL Entry Draft to the New Jersey Devils for left wing Alexander Korolyuk.
 

@@ -26,7 +26,7 @@ Calgary Flames: Re-signed defenseman Mike Commodore.
 Chicago Blackhawks: Re-signed defenseman Jim Vandermeer to a multi-year contract.
 New York Islanders: Re-signed defenseman Tomi Pettinen to a one-year contract.
 New York Rangers: Re-signed defenseman Dale Purinton.
-Ottawa Senators	Signed right wing Pat Kavanagh, who had been with the Vancouver Canucks, to a multi-year contract.
+Ottawa Senators: Signed right wing Pat Kavanagh, who had been with the Vancouver Canucks, to a multi-year contract.
 Philadelphia Flyers: Signed left wing Josh Gratton to a two-year contract.
 Phoenix Coyotes: Re-signed defenseman Derek Morris to a one-year contract.
 Vancouver Canucks: Re-signed goaltender Dan Cloutier and center Brendan Morrison to one-year contracts.
@@ -47,8 +47,8 @@ Tampa Bay Lightning: Re-signed left wing Chris Dingman to a multi-year contract 
 Jul 22, 2004
 Carolina Hurricanes: Re-signed right wing Jesse Boulerice to a one-year contract.
 Chicago Blackhawks: Signed defenseman Jassen Cullimore, who had been with the Tampa Bay Lightning, to a multi-year contract.
-Colorado Avalanche: Re-signed center Dan Hinote to a one-year contract; signed centers Brett McLean, who had been with the Columbus Blue Jackets: Announced defenseman Darrel Scoville exercised his player option for 2004-05.
-Chicago Blackhawks, and Andre Savage, who had been with the Philadelphia Flyers.
+Colorado Avalanche: Re-signed center Dan Hinote to a one-year contract; signed centers Brett McLean, who had been with the Chicago Blackhawks, and Andre Savage, who had been with the Philadelphia Flyers.
+Columbus Blue Jackets: Announced defenseman Darrel Scoville exercised his player option for 2004-05.
 Detroit Red Wings: Re-signed left wing Brendan Shanahan to a one-year contract with a player option for 2005-06.
 Nashville Predators: Signed center Wyatt Smith, defenseman Jamie Allison, left wing Jeremy Stevenson, center Jerred Smithson, who had been with the Los Angeles Kings, and center Cam Severson, who had been with the Anaheim Mighty Ducks.
 New York Islanders: Purchased the Bridgeport Sound Tigers, their AHL affiliate.
@@ -69,7 +69,7 @@ Washington Capitals: Re-signed center Jeff Halpern to a one-year contract.
 
 Jul 19, 2004
 Boston Bruins: Re-signed left wing Sergei Samsonov to a one-year contract.
-Edmonton Oilers: Signed defenseman Kenny Smith, their third-round pick in the 2001 NHL Entry Draft, to a two-year contract; singed left winger Brock Radunske, their third-round pick in the 2002 NHL Entry Draft, to a three-year contract.
+Edmonton Oilers: Signed defenseman Kenny Smith, their third-round pick in the 2001 NHL Entry Draft, to a two-year contract; signed left winger Brock Radunske, their third-round pick in the 2002 NHL Entry Draft, to a three-year contract.
 Minnesota Wild: Re-signed goaltender Manny Fernandez to a one-year contract.
 Montreal Canadiens: Signed right wing Marc-Andre Thinel to a one-year contract.
 Tampa Bay Lightning: Signed center Craig Darby, who had been with the New Jersey Devils.
@@ -401,8 +401,7 @@ Phoenix Coyotes: Signed defenseman Joe Callahan to a multi-year contract.
 
 Mar 9, 2004
 Boston Bruins: Acquired center Brad Boyes and defenseman Andy Delmore from the Buffalo Sabres as part of a three-team trade involving the San Jose Sharks.
-Buffalo Sabres: Acquired defenseman Jeff Jillson from the San Jose Sharks for center Curtis Brown and a ninth-round pick in the 2005 NHL Entry Draft as part of a three-team trade involving the 
-Boston Bruins; acquired right wing Mike Grier from the Washington Capitals for center Jakub Klepis.
+Buffalo Sabres: Acquired defenseman Jeff Jillson from the San Jose Sharks for center Curtis Brown and a ninth-round pick in the 2005 NHL Entry Draft as part of a three-team trade involving the Boston Bruins; acquired right wing Mike Grier from the Washington Capitals for center Jakub Klepis.
 Colorado Avalanche: Acquired goaltender Tommy Salo and a sixth-round pick (168th overall, Avalanche selected Justin Mercier) in the 2005 NHL Entry Draft from the Edmonton Oilers for defenseman Tom Gilbert; acquired center Chris Gratton, defenseman Ossi Vaananen and a second-round pick (44th overall, Avalanche selected Paul Stastny) in the 2005 NHL Entry Draft from the Phoenix Coyotes for defensemen Derek Morris and Keith Ballard.
 Columbus Blue Jackets: Acquired center Brian Holzinger from the Pittsburgh Penguins for center Lasse Pirjeta.
 Dallas Stars: Signed free agent defenseman Lubomir Sekeras for the remainder of the season.

@@ -369,7 +369,7 @@ Calgary Flames: Re-signed center Matthew Lombardi.
 Vancouver Canucks: Re-signed defenseman Kevin Bieksa and right wing Tyler Bouck.
 
 Aug 16, 2006
-Anaheim Mighty Ducks: Signed defenseman Francois Beauchemin to a two-year contract extension.
+Anaheim Ducks: Signed defenseman Francois Beauchemin to a two-year contract extension.
 Philadelphia Flyers: Signed defenseman Nate Guenin to a two-year contract.
 Phoenix Coyotes: Signed right wing Owen Nolan to a one-year contract.
 San Jose Sharks: Renewed their affiliation with the Fresno Falcons of the ECHL; named Marty McSorley television color analyst on FSN Bay Area.
@@ -717,7 +717,7 @@ Phoenix Coyotes: Signed right wing Georges Laraque, who had been with the Edmont
 Jul 4, 2006
 Atlanta Thrashers: Signed goaltender Fred Brathwaite, center Jason Krog and right wing Darren Haydar.
 Edmonton Oilers: Signed center Marty Reasoner, who had been with the Boston Bruins, to a two-year contract.
-Los Angeles Kings   Signed right wing Brian Willsie, who had been with the Washington Capitals, to a two-year contract.
+Los Angeles Kings: Signed right wing Brian Willsie, who had been with the Washington Capitals, to a two-year contract.
 New York Islanders: Signed center Andy Hilbert, who had been with the Pittsburgh Penguins, to a one-year contract.
 Philadelphia Flyers: Signed center Randy Robitaille, who had been with the Minnesota Wild, to a one-year contract.
 Phoenix Coyotes: Signed center Jeremy Roenick, who had been with the Los Angeles Kings, to a one-year contract.
@@ -810,21 +810,21 @@ Chicago Blackhawks: Bought out right wing Matthew Barnaby and left wing Curtis B
 Montreal Canadiens: Re-signed goaltender Cristobal Huet to a two-year contract.
 Philadelphia Flyers: Signed right wing Brad Tapper to a one-year contract.
 Phoenix Coyotes: Acquired defenseman Nick Boynton and a fourth-round pick (later traded to Toronto; 99th overall) in the 2007 NHL Entry Draft from the Boston Bruins for defenseman Paul Mara and a third-round pick (later traded to Anaheim; 63rd overall) in the 2007 NHL Entry Draft.
-San Jose Sharks: Made qualifying offers to the following players: goaltenders Dmitri Patzold and Nolan Schaefer, defensemen Rob Davison, Christian Ehrhoff, Jim Fahey, Doug Murray and Garrett Stafford, centers Marcel Goc, Mark Smith, Tomas Plihal, Grant Stevenson and Craig Valette, and right wings Scott Parker and Patrick Rissmiller.
+San Jose Sharks: Made qualifying offers to goaltenders Dmitri Patzold and Nolan Schaefer, defensemen Rob Davison, Christian Ehrhoff, Jim Fahey, Doug Murray and Garrett Stafford, centers Marcel Goc, Mark Smith, Tomas Plihal, Grant Stevenson and Craig Valette, and right wings Scott Parker and Patrick Rissmiller.
 
 Jun 25, 2006
 Carolina Hurricanes: Re-signed head coach Peter Laviolette and assistant coaches Kevin McCarthy and Jeff Daniels to five-year contracts; promoted McCarthy to associate coach.
 
 Jun 24, 2006
-National Hockey League: Assigned a second-round pick (37th overall, Bruins selected Yuri Alexandrov) in the 2006 NHL Entry Draft to the Boston Bruins as compensation for not signing Lars Jonsson, their first-round pick from the 2000 NHL Entry Draft. Assigned a second-round pick (45th overall, Oilers selected Jeff Petry) in the 2006 NHL Entry Draft to the Edmonton Oilers as compensation for not signing Jesse Niinimaki, their first-round pick from the 2001 NHL Entry Draft. Assigned a second-round pick (48th overall, Kings selected Joe Ryan) in the 2006 NHL Entry Draft to the Los Angeles Kings as compensation for not signing Jens Karlsson, their first-round pick from the 2001 NHL Entry Draft.
 Atlanta Thrashers: Acquired center Niko Kapanen and a seventh-round pick (210th overall, Thrashers selected Will O'Neill) in the 2006 NHL Entry Draft from the Dallas Stars for center Patrik Stefan and defenseman Jaroslav Modry.
-Boston Bruins: Acquired a third-round pick (previously acquired from Phoenix; 71st overall, Bruins selected Brad Marchand) in the 2006 NHL Entry Draft from the New York Islanders for fourth- (later traded to San Jose; 98th overall) and fifth-round (previously acquired from Chicago; 126th overall, Islanders selected Shane Sims) picks in the 2006 NHL Entry Draft.
+Boston Bruins: Acquired a third-round pick (previously acquired from Phoenix; 71st overall, Bruins selected Brad Marchand) in the 2006 NHL Entry Draft from the New York Islanders for fourth- (later traded to San Jose; 98th overall) and fifth-round (previously acquired from Chicago; 126th overall, Islanders selected Shane Sims) picks in the 2006 NHL Entry Draft; received a second-round pick (37th overall, Bruins selected Yuri Alexandrov) in the 2006 NHL Entry Draft as compensation for not signing Lars Jonsson, their first-round pick from the 2000 NHL Entry Draft.
 Calgary Flames: Acquired left wing Alex Tanguay from the Colorado Avalanche for defenseman Jordan Leopold, a second-round pick (59th overall, Avalanche selected Codey Burki) in the 2006 NHL Entry Draft, a second-round-pick (49th overall, Avalanche selected Trevor Cann) in the 2007 NHL Entry Draft and a conditional seventh-round pick in either the 2007 or 2008 NHL Entry Draft.
-Chicago Blackawks: Acquired a third-round pick (76th overall, Blackhawks selected Tony Lagerstrom) in the 2006 NHL Entry Draft from the Toronto Maple Leafs for two fourth-round picks (previously acquired from Columbus via Carolina and from Colorado; 99th and 111th overall, Maple Leafs selected James Reimer and Korbinian Holzer) in the 2006 NHL Entry Draft.
+Chicago Blackhawks: Acquired a third-round pick (76th overall, Blackhawks selected Tony Lagerstrom) in the 2006 NHL Entry Draft from the Toronto Maple Leafs for two fourth-round picks (previously acquired from Columbus via Carolina and from Colorado; 99th and 111th overall, Maple Leafs selected James Reimer and Korbinian Holzer) in the 2006 NHL Entry Draft.
 Colorado Avalanche: Acquired a fourth-round pick (previously acquired from Edmonton; 110th overall, Avalanche selected Kevin Montgomery) in the 2006 NHL Entry Draft from the New York Islanders for fifth- and sixth-round picks (141st and 171st overall, Islanders selected Kim Johansson and Brian Day) in the 2006 NHL Entry Draft.
 Columbus Blue Jackets: Acquired a seventh-round pick (194th overall, Blue Jackets selected Matt Marquardt) in the 2006 NHL Entry Draft from the Los Angeles Kings for a seventh-round pick (188th overall, Kings selected Matt Fillier) in the 2007 NHL Entry Draft.
-Edmonton Oilers: Acquired a third-round pick (75th overall, Oilers selected Theo Peckham) in the 2006 NHL Entry Draft from the Atlanta Thrashers for third- and seventh-round picks (80th and 200th overall, Thrashers selected Michael Forney and Arturs Kulda) in the 2006 NHL Entry Draft.
+Edmonton Oilers: Acquired a third-round pick (75th overall, Oilers selected Theo Peckham) in the 2006 NHL Entry Draft from the Atlanta Thrashers for third- and seventh-round picks (80th and 200th overall, Thrashers selected Michael Forney and Arturs Kulda) in the 2006 NHL Entry Draft; received a second-round pick (45th overall, Oilers selected Jeff Petry) in the 2006 NHL Entry Draft as compensation for not signing Jesse Niinimaki, their first-round pick from the 2001 NHL Entry Draft.
 Florida Panthers: Acquired a fourth-round pick (previously acquired from Nashville; 116th overall, Panthers selected Derrick Lapoint) in the 2006 NHL Entry Draft from the Pittsburgh Penguins for a fourth-round pick (later traded back to Florida; 101st overall) in the 2007 NHL Entry Draft; acquired goaltender Craig Anderson from the Chicago Blackhawks for a sixth-round pick (later traded to Tampa Bay; 160th overall) in the 2008 NHL Entry Draft.
+Los Angeles Kings: Received a second-round pick (48th overall, Kings selected Joe Ryan) in the 2006 NHL Entry Draft as compensation for not signing Jens Karlsson, their first-round pick from the 2001 NHL Entry Draft.
 Minnesota Wild: Acquired center Pavol Demitra from the Los Angeles Kings for center Patrick O'Sullivan and a first-round pick (previously acquired from Edmonton; 17th overall, Kings selected Trevor Lewis) in the 2006 NHL Entry Draft.
 Montreal Canadiens: Acquired a third-round pick (previously acquired from Chicago; 66th overall, Canadiens selected Ryan White) in the 2006 NHL Entry Draft from the Philadelphia Flyers for third- and fourth-round picks (79th and 109th overall, Flyers selected Jonathan Matsumoto and Jakub Kovar) in the 2006 NHL Entry Draft.
 New York Rangers: Acquired a fourth-round pick (104th overall, Rangers selected David Kveton) in the 2006 NHL Entry Draft from the Los Angeles Kings for fourth- and fifth-round picks (114th and 144th overall, Kings selected Niclas Andersen and Martin Nolet) in the 2006 NHL Entry Draft. Acquired a fifth-round pick (137th overall, Rangers selected Tomas Zaborsky) in the 2006 NHL Entry Draft from the Washington Capitals for a fourth-round pick (108th overall, Capitals selected Brett Bruneteau) in the 2007 NHL Entry Draft.
@@ -839,10 +839,7 @@ Ottawa Senators: Acquired a third-round pick (68th overall, Senators selected Er
 Toronto Maple Leafs: Named Jeff Jackson director of hockey administration and Dave Morrison head of amateur scouting.
 Vancouver Canucks: Acquired goaltender Roberto Luongo, defenseman Lukas Krajicek and a sixth-round pick (163rd overall, Canucks selected Sergei Shirokov) in the 2006 NHL Entry Draft from the Florida Panthers for right wing Todd Bertuzzi, goaltender Alexander Auld, defenseman Bryan Allen and a conditional sixth-round pick (condition was not fulfilled finally) in the 2007 NHL Entry Draft. Acquired a third-round pick (82nd overall, Canucks selected Daniel Rahimi) in the 2006 NHL Entry Draft and a second-round pick (later traded to Los Angeles; 61st overall) in the 2007 NHL Entry Draft from the Anaheim Mighty Ducks as compensation for the hiring of head coach Randy Carlyle.
 
-
-
 Jun 21, 2006
-National Hockey League: Approved the sales of the St. Louis Blues and the Phoenix Coyotes.
 Atlanta Thrashers: Re-signed left wings Brad Larsen and Eric Boulton and center Cory Larose.
 Boston Bruins: Named Don Sweeney director of player development.
 Minnesota Wild: Re-signed defenseman Kurtis Foster to a one-year contract.
@@ -877,7 +874,7 @@ Anaheim Mighty Ducks: Re-signed left wing Travis Moen to a one-year contract.
 Dallas Stars: Exercised their one-year contract option on right wing Jere Lehtinen. Re-signed left wing Niklas Hagman to a two-year contract.
 Minnesota Wild: Named Chris Snow director of hockey operations. Acquired defenseman Petteri Nummelin from the Atlanta Thrashers for a third-round pick (previously acquired from Edmonton; 67th overall, Thrashers selected Spencer Machacek) in the 2007 NHL Entry Draft; signed Nummelin to a multi-year contract.
 Dallas Stars: Acquired center Mike Green from the New York Rangers for a conditional pick in tht 2008 NHL Entry Draft.
-Tampa Bay Lightning-Signed center Eric Perrin to a one-year contract.
+Tampa Bay Lightning: Signed center Eric Perrin to a one-year contract.
 Vancouver Canucks: Acquired right wing Tommi Santala and a fifth-round pick (145th overall, Canucks selected Charles-Antoine Messier) in the 2007 NHL Entry Draft from the Atlanta Thrashers for a fourth-round pick (previously acquired from Atlanta; 115th overall, Thrashers selected Niklas Lucenius) in the 2007 NHL Entry Draft.
 
 Jun 13, 2006
@@ -1127,8 +1124,6 @@ Philadelphia Flyers: Waived right wing Turner Stevenson.
 Phoenix Coyotes: Re-signed center Steven Reinprecht and defenseman Derek Morris to three-year contracts.
 San Jose Sharks: Acquired left wing Ville Nieminen from the New York Rangers for a third-round pick (later traded to Anaheim; 83rd overall) in the 2006 NHL Entry Draft.
 Toronto Maple Leafs: Acquired defenseman Luke Richardson from the Columbus Blue Jackets for a fifth-round pick (136th overall, Blue Jackets selected Nick Sucharski) in the 2006 NHL Entry Draft; acquired right wing Aleksander Suglobov from the New Jersey Devils for defenseman Ken Klee. Signed left wing Alex Foster.
-
------
 
 Mar 7, 2006
 New York Islanders: Signed defenseman Radek Martinek to a two-year contract extension, through the 2007-08 season.
