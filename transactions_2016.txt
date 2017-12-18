@@ -527,7 +527,7 @@ Carolina Hurricanes: Signed left wing Viktor Stalberg, who had been with the New
 Chicago Blackhawks: Signed defenseman Brian Campbell, who had been with the Florida Panthers, to a one-year contract; signed center Sam Carrick, who had been with the Toronto Maple Leafs, to a one-year contract; signed left wing Pierre-Cedric Labrie to a one-year contract; signed left wing Spencer Abbott to a one-year contract.
 Colorado Avalanche: Signed defenseman Patrick Wiercioch, who had been with the Ottawa Senators, to a one-year contract; signed center Joe Colborne, who had been with the Calgary Flames, to a two-year contract; signed defenseman Fedor Tyutin, who had been with the Columbus Blue Jackets, to a one-year contract; signed left wing Joe Whitney, who had been with the New York Islanders, to a one-year contract; signed right wing Mike Sislo and center Jim O'Brien, who had been with the New Jersey Devils, to one-year contracts; signed left wing Turner Elson, who had been with the Calgary Flames, to a one-year contract; signed goaltender Jeremy Smith, who had been with the Boston Bruins, to a one-year contract; signed defenseman Ryan Stanton, who had been with the Washington Capitals, to a one-year contract; re-signed center Reid Petryk to a two-year contract.
 Columbus Blue Jackets: Signed center Dante Salituro to a three-year contract; signed right wing Trent Vogelhuber to a two-year contract.
-Dallas Stars: Signed defenseman Dan Hamhuis, who had been with the Vancouver Canucks, to a two-year contract; re-signed right wing Patrick Eaves to a one-year contract; signed defenseman Andrew Bodnarchuk, who had been with the Colorado Avalanche, to two-year contract; signed defenseman Dustin Stevenson to a one-year contract.
+Dallas Stars: Signed defenseman Dan Hamhuis, who had been with the Vancouver Canucks, to a two-year contract; re-signed right wing Patrick Eaves to a one-year contract; signed defenseman Andrew Bodnarchuk, who had been with the Colorado Avalanche, to a two-year contract; signed defenseman Dustin Stevenson to a one-year contract.
 Detroit Red Wings: Signed center Frans Nielsen, who had been with the New York Islanders, to a six-year contract; re-signed center Darren Helm to a five-year contract; re-signed defenseman Alexey Marchenko to a two-year contract; signed left wing Matt Lorito to a two-year contract; signed left wing Thomas Vanek, who had been with the Minnesota Wild, to a one-year contract; signed center Steve Ott, who had been with the St. Louis Blues, to a one-year contract; signed center Ben Street, who had been with the Colorado Avalanche, to a one-year contract.
 Edmonton Oilers: Signed left wing Milan Lucic, who had been with the Los Angeles Kings, to a seven-year contract; signed goaltender Jonas Gustavsson, who had been with the Boston Bruins, to a one-year contract; signed defenseman Mark Fraser, who had been with the Ottawa Senators, to a one-year contract; bought out the contract of left wing Lauri Korpikoski.
 Los Angeles Kings: Signed defenseman Tom Gilbert, who had been with the Montreal Canadiens, to a one-year contract; signed goaltender Jeff Zatkoff, who had been with the Pittsburgh Penguins, to a two-year contract; signed center Michael Latta, who had been with the Washington Capitals, to a one-year contract; signed defenseman Zach Trotman, who had been with the Boston Bruins, to a one-year contract; signed right wing Teddy Purcell, who had been with the Florida Panthers, to a one-year contract.
@@ -581,7 +581,7 @@ Vancouver Canucks: Bought out the contract of left wing Chris Higgins.
 Jun 27, 2016
 Anaheim Ducks: Signed right wing Corey Tropp to a two-year contract extension; signed goaltender Dustin Tokarski to a one-year contract extension.
 Arizona Coyotes: Signed goaltender Louis Domingue to a multi-year contract extension.
-Calgary Flames: Acquired right wing Alex Chiasson from the Ottawa Senators for defenseman Patrick Sieloff; signed Chiasson to a one-year contract.
+Calgary Flames: Acquired right wing Alex Chiasson from the Ottawa Senators for defenseman Patrick Sieloff; signed right wing Alex Chiasson to a one-year contract.
 Detroit Red Wings: Re-signed left wing Drew Miller to a one-year contract.
 Edmonton Oilers: Re-signed right wing Iiro Pakarinen to a one-year contract.
 Montreal Canadiens: Signed right wing Andrew Shaw to a six-year contract extension.
@@ -867,7 +867,7 @@ Ottawa Senators: Announced the resignation of general manager Bryan Murray; name
 
 Apr 9, 2016
 Carolina Hurricanes: Signed center Nicolas Roy to a three-year contract.
-San Jose Sharks: Signed center Danny O'Regan; signed defenseman Michael Brodzinski.
+San Jose Sharks: Signed defenseman Michael Brodzinski.
 
 Apr 8, 2016
 Anaheim Ducks: Signed left wing Kevin Roy to a two-year contract.
