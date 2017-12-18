@@ -352,7 +352,7 @@ New York Islanders: Named Gilles Lefebvre goaltending coach.
 
 Aug 22, 2006
 Boston Bruins: Re-signed center Patrice Bergeron to a multi-year contract.
-Columbus Blue Jackets: Signed center Eric Boguniecki, who had been with the Pittsburgh Penguins, to a two-way contract.
+Columbus Blue Jackets: Signed center Eric Boguniecki, who had been with the Pittsburgh Penguins.
 
 Aug 21, 2006
 Nashville Predators: Signed defenseman Alex Henry, who had been with the Minnesota Wild, to a one-year contract; named Shawn Dineen scout.
@@ -589,7 +589,7 @@ Phoenix Coyotes: Re-signed goaltender Philippe Sauve, defenseman Matthew Spiller
 
 Jul 15, 2006
 San Jose Sharks: Re-signed defenseman Doug Murray to a three-year contract, center Marcel Goc to a two-year contract and defensemen Jim Fahey and Garrett Stafford, centers Tomas Plihal and Craig Valette and right wing Grant Stevenson to one-year contracts.
-Tampa Bay Lightning: Re-signed center Ryan Craig to a two-way contract; signed left wing Eric Healey, who had been with the Boston Bruins, to a two-way contract.
+Tampa Bay Lightning: Re-signed center Ryan Craig to a two-way contract; signed left wing Eric Healey, who had been with the Boston Bruins.
 Washington Capitals: Re-signed right wing Boyd Gordon to a two-year contract; re-signed defenseman Steve Eminger and center Kris Beech.
 
 Jul 14, 2006
@@ -666,7 +666,7 @@ Detroit Red Wings: Re-signed right wing Dan Cleary to a two-year contract.
 Edmonton Oilers: Acquired the rights to defenseman Jan Hejda from the Buffalo Sabres for a seventh-round pick (187th overall, Sabres selected Nick Eno) in the 2007 NHL Entry Draft.
 Los Angeles Kings: Named Mike Johnston associate coach, Jamie Kompon assistant coach, Bill Ranford goaltending coach and Nelson Emerson video and player development consultant; signed defensemen Kevin Dallman and Brendan Buckley to two-year contracts.
 Minnesota Wild: Re-signed defenseman Brent Burns to a multi-year contract.
-Montreal Canadiens: Re-signed center Chris Higgins to a one-year contract; signed center Mathieu Aubin and right wing Matt D'Agostini to three-year contracts and center Mikhail Grabovski to a two-year contract.
+Montreal Canadiens: Re-signed center Chris Higgins to a one-year contract; signed center Mathieu Aubin and right wing Matt D'Agostini to three-year contracts; signed center Mikhail Grabovski to a two-year contract.
 San Jose Sharks: Acquired center Mark Bell from the Chicago Blackhawks for defenseman Tom Preissing and center Josh Hennessy; signed defenseman Patrick Traverse and right wing Matthieu Darche.
 Washington Capitals: Re-signed defenseman Shaone Morrisonn to a two-year contract.
 
@@ -872,7 +872,7 @@ New York Rangers: Re-signed right wing Colton Orr.
 Jun 14, 2006
 Anaheim Mighty Ducks: Re-signed left wing Travis Moen to a one-year contract.
 Dallas Stars: Exercised their one-year contract option on right wing Jere Lehtinen. Re-signed left wing Niklas Hagman to a two-year contract.
-Minnesota Wild: Named Chris Snow director of hockey operations. Acquired defenseman Petteri Nummelin from the Atlanta Thrashers for a third-round pick (previously acquired from Edmonton; 67th overall, Thrashers selected Spencer Machacek) in the 2007 NHL Entry Draft; signed Nummelin to a multi-year contract.
+Minnesota Wild: Named Chris Snow director of hockey operations; acquired defenseman Petteri Nummelin from the Atlanta Thrashers for a third-round pick (previously acquired from Edmonton; 67th overall, Thrashers selected Spencer Machacek) in the 2007 NHL Entry Draft; signed defenseman Petteri Nummelin to a multi-year contract.
 Dallas Stars: Acquired center Mike Green from the New York Rangers for a conditional pick in tht 2008 NHL Entry Draft.
 Tampa Bay Lightning: Signed center Eric Perrin to a one-year contract.
 Vancouver Canucks: Acquired right wing Tommi Santala and a fifth-round pick (145th overall, Canucks selected Charles-Antoine Messier) in the 2007 NHL Entry Draft from the Atlanta Thrashers for a fourth-round pick (previously acquired from Atlanta; 115th overall, Thrashers selected Niklas Lucenius) in the 2007 NHL Entry Draft.
@@ -897,12 +897,12 @@ Jun 6, 2006
 Minnesota Wild: Signed defenseman Peter Ratchuk.
 
 Jun 5, 2006
-Chicago Blackhawks: Signed left wing Bryan Bickell and right wing Troy Brouwer to three-year contracts and center Jonas Nordqvist to a one-year contract.
+Chicago Blackhawks: Signed left wing Bryan Bickell and right wing Troy Brouwer to three-year contracts; signed center Jonas Nordqvist to a one-year contract.
 Montreal Canadiens: Re-signed center Steve Begin to a three-year contract, center Garth Murray to a two-year contract and right wing Aaron Downey to a one-year contract.
 Nashville Predators: Promoted Paul Fenton to assistant general manager; named Michael Santos director of hockey operations.
 New Jersey Devils: Signed defensemen Mark Fraser and Sean Zimmerman and left wing Patrick Davis.
 Philadelphia Flyers: Announced the resignation of assistant coach Wayne Fleming; named John Stevens assistant coach.
-Phoenix Coyotes: Signed Ulf Samuelsson to a multi-year contract and named him assistant coach; announced that the contract of associate coach Rick Bowness will not be renewed.
+Phoenix Coyotes: Named Ulf Samuelsson assistant coach; announced that the contract of associate coach Rick Bowness will not be renewed.
 
 Jun 2, 2006
 San Jose Sharks: Signed defenseman Marc-Edouard Vlasic, goaltender Thomas Greiß and center Michal Macho.
@@ -1026,7 +1026,7 @@ New York Rangers: Signed center Lauri Korpikoski, right wing Greg Moore and left
 Toronto Maple Leafs: Re-signed goaltender Jean-Sebastien Aubin to a one-year contract.
 
 Apr 11, 2006
-Washington Capitals: Signed left wing Alexander Semin to a two-year contract, beginning next season.
+Washington Capitals: Signed left wing Alexander Semin to a two-year contract.
 
 Apr 10, 2006
 Buffalo Sabres: Extended their minor-league affiliation with Rochester of the AHL for one year.

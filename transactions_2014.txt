@@ -501,7 +501,7 @@ Washington Capitals: Signed center Kris Newbury, who had been with the Philadelp
 Jul 3, 2014
 Buffalo Sabres: Signed defenseman Tyson Strachan, who had been with the Washington Capitals, to a one-year contract.
 Calgary Flames: Signed defenseman Sena Acolatse, who had been with the San Jose Sharks, to a one-year contract; re-signed right wing Paul Byron to a one-year contract.
-Carolina Hurricanes: Signed defenseman Tim Gleason, who had been with the Toronto Maple Leafs, to a one-year contract; signed center Ben Holmstrom, who had been with the Philadelphia Flyers; signed defenseman Michal Jordan to a one-year contract; re-signed right wing Jared Staal to a one-year contract.
+Carolina Hurricanes: Signed defenseman Tim Gleason, who had been with the Toronto Maple Leafs, to a one-year contract; signed center Ben Holmstrom; signed defenseman Michal Jordan to a one-year contract; re-signed right wing Jared Staal to a one-year contract.
 New York Rangers: Signed center Nick Tarnasky, who had been with the Montreal Canadiens, to a one-year contract.
 Ottawa Senators: Signed defenseman Aaron Johnson, who had been with the New York Rangers, to a one-year contract.
 Pittsburgh Penguins: Re-signed center Zach Sill to a one-year contract.
@@ -609,7 +609,7 @@ St. Louis Blues: Re-signed center Patrik Berglund to a three-year contract.
 
 Jun 25, 2014
 Detroit Red Wings: Re-signed goaltender Jonas Gustavsson to a one-year contract.
-Edmonton Oilers: Acquired defenseman Nikita Nikitin from the Columbus Blue Jackets for a fifth-round pick (previously acquired from Columbus; 137th overall, Blue Jackets selected Tyler Bird) in the 2014 NHL Entry Draft; signed Nikitin to a two-year contract.
+Edmonton Oilers: Acquired defenseman Nikita Nikitin from the Columbus Blue Jackets for a fifth-round pick (previously acquired from Columbus; 137th overall, Blue Jackets selected Tyler Bird) in the 2014 NHL Entry Draft; signed defenseman Nikita Nikitin to a two-year contract.
 Los Angeles Kings: Re-signed left wing Marian Gaborik to a seven-year contract.
 Pittsburgh Penguins: Named Mike Johnston head coach; named Rick Tocchet assistant coach.
 San Jose Sharks: Signed center Travis Oleksuk to a one-year contract.
@@ -757,7 +757,7 @@ San Jose Sharks: Named Larry Robinson associate coach and director of player dev
 Tampa Bay Lightning: Re-signed center Tyler Johnson to a three-year contract.
 
 May 22, 2014
-New York Islanders: Signed goaltender Jaroslav 3 to a four-year contract.
+New York Islanders: Signed goaltender Jaroslav Halak to a four-year contract.
 
 May 21, 2014
 Tampa Bay Lightning: Signed defenseman Dylan Blujus to a three-year contract.
@@ -935,7 +935,7 @@ San Jose Sharks: Signed right wing Ryan Carpenter.
 
 Mar 25, 2014
 Anaheim Ducks: Signed defenseman Josh Manson to a two-year contract.
-Toronto Maple Leafs: Signed defenseman Eric Knodel to a one-year contract, commencing at the start of the 2014-15 season.
+Toronto Maple Leafs: Signed defenseman Eric Knodel to a one-year contract.
 
 Mar 24, 2014
 Carolina Hurricanes: Signed defenseman Justin Faulk to a six-year contract extension.

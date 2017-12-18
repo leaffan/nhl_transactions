@@ -191,7 +191,7 @@ Toronto Maple Leafs: Announced the retirement of goaltender Olaf Kolzig.
 
 Sep 22, 2009
 Buffalo Sabres: Released defenseman Ryan Stokes and goalie Glenn Fisher.
-Los Angeles Kings: Signed with left wing Kyle Clifford to a three-year contract.
+Los Angeles Kings: Signed left wing Kyle Clifford to a three-year contract.
 
 Sep 21, 2009
 Colorado Avalanche: Signed center Ryan O'Reilly to a three-year contract.
@@ -206,7 +206,7 @@ Sep 19, 2009
 New York Rangers: Agreed to terms with center Brandon Dubinsky. 
 
 Sep 18, 2009
-Toronto Maple Leafs: Acquired right wing Phil Kessel from the Boston Bruins for first- (2nd overall, Bruins selected Tyler Seguin) and second-round (Toronto's own pick, previously re-acquired from Chicago via Montreal; 32nd overall, Bruins selected Jared Knight) picks in the 2010 NHL Entry Draft and a first-round pick (9th overall, Bruins selected Dougie Hamilton) in the 2011 NHL Entry Draft; signed Kessel to a five-year contract.
+Toronto Maple Leafs: Acquired right wing Phil Kessel from the Boston Bruins for first- (2nd overall, Bruins selected Tyler Seguin) and second-round (Toronto's own pick, previously re-acquired from Chicago via Montreal; 32nd overall, Bruins selected Jared Knight) picks in the 2010 NHL Entry Draft and a first-round pick (9th overall, Bruins selected Dougie Hamilton) in the 2011 NHL Entry Draft; signed right wing Phil Kessel to a five-year contract.
 
 Sep 17, 2009
 Minnesota Wild: Signed right wing Petr Sykora, who had been with the Pittsburgh Penguins.
@@ -407,7 +407,7 @@ Atlanta Thrashers: Signed defensemen Scott Lehman and Grant Lewis, and center Ti
 Calgary Flames: Acquired defenseman Keith Seabrook from the Washington Capitals for a seventh-round pick in the 2013 NHL Entry Draft.
 Los Angeles Kings: Re-signed defenseman Jack Johnson to a two-year contract.
 Minnesota Wild: Signed right wings Duncan Milroy, Jon DiSalvatore, and goaltender Wade Dubielewicz to one-year contracts.
-New Jersey Devils: Signed defenseman Cory Murphy, who had been with the Tampa Bay Lightning, to a two-way contract.
+New Jersey Devils: Signed defenseman Cory Murphy, who had been with the Tampa Bay Lightning.
 San Jose Sharks: Named Matt Shaw assistant coach.
 
 Jul 16, 2009
@@ -527,7 +527,7 @@ New York Islanders: Signed center Greg Moore, left wing Matt Moulson, right wing
 New York Rangers: Signed left wing Chris Higgins.
 Ottawa Senators: Signed right wing Alex Kovalev, who had been with the Montreal Canadiens, to a two-year contract.
 St. Louis Blues: Re-signed right wing B.J. Crombeen.
-Toronto Maple Leafs: Signed center Nazem Kadri, their first round pick in the 2009 NHL Entry Draft, to a three-year contract; signed defenseman Francois Beauchemin to a three-year contract; re-signed right wing Ben Ondrus and left wing Ryan Hamilton to one-year contracts; signed center Tim Brent, who had been with the Chicago Blackhawks, to a one year contract; signed defenseman Jay Rosehill to a two-year contract; signed right wing Richard Greenop to a three-year contract.
+Toronto Maple Leafs: Signed center Nazem Kadri, their first round pick in the 2009 NHL Entry Draft, to a three-year contract; signed defenseman Francois Beauchemin to a three-year contract; re-signed right wing Ben Ondrus and left wing Ryan Hamilton to one-year contracts; signed center Tim Brent, who had been with the Chicago Blackhawks, to a one-year contract; signed defenseman Jay Rosehill to a two-year contract; signed right wing Richard Greenop to a three-year contract.
 Vancouver Canucks: Signed goaltender Andrew Raycroft, who had been with the Colorado Avalanche; re-signed defenseman Shane O'Brien to a one-year contract.
 
 Jul 5, 2009
@@ -575,7 +575,7 @@ Calgary Flames: Re-signed defenseman Adam Pardy to a two-year contract; named Ro
 Carolina Hurricanes: Re-signed right wing Erik Cole to a two-year contract; signed right wing Patrick Dwyer and center Michael Ryan.
 Chicago Blackhawks: Signed right wing Marian Hossa, who had been with the Detroit Red Wings, to a twelve-year contract; signed left wing Tomas Kopecky, who had been with the Detroit Red Wings, to a two-year contract
 Colorado Avalanche: Signed goaltender Craig Anderson, who had been with the Florida Panthers, to a two-year contract; signed left wing David Koci, who had been with the Tampa Bay Lightning, 
-Columbus Blue Jackets: Signed center Samuel Pahlsson, who had been with the Chicago Blackhawks, to three-year contract; signed defenseman Brent Regner to a three-year contract.
+Columbus Blue Jackets: Signed center Samuel Pahlsson, who had been with the Chicago Blackhawks, to a three-year contract; signed defenseman Brent Regner to a three-year contract.
 Edmonton Oilers: Signed goaltender Nikolai Khabibulin, who had been with the Chicago Blackhawks, to a four-year contract.
 Florida Panthers: Re-signed left wing David Booth to a six-year contract; re-signed right wing Radek Dvorak to a two-year contract; signed goaltender Scott Clemmensen, who had been with the New Jersey Devils, to a three-year contract; signed defenseman Ville Koistinen, who had been with the Nashville Predators, to a two-year contract.
 Minnesota Wild: Signed defenseman Greg Zanon, who had been with the Nashville Predators, to a three-year contract.
@@ -676,7 +676,7 @@ New Jersey Devils: Announced the resignation of head coach Brent Sutter.
 
 Jun 8, 2009
 Atlanta Thrashers: Re-signed center Marty Reasoner to a two-year contract.
-Chicago Blackhawks: Signed left wing Rob Klinkhammer, defensemen Jonathan Carlsson and Brian Connelly and goaltender Alec Richards to entry-level contracts.
+Chicago Blackhawks: Signed left wing Rob Klinkhammer, defensemen Jonathan Carlsson and Brian Connelly and goaltender Alec Richards.
 
 Jun 5, 2009
 Calgary Flames: Signed goaltender Curtis McElhinney.
@@ -698,19 +698,19 @@ Ottawa Senators: Signed right wing Ryan Keller to a one-year contract.
 
 May 31, 2009
 Dallas Stars: Named Joe Nieuwendyk general manager.
-Edmonton Oilers: Signed center Milan Kytnar to a three-year entry level contract.
+Edmonton Oilers: Signed center Milan Kytnar to a three-year contract.
 
 May 29, 2009
 Calgary Flames: Signed left wing Kyle Greentree.
-Carolina Hurricanes: Signed left wing Chris Terry to a three-year entry-level contract.
+Carolina Hurricanes: Signed left wing Chris Terry to a three-year contract.
 
 May 28, 2009
-Edmonton Oilers: Signed defenseman Alex Plante to an entry-level contract.
+Edmonton Oilers: Signed defenseman Alex Plante.
 
 May 27, 2009
 Montreal Canadiens: Signed center Mikael Johansson to a two-year contract.
 New York Rangers: Signed right wing Andres Ambuhl.
-Pittsburgh Penguins: Signed defenseman Robert Bortuzzo to a three-year entry level contract.
+Pittsburgh Penguins: Signed defenseman Robert Bortuzzo to a three-year contract.
 Vancouver Canucks: Signed center Rick Rypien to a two-year contract extension.
 
 May 26, 2009
@@ -727,29 +727,29 @@ Minnesota Wild: Named Chuck Fletcher general manager.
 Pittsburgh Penguins: Promoted Jason Botterill to assistant general manager.
 
 May 21, 2009
-Los Angeles Kings: Signed left wing Dwight King ton a three-year entry-level contract.
+Los Angeles Kings: Signed left wing Dwight King to a three-year contract.
 
 May 20, 2009
 New York Rangers: Signed defenseman Ilkka Heikkinen.
 
 May 19, 2009
-Edmonton Oilers: Signed defenseman Johan Motin to a three-year entry level contract.
+Edmonton Oilers: Signed defenseman Johan Motin to a three-year contract.
 
 May 14, 2009
-Washington Capitals: Signed center Anton Gustafsson to a three-year entry-level contract.
+Washington Capitals: Signed center Anton Gustafsson to a three-year contract.
 
 May 13, 2009
-Boston Bruins: Signed center Jamie Arniel to an entry-level contract.
+Boston Bruins: Signed center Jamie Arniel.
 Montreal Canadiens: Signed defenseman P.K. Subban to a three-year contract and defenseman Andre Benoit to a one-year contract.
-Tampa Bay Lightning: Signed center Mitch Fadden to a three-year entry level contract.
+Tampa Bay Lightning: Signed center Mitch Fadden to a three-year contract.
 
 May 11, 2009
-Buffalo Sabres: Signed defenseman Tyler Myers to a three-year entry level contract.
-Colorado Avalanche: Signed defenseman Cameron Gaunce and goaltender Trevor Cann to entry-level contracts.
+Buffalo Sabres: Signed defenseman Tyler Myers to a three-year contract.
+Colorado Avalanche: Signed defenseman Cameron Gaunce and goaltender Trevor Cann.
 Tampa Bay Lightning: Promoted Rick Tocchet to head coach and signed him to a multi-year contract.
 
 May 7, 2009
-Ottawa Senators: Signed defenseman Erik Karlsson to an entry-level contract.
+Ottawa Senators: Signed defenseman Erik Karlsson.
 
 May 5, 2009
 New York Rangers: Signed left wing Jordan Owens.
@@ -759,26 +759,26 @@ May 4, 2009
 New York Rangers: Announced the retirement of left wing Markus Naslund.
 
 May 1, 2009
-San Jose Sharks: Signed left wing John McCarthy to a two-year entry-level contract.
+San Jose Sharks: Signed left wing John McCarthy to a two-year contract.
 
 Apr 28, 2009
 Pittsburgh Penguins: Named Dan Bylsma head coach and signed him to a multi-year contract.
 
 Apr 24, 2009
-Minnesota Wild: Signed right wing Carson McMillan to an entry-level contract.
+Minnesota Wild: Signed right wing Carson McMillan.
 
 Apr 22, 2009
-San Jose Sharks: Signed left wing Kevin Henderson to an entry-level contract.
+San Jose Sharks: Signed left wing Kevin Henderson.
 
 Apr 20, 2009
-Dallas Stars: Signed defenseman Philip Larsen to a three-year entry-level contract.
+Dallas Stars: Signed defenseman Philip Larsen to a three-year contract.
 Minnesota Wild: Re-signed defenseman John Scott to a one-year contract.
 
 Apr 18, 2009
 Buffalo Sabres: Signed defensemen T.J. Brennan and Drew Schiestel to three-year contracts.
 
 Apr 17, 2009
-Nashville Predators: Signed center Colin Wilson to a three-year entry-level contract.
+Nashville Predators: Signed center Colin Wilson to a three-year contract.
 New York Rangers: Signed defenseman Matt Gilroy.
 
 Apr 16, 2009
@@ -807,11 +807,11 @@ Vancouver Canucks: Signed defenseman Evan Oberg.
 Apr 9, 2009
 Calgary Flames: Re-signed left wing David Moss to a three-year contract.
 New York Islanders: Signed defenseman Mark Katic and left wing Justin DiBenedetto to three-year contracts.
-Philadelphia Flyers: Signed defenseman David Sloane to an amateur tryout contract.
-Tampa Bay Lightning: Signed defenseman Geoff Kinrade to an amateur tryout contract.
+Philadelphia Flyers: Signed defenseman David Sloane.
+Tampa Bay Lightning: Signed defenseman Geoff Kinrade.
 
 Apr 8, 2009
-Ottawa Senators: Signed coach Cory Clouston to a two-year contract.
+Ottawa Senators: Signed head coach Cory Clouston to a two-year contract.
 
 Apr 7, 2009
 Anaheim Ducks: Signed right wing Dan Sexton to a two-year contract.
@@ -819,7 +819,7 @@ New York Islanders: Signed center Doug Weight to a one-year contract extension.
 
 Apr 6, 2009
 Detroit Red Wings: Signed center Francis Pare.
-Minnesota Wild: Signed defenseman Marco Scandella to an entry-level contract.
+Minnesota Wild: Signed defenseman Marco Scandella.
 
 Apr 3, 2009
 Boston Bruins: Signed goaltender Tim Thomas to a four-year contract extension.
@@ -834,7 +834,7 @@ Boston Bruins: Signed right wing Yannick Riendeau.
 Washington Capitals: Signed defenseman Joe Finley to a two-year contract.
 
 Apr 1, 2009
-Washington Capitals: Signed left winf Stefan Della Rovere to a three-year contract.
+Washington Capitals: Signed left wing Stefan Della Rovere to a three-year contract.
 
 Mar 31, 2009
 Anaheim Ducks: Signed center MacGregor Sharp to a two-year contract.

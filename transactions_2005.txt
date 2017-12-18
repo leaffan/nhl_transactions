@@ -301,7 +301,7 @@ Washington Capitals: Signed center Dave Steckel to a two-year contract; renewed 
 Aug 24, 2005
 Anaheim Mighty Ducks: Signed defenseman Ladislav Smid; re-signed center Samuel Pahlsson to a two-year contract.
 Carolina Hurricanes: Signed left wing Niklas Nordgren to a one-year contract.
-Dallas Stars: Signed center Jussi Jokinen to a two-year contract, left wing Loui Eriksson, goaltender Tobias Stephan and defenseman Nicklas Grossman to three-year contracts and defenseman Dan Jancevski to a one-year contract.
+Dallas Stars: Signed center Jussi Jokinen to a two-year contract; signed left wing Loui Eriksson, goaltender Tobias Stephan and defenseman Nicklas Grossman to three-year contracts; signed defenseman Dan Jancevski to a one-year contract.
 Detroit Red Wings: Signed defenseman Andreas Lilja, who had been with the Nashville Predators, and center Don MacLean, who had been with the Columbus Blue Jackets, to one-year contracts; re-signed center Matt Ellis to a two-year contract.
 Los Angeles Kings: Signed defenseman Joey Mormina to a multi-year contract.
 Minnesota Wild: Signed left wing Peter Olvecky.
@@ -322,7 +322,7 @@ Florida Panthers: Named Phil Myre goaltending coach-scout, Pierre Groulx video c
 Los Angeles Kings: Signed right wing Lauri Tukonen, their first-round pick in the 2004 NHL Entry Draft, to a multi-year contract.
 Nashville Predators: Signed goaltender Pekka Rinne.
 New York Islanders: Signed center Petteri Nokelainen to a three-year contract.
-Ottawa Senators: Re-signed right wing Marian Hossa to a multi-year contract; acquired right wing Dany Heatley from the Atlanta Thrashers for Hossa and defenseman Greg de Vries; signed Heatley to a three-year contract.
+Ottawa Senators: Re-signed right wing Marian Hossa to a multi-year contract; acquired right wing Dany Heatley from the Atlanta Thrashers for Hossa and defenseman Greg de Vries; signed right wing Dany Heatley to a three-year contract.
 Phoenix Coyotes: Acquired left wing Mike Leclerc from the Anaheim Mighty Ducks for a fourth-round pick (93rd overall, Ducks selected Steven Kampfer) in the 2007 NHL Entry Draft.
 Tampa Bay Lightning: Signed center John Toffey and right wing Marek Kvapil to multi-year contracts.
 Vancouver Canucks: Signed left wing Josh Green, who had been with the New York Rangers.
@@ -385,7 +385,7 @@ Colorado Avalanche: Re-signed goaltenders David Aebischer, Peter Budaj, Tom Laws
 Columbus Blue Jackets: Signed center Andrew Murray.
 Detroit Red Wings: Signed defenseman Andy Delmore, who had been with the Boston Bruins, to a one-year contract; re-signed right wing Darryl Bootland to a one-year contract; announced that center Jason Williams accepted his one-year qualifying offer.
 Edmonton Oilers: Re-signed left wing Raffi Torres to a two-year contract.
-Los Angeles Kings: Signed left wing Dany Roussin to a multi-year entry level contract.
+Los Angeles Kings: Signed left wing Dany Roussin to a multi-year contract.
 Minnesota Wild: Re-signed right wing Kyle Wanvig to a one-year contract; signed right wing Joey Tetarenko, who had been with the Carolina Hurricanes.
 Montreal Canadiens: Re-signed center Tomas Plekanec to a two-year contract; signed defenseman Johnathan Aitken, who had been with the Vancouver Canucks, to a one-year contract.
 Nashville Predators: Re-signed right wing Steve Sullivan to a four-year contract and defenseman Dan Hamhuis to a one-year contract.
@@ -558,10 +558,10 @@ Detroit Red Wings: Re-signed defenseman Chris Chelios to a one-year contract and
 Florida Panthers: Named Andrew O'Brien strength and conditioning coach and Robert McLean equipment manager.
 Los Angeles Kings: Acquired center Jeremy Roenick and a third-round pick (previously acquired from Nashville; 86th overall, Kings selected Bud Holloway) in the 2006 NHL Entry Draft from the Philadelphia Flyers for future considerations.
 Minnesota Wild: Signed defensemen Scott Ferguson, who had been with the Edmonton Oilers, and Kurtis Foster, who had been with the Anaheim Mighty Ducks.
-Nashville Predators: Signed defenseman Sheldon Brookbank, who had been with the Anaheim Mighty Ducks, to a one year contract; re-signed defenseman Mark Eaton.
+Nashville Predators: Signed defenseman Sheldon Brookbank, who had been with the Anaheim Mighty Ducks, to a one-year contract; re-signed defenseman Mark Eaton.
 New Jersey Devils: Re-signed defenseman Brian Rafalski to a two-year contract; signed defensemen Vladimir Malakhov, who had been with the Philadelphia Flyers, and Dan McGillis, who had been with the Boston Bruins to two-year contracts.
-New York Rangers: Signed left wing Ville Nieminen, who had been with the Calgary Flames, to a two-year contract; signed right wing Jason Ward, who had been with the Montreal Canadiens, to two-year contract.
-Pittsburgh Penguins: Signed right wing Andre Roy, who had been with the Tampa Bay Lightning, to three-year contract.
+New York Rangers: Signed left wing Ville Nieminen, who had been with the Calgary Flames, to a two-year contract; signed right wing Jason Ward, who had been with the Montreal Canadiens, to a two-year contract.
+Pittsburgh Penguins: Signed right wing Andre Roy, who had been with the Tampa Bay Lightning, to a three-year contract.
 Washington Capitals: Acquired right wing Chris Clark and a seventh-round pick (199th overall, Capitals selected Andrew Glass) in the 2007 NHL Entry Draft from the Calgary Flames for a seventh-round pick (187th overall, Flames selected Devin Didiomete) in the 2006 NHL Entry Draft and a sixth-round pick (later traded to Colorado; 155th overall) in the 2007 NHL Entry Draft.
 
 Aug 3, 2005
@@ -592,7 +592,7 @@ Montreal Canadiens: Re-signed defenseman Francis Bouillon to a one-year contract
 New York Islanders: Signed defenseman Alexei Zhitnik, who had been with the Buffalo Sabres, to a four-year contract.
 New York Rangers: Re-signed goaltender Kevin Weekes; signed center Martin Straka, who had been with the Los Angeles Kings, to a one-year contract; signed defenseman Marek Malik, who had been with the Vancouver Canucks, to a three-year contract.
 Ottawa Senators: Re-signed left wing Denis Hamel to a two-year contract.
-Philadelphia Flyers: Signed defensemen Derian Hatcher, who had been with the Detroit Red Wings, to a four-year contract, defenseman Mike Rathje, who had been with the San Jose Sharks, to a five-year contract, defenseman Chris Therien, who had been with the Dallas Stars, to a one-year contract and left wing Jon Sim, who had been with the Pittsburgh Penguins, to a one-year contract.
+Philadelphia Flyers: Signed defenseman Derian Hatcher, who had been with the Detroit Red Wings, to a four-year contract; signed defenseman Mike Rathje, who had been with the San Jose Sharks, to a five-year contract; signed defenseman Chris Therien, who had been with the Dallas Stars, and left wing Jon Sim, who had been with the Pittsburgh Penguins, to one-year contracts.
 St. Louis Blues: Acquired defensemen Eric Brewer, Jeff Woywitka and Doug Lynch from the Edmonton Oilers for defenseman Chris Pronger; signed center Trent Whitfield, who had been with the Washington Capitals, left wing Jeff Hoggan and center Ryan Ramsay.
 Vancouver Canucks: Named T.C. Carling manager of media and player relations.
 Phoenix Coyotes: Re-signed goaltender Brian Boucher to a one-year contract.
