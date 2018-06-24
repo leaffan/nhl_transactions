@@ -58,7 +58,7 @@ Edmonton Oilers: Claimed left wing Nathan Walker off waivers from the Washington
 
 Nov 30, 2017
 Minnesota Wild: Claimed defenseman Nate Prosser off waivers from the St. Louis Blues.
-New Jersey Devils: Acquired defenseman Sami Vatanen and a conditional third-round pick in the 2019 or 2020 NHL Draft from the Anaheim Ducks for center Adam Henrique, left wing Joseph Blandisi and a third-round pick in the 2018 NHL Draft.
+New Jersey Devils: Acquired defenseman Sami Vatanen and a conditional third-round pick (if Ducks re-sign Henrique to an extension prior to the 2019 NHL Draft, the Devils receive a third-round pick in the 2019 NHL Draft, if Ducks re-sign Henrique to an extension after the 2019 NHL Draft, the Devils receive a third-round pick in the 2020 NHL Draft) in the 2019 or 2020 NHL Draft from the Anaheim Ducks for center Adam Henrique, left wing Joseph Blandisi and a third-round pick (79th overall, Ducks selected Blake McLaughlin) in the 2018 NHL Draft.
 New York Rangers: Acquired center Peter Holland from the Montreal Canadiens for right wing Adam Cracknell.
 Vancouver Canucks: Announced the retirement of right wing Derek Dorsett.
 
@@ -76,7 +76,7 @@ Tampa Bay Lightning: Claimed right wing Christopher DiDomenico off waivers from 
 
 Nov 23, 2017
 Calgary Flames: Announced the retirement of defenseman Dennis Wideman.
-Los Angeles Kings: Acquired center Torrey Mitchell from the Montreal Canadiens for a conditional fourth-/fifth-round pick in the 2018 NHL Draft.
+Los Angeles Kings: Acquired center Torrey Mitchell from the Montreal Canadiens for a conditional fourth-round pick (originally a fifth-round pick in the 2018 NHL Draft, if Kings qualify for the NHL playoffs, the Canadiens will receive their own fourth-round pick in the 2018 NHL Draft back, condition fulfilled; previously acquired from Montreal; 97th overall, Canadiens selected Allan McShane) in the 2018 NHL Draft.
 
 Nov 22, 2017
 Edmonton Oilers: Agreed on a mutual contract termination with defenseman Ziyat Paigin.
@@ -107,7 +107,7 @@ Nov 9, 2017
 Vegas Golden Knights: Announced the retirement of center Vadim Shipachyov.
 
 Nov 5, 2017
-Nashville Predators: Acquired center Kyle Turris from the Colorado Avalanche for defenseman Samuel Girard, left wing Vladislav Kamenev and a second-round pick in the 2018 NHL Draft.
+Nashville Predators: Acquired center Kyle Turris from the Colorado Avalanche for defenseman Samuel Girard, left wing Vladislav Kamenev and a second-round pick (later traded to Pittsburgh) in the 2018 NHL Draft.
 Ottawa Senators: Acquired center Matt Duchene from the Colorado Avalanche for centers Kyle Turris and Shane Bowers, goaltender Andrew Hammond, a conditional first-round pick in the 2018 or 2019 NHL Draft and a third-round pick in the 2019 NHL Draft. 
 
 Nov 4, 2017
@@ -120,7 +120,7 @@ Oct 29, 2017
 Montreal Canadiens: Agreed on a mutual contract termination with left wing Martin Reway.
 
 Oct 28, 2017
-Arizona Coyotes: Acquired goaltender Scott Wedgewood from the New Jersey Devils for a fifth-round pick (previously acquired from Calgary) in the 2018 NHL Draft.
+Arizona Coyotes: Acquired goaltender Scott Wedgewood from the New Jersey Devils for a fifth-round pick (previously acquired from Calgary; 136th overall, Devils selected Akira Schmid) in the 2018 NHL Draft.
 
 Oct 24, 2017
 Florida Panthers: Claimed goaltender Antti Niemi off waivers from the Pittsburgh Penguins.
@@ -133,7 +133,7 @@ Oct 22, 2017
 Toronto Maple Leafs: Signed defenseman Roman Polak to a one-year contract.
 
 Oct 21, 2017
-Detroit Red Wings: Acquired left wing Scott Wilson and a third-round pick in the 2018 NHL Draft from the Pittsburgh Penguins for center Riley Sheahan and a fifth-round pick in the 2018 NHL Draft; acquired left wing Matt Pumempel from the New York Rangers for defenseman Ryan Sproul.
+Detroit Red Wings: Acquired left wing Scott Wilson and a third-round pick (84th overall, Red Wings selected Jesper Eliasson) in the 2018 NHL Draft from the Pittsburgh Penguins for center Riley Sheahan and a fifth-round pick (129th overall, Penguins selected Justin Almeida) in the 2018 NHL Draft; acquired left wing Matt Pumempel from the New York Rangers for defenseman Ryan Sproul.
 New York Rangers: Agreed on a mutual contract termination with right wing Malte Stromwall.
 
 Oct 20, 2017
@@ -157,7 +157,7 @@ Oct 8, 2017
 Florida Panthers: Signed defenseman Michael Matheson to an eight-year contract extension.
 
 Oct 6, 2017
-Toronto Maple Leafs: Acquired goaltender Calvin Pickard from the Vegas Golden Knights for right wing Tobias Lindberg and a sixth-round pick in the 2018 NHL Entry Draft.
+Toronto Maple Leafs: Acquired goaltender Calvin Pickard from the Vegas Golden Knights for right wing Tobias Lindberg and a sixth-round pick (180th overall, Golden Knights selected Peter Diliberatore) in the 2018 NHL Draft.
 
 Oct 5, 2017
 Ottawa Senators: Signed defenseman Mark Borowiecki to a two-year contract extension.
@@ -181,7 +181,7 @@ Colorado Avalanche: Claimed defenseman Patrik Nemeth off waivers from the Dallas
 Detroit Red Wings: Signed goaltender Kaden Fulcher to a three-year contract.
 Nashville Predators: Signed left wing Harry Zolnierczyk to a one-year contract.
 Ottawa Senators: Signed center Drake Batherson to a three-year contract.
-Vancouver Canucks: Acquired defenseman Derrick Pouliot from the Pittsburgh Penguins for defenseman Andrey Pedan and a fourth-round pick in the 2018 NHL Entry Draft.
+Vancouver Canucks: Acquired defenseman Derrick Pouliot from the Pittsburgh Penguins for defenseman Andrey Pedan and a fourth-round pick (later traded to Vegas) in the 2018 NHL Draft.
 Vegas Golden Knights: Claimed goaltender Malcolm Subban off waivers from the Boston Bruins.
 
 Oct 2, 2017
@@ -525,7 +525,7 @@ Washington Capitals: Re-signed center Travis Boyd to a one-year contract.
 
 Jul 4, 2017
 Arizona Coyotes: Signed center Michael Latta to a one-year contract.
-Carolina Hurricanes: Acquired center Marcus Kruger from the Vegas Golden Knights for a fifth-round pick in the 2018 NHL Draft.
+Carolina Hurricanes: Acquired center Marcus Kruger from the Vegas Golden Knights for a fifth-round pick (135th overall, Golden Knights selected Brandon Kruse) in the 2018 NHL Draft.
 Colorado Avalanche: Signed right wing Nail Yakupov, who had been with the St. Louis Blues, to a one-year contract.
 New York Rangers: Signed center David Desharnais, who had been with the Edmonton Oilers, to a one-year contract.
 Pittsburgh Penguins: Signed center Kevin Czuczman to a one-year contract.
@@ -549,7 +549,7 @@ Calgary Flames: Signed left wing Luke Gazdic to a one-year contract.
 Florida Panthers: Signed right wing Sebastian Repo to a three-year contract; signed right wing Alexandre Grenier, who had been with the Vancouver Canucks, to a one-year contract.
 Minnesota Wild: Re-signed defenseman Mike Reilly to a two-year contract.
 Montreal Canadiens: Signed goaltender Carey Price to an eight-year contract extension.
-New Jersey Devils: Acquired left wing Marcus Johansson from the Washington Capitals for second- and third-round picks (previously acquired from Florida and Toronto) in the 2018 NHL Draft.
+New Jersey Devils: Acquired left wing Marcus Johansson from the Washington Capitals for second- and third-round picks (previously acquired from Florida and Toronto, the latter later traded to San Jose via Chicago; 46th overall, Capitals selected Martin Fehervary) in the 2018 NHL Draft.
 Toronto Maple Leafs: Signed left wing Patrick Marleau, who had been with the San Jose Sharks, to a three-year contract.
 Vegas Golden Knights: Acquired center Marcus Kruger from the Chicago Blackhawks for future considerations.
 Washington Capitals: Re-signed center Evgeny Kuznetsov to an eight-year contract.
@@ -589,7 +589,7 @@ Winnipeg Jets: Signed goaltender Steve Mason, who had been with the Philadelphia
 
 Jun 30, 2017
 Boston Bruins: Bought out the contract of right wing Jimmy Hayes.
-Buffalo Sabres: Acquired right wing Jason Pominville, defenseman Marco Scandella and a fourth-round pick in the 2018 NHL Draft from the Minnesota Wild for left wings Marcus Foligno and Tyler Ennis and a third-round pick in the 2018 NHL Draft.
+Buffalo Sabres: Acquired right wing Jason Pominville, defenseman Marco Scandella and a fourth-round pick (117th overall, Sabres selected Linus Lindstrand Kronholm) in the 2018 NHL Draft from the Minnesota Wild for left wings Marcus Foligno and Tyler Ennis and a third-round pick (63rd overall, Wild selected Jack McBain) in the 2018 NHL Draft.
 Calgary Flames: Signed defenseman Michael Stone to a three-year contract extension; bought out the contracts of defenseman Ryan Murphy and center Lance Bouma.
 Florida Panthers: Bought out the contract of left wing Jussi Jokinen.
 New Jersey Devils: Bought out the contracts of right wing Devante Smith-Pelly and left wing Michael Cammalleri.
@@ -649,12 +649,12 @@ Jun 25, 2017
 Anaheim Ducks: Signed defenseman Korbinian Holzer to a two-year contract extension.
 
 Jun 24, 2017
-Calgary Flames: Acquired defenseman Travis Hamonic and a conditional fourth-round pick in the 2019 or 2020 NHL Draft from the New York Islanders for first- and second-round picks in the 2019 NHL Draft and a conditional second-round pick in the 2019 or 2020 NHL Draft.
+Calgary Flames: Acquired defenseman Travis Hamonic and a conditional fourth-round pick in the 2019 or 2020 NHL Draft from the New York Islanders for first- and second-round picks (12th and 43rd overall, Islanders selected Noah Dobson and Ruslan Iskhakov) in the 2018 NHL Draft and a conditional second-round pick in the 2019 or 2020 NHL Draft.
 Chicago Blackhawks: Acquired a fourth-round pick (previously acquired from San Jose; 112th overall, Blackhawks selected Tim Soderlund) in the 2017 NHL Draft from the Vancouver Canucks for fifth- (previously acquired from Carolina; 135th overall, Canucks selected Kristoffer Gunnarsson) and sixth-round picks (181st overall, Canucks selected Petrus Palmu) in the 2017 NHL Draft.
 Edmonton Oilers: Acquired a third-round pick (previously acquired from Calgary; 78th overall, Oilers selected Stuart Skinner) in the 2017 NHL Draft from the Arizona Coyotes for third- (previously acquired from St. Louis; 82nd overall, Coyotes selected Cameron Crotty) and fifth-round (previously acquired from Vancouver; 126th overall, Coyotes selected Michael Karow) picks in the 2017 NHL Draft.
 Los Angeles Kings: Signed left wing Andy Andreoff to a two-year contract extension.
-Montreal Canadiens: Acquired a seventh-round pick (199th overall, Canadiens selected Cayden Primeau) in the 2017 NHL Draft from the Philadelphia Flyers for a seventh-round pick in the 2018 NHL Draft.
-New York Islanders: Acquired a sixth-round pick (165th overall, Islanders selected Arnaud Durandeau) in the 2017 NHL Draft from the Los Angeles Kings for a sixth-round pick in the 2018 NHL Draft.
+Montreal Canadiens: Acquired a seventh-round pick (199th overall, Canadiens selected Cayden Primeau) in the 2017 NHL Draft from the Philadelphia Flyers for a seventh-round pick (later traded back to Montreal) in the 2018 NHL Draft.
+New York Islanders: Acquired a sixth-round pick (165th overall, Islanders selected Arnaud Durandeau) in the 2017 NHL Draft from the Los Angeles Kings for a sixth-round pick (165th overall, Kings selected Johan Sodergran) in the 2018 NHL Draft.
 Philadelphia Flyers: Acquired a second-round pick (35th overall, Flyers selected Isaac Ratcliffe) in the 2017 NHL Draft from the Arizona Coyotes for second-, third- and fourth-round picks (the last one previously acquired from the NY Islanders; 44th, 75th and 108th overall, Coyotes selected Filip Westerlund, Nate Schnarr and Noel Hoefenmayer) in the 2017 NHL Draft.
 San Jose Sharks: Acquired a fourth-round pick (previously acquired from Florida; 102nd overall, Sharks selected Scott Reedy) in the 2017 NHL Draft from the New York Rangers for fourth- and sixth-round picks (the first one previously acquired from Nashville via New Jersey; 123rd and 174th overall, Rangers selected Brandon Crawley and Morgan Barron) in the 2017 NHL Draft; acquired a sixth-round pick (previously acquired from Nashville; 185th overall, Sharks selected Alexander Chmelevski) in the 2017 NHL Draft from the New Jersey Devils for two seventh-round picks (one previously acquired from Ottawa; 205th and 214th overall, Devils selected Yegor Zaitsev and Matthew Hellickson) in the 2017 NHL Draft.
 Vegas Golden Knights: Acquired right wing Keegan Kolesar from the Columbus Blue Jackets for a second-round pick (previously acquired from Tampa Bay; 45th overall, Blue Jackets selected Alexandre Texier) in the 2017 NHL Draft.
@@ -663,23 +663,23 @@ Winnipeg Jets: Signed defenseman Ben Chiarot to a two-year contract extension.
 Jun 23, 2017
 Anaheim Ducks: Signed right wing Patrick Eaves to a three-year contract extension.
 Arizona Coyotes: Acquired center Derek Stepan and goaltender Antti Raanta from the New York Rangers for defenseman Anthony DeAngelo and a first-round pick (7th overall, Rangers selected Lias Andersson) in the 2017 NHL Draft; acquired defenseman Niklas Hjalmarsson from the Chicago Blackhawks for defenseman Connor Murphy and center Laurent Dauphin.
-Columbus Blue Jackets: Acquired left wings Artemi Panarin and Tyler Motte and a sixth-round pick (previously acquired from the NY Islanders; 170th overall, Blue Jackets selected Jonathan Davidsson) from the Chicago Blackhawks for left wing Brandon Saad, goaltender Anton Forsberg and a fifth-round pick in the 2018 NHL Draft; acquired center Jordan Schroeder from the Minnesota Wild for center Dante Salituro; signed center Alex Broadhurst to a one-year contract extension.
+Columbus Blue Jackets: Acquired left wings Artemi Panarin and Tyler Motte and a sixth-round pick (previously acquired from the NY Islanders; 170th overall, Blue Jackets selected Jonathan Davidsson) from the Chicago Blackhawks for left wing Brandon Saad, goaltender Anton Forsberg and a fifth-round pick (later traded to Arizona) in the 2018 NHL Draft; acquired center Jordan Schroeder from the Minnesota Wild for center Dante Salituro; signed center Alex Broadhurst to a one-year contract extension.
 Dallas Stars: Acquired a first-round pick (26th overall, Stars selected Jake Oettinger) in the 2017 NHL Draft from the Chicago Blackhawks for first- and third-round picks (the first one previously acquired from Anaheim; 29th and 70th overall, Blackhawks selected Henri Jokiharju and Andrei Altybarmakyan) in the 2017 NHL Draft.
 Edmonton Oilers: Signed defenseman Kris Russell to a four-year contract extension.
 Los Angeles Kings: Bought out the contract of defenseman Matt Greene.
 Pittsburgh Penguins: Acquired right wing Ryan Reaves and a second-round pick (51st overall, Penguins selected Zachary Lauzon) in the 2017 NHL Draft from the St. Louis Blues for center Oskar Sundqvist and a first-round pick (31st overall, Blues selected Klim Kostin) in the 2017 NHL Draft.
-St. Louis Blues: Acquired center Brayden Schenn from the Philadelphia Flyers for center Jori Lehtera, a first-round pick (previously acquired from Washington; 27th overall, Flyers selected Morgan Frost) in the 2017 NHL Draft and a conditional first-round pick in the 2018 (a 2019 pick if it is in the top 10) NHL Draft.
+St. Louis Blues: Acquired center Brayden Schenn from the Philadelphia Flyers for center Jori Lehtera, a first-round pick (previously acquired from Washington; 27th overall, Flyers selected Morgan Frost) in the 2017 NHL Draft and a conditional first-round pick (if St. Louis' first-round pick in the 2018 NHL Draft ends up being a top 10 pick, the Blues have the option to keep it and send Philadelphia their fifth-round pick in the 2019 NHL Draft and additionally a third-round pick in the 2020 NHL Draft; 14to overall, Flyers selected Joel Farabee) in the 2018 NHL Draft.
 Washington Capitals: Re-signed right wing T.J. Oshie to an eight-year contract.
 
 Jun 22, 2017
-Carolina Hurricanes: Acquired defenseman Trevor van Riemsdyk and a seventh-round pick in the 2018 NHL Draft from the Vegas Golden Knights for a second-round pick (previously acquired from Pittsburgh; 62nd overall, Golden Knights selected Jake Leschyshyn) in the 2017 NHL Draft.
+Carolina Hurricanes: Acquired defenseman Trevor van Riemsdyk and a seventh-round pick (216th overall, Hurricanes selected Riley Hughes) in the 2018 NHL Draft from the Vegas Golden Knights for a second-round pick (previously acquired from Pittsburgh; 62nd overall, Golden Knights selected Jake Leschyshyn) in the 2017 NHL Draft.
 Montreal Canadiens: Acquired defenseman David Schlemko from the Vegas Golden Knights for a fifth-round pick in the 2019 NHL Draft.
 New York Islanders: Acquired right wing Jordan Eberle from the Edmonton Oilers for right wing Ryan Strome.
 Pittsburgh Penguins: Signed left wing Frederik Tiffels to a two-year contract; signed defenseman Chad Ruhwedel to a two-year contract extension.
 Washington Capitals: Signed defenseman Christian Djoos to a two-year contract extension.
 
 Jun 21, 2017
-Vegas Golden Knights: Acquired defenseman Shea Theodore from the Anaheim Ducks for future considerations (not selecting Sami Vatanen or Josh Manson in the NHL Expansion Draft); acquired right wing Alex Tuch from the Minnesota Wild for a third-round pick in the 2017 or 2018 NHL Draft and future considerations; acquired right wing Reilly Smith from the Florida Panthers for a fourth-round pick in the 2018 NHL Draft and future considerations; acquired a sixth-round pick (161st overall, Golden Knights selected Jiri Patera) in the 2017 NHL Draft from the Buffalo Sabres for future considerations (selecting Williams Carrier in the NHL Expansion Draft); acquired a fifth-round pick (previously acquired from Boston; 142nd overall, Golden Knights selected Jonathan Dugan) in the 2017 NHL Draft from the Carolina Hurricanes for future considerations (not selecting Lee Stempniak, Joakim Nordstrom, Eddie Lack, or Cam Ward in the NHL Expansion Draft); acquired right wing David Clarkson, a first-round pick (later traded to Winnipeg) in the 2017 NHL Draft and a second-round pick in the 2019 NHL Draft from the Columbus Blue Jackets for future considerations (believed to be not selecting Joonas Korpisalo or Josh Anderson in the NHL Expansion Draft); acquired center Mikhail Grabovski, defenseman Jake Bischoff, a first-round pick (15th overall, Golden Knights selected Erik Brannstrom) in the 2017 NHL Draft and a second-round pick in the 2019 NHL Draft from the New York Islanders for future considerations (selecting Jean-Francois Berube in the NHL Expansion Draft); acquired a second-round pick in the 2020 NHL Draft from the Pittsburgh Penguins for future considerations (selecting Marc-Andre Fleury in the NHL Expansion Draft); acquired left wing Nikita Gusev, a second-round pick (later traded to Columbus) in the 2017 NHL Draft and a second-round pick (previously acquired from Pittsburgh) in the 2018 NHL Draft from the Tampa Bay Lightning for future considerations (selecting Jason Garrison in the NHL Expansion Draft); acquired a first-round pick (13th overall, Golden Knights selected Nick Suzuki) in the 2017 NHL Draft and a third-round pick in the 2019 NHL Draft from the Winnipeg Jets for a first-round pick (previously acquired from Columbus; 24th overall, Jets selected Kristian Vesalainen) in the 2017 NHL Draft and future considerations (not selecting Toby Enstrom or Marko Dano in the NHL Expansion Draft); signed center Erik Haula to a three-year contract extension; signed defenseman Deryk Engelland to a one-year contract extension.
+Vegas Golden Knights: Acquired defenseman Shea Theodore from the Anaheim Ducks for future considerations (not selecting Sami Vatanen or Josh Manson in the NHL Expansion Draft); acquired right wing Alex Tuch from the Minnesota Wild for a conditional third-round pick (a third-round pick in the 2018 NHL Draft if Vegas does not acquire any additional third-round picks in the 2017 NHL Draft; 92nd overall, Wild selected Connor Dewar) in the 2018 NHL Draft and future considerations; acquired right wing Reilly Smith from the Florida Panthers for a fourth-round pick (later traded to Montreal via San Jose) in the 2018 NHL Draft and future considerations; acquired a sixth-round pick (161st overall, Golden Knights selected Jiri Patera) in the 2017 NHL Draft from the Buffalo Sabres for future considerations (selecting Williams Carrier in the NHL Expansion Draft); acquired a fifth-round pick (previously acquired from Boston; 142nd overall, Golden Knights selected Jonathan Dugan) in the 2017 NHL Draft from the Carolina Hurricanes for future considerations (not selecting Lee Stempniak, Joakim Nordstrom, Eddie Lack, or Cam Ward in the NHL Expansion Draft); acquired right wing David Clarkson, a first-round pick (later traded to Winnipeg) in the 2017 NHL Draft and a second-round pick in the 2019 NHL Draft from the Columbus Blue Jackets for future considerations (believed to be not selecting Joonas Korpisalo or Josh Anderson in the NHL Expansion Draft); acquired center Mikhail Grabovski, defenseman Jake Bischoff, a first-round pick (15th overall, Golden Knights selected Erik Brannstrom) in the 2017 NHL Draft and a second-round pick in the 2019 NHL Draft from the New York Islanders for future considerations (selecting Jean-Francois Berube in the NHL Expansion Draft); acquired a second-round pick in the 2020 NHL Draft from the Pittsburgh Penguins for future considerations (selecting Marc-Andre Fleury in the NHL Expansion Draft); acquired left wing Nikita Gusev, a second-round pick (later traded to Columbus) in the 2017 NHL Draft and a fourth-round pick (previously acquired from Pittsburgh; 115th overall, Golden Knights selected Paul Cotter) in the 2018 NHL Draft from the Tampa Bay Lightning for future considerations (selecting Jason Garrison in the NHL Expansion Draft); acquired a first-round pick (13th overall, Golden Knights selected Nick Suzuki) in the 2017 NHL Draft and a third-round pick in the 2019 NHL Draft from the Winnipeg Jets for a first-round pick (previously acquired from Columbus; 24th overall, Jets selected Kristian Vesalainen) in the 2017 NHL Draft and future considerations (not selecting Toby Enstrom or Marko Dano in the NHL Expansion Draft); signed center Erik Haula to a three-year contract extension; signed defenseman Deryk Engelland to a one-year contract extension.
 
 Jun 19, 2017
 Tampa Bay Lightning: Signed goaltender Peter Budaj to a two-year contract extension.
@@ -687,7 +687,7 @@ Tampa Bay Lightning: Signed goaltender Peter Budaj to a two-year contract extens
 Jun 17, 2017
 Anaheim Ducks: Signed left wing Nicolas Kerdiles to a one-year contract extension.
 Buffalo Sabres: Acquired defenseman Nathan Beaulieu from the Montreal Canadiens for a third-round pick (68th overall, Canadiens selected Scott Walford) in the 2017 NHL Draft.
-Calgary Flames: Acquired goaltender Mike Smith from the Arizona Coyotes for goaltender Chad Johnson, defenseman Brandon Hickey and a second-/third-round pick in the 2018 NHL Draft.
+Calgary Flames: Acquired goaltender Mike Smith from the Arizona Coyotes for goaltender Chad Johnson, defenseman Brandon Hickey and a conditional third-round pick (a second-round pick in the 2019 NHL Draft if Flames make the playoffs in 2017/18, condition not fulfilled; later traded to Chicago) in the 2018 NHL Draft.
 Dallas Stars: Signed defenseman Ludwig Bystrom to a one-year contract extension.
 Nashville Predators: Signed defenseman Joonas Lyytinen to a two-year contract.
 New Jersey Devils: Acquired defenseman Mirco Mueller and a fifth-round pick (143rd overall, Devils selected Marian Studenic) in the 2017 NHL Draft from the San Jose Sharks for a second-round pick (previously acquired from Boston; 49th overall, Sharks selected Mario Ferraro) and a fourth-round pick (previously acquired from Nashville, later traded to the NY Rangers) in the 2017 NHL Draft.
@@ -696,18 +696,18 @@ San Jose Sharks: Signed center Ryan Carpenter and defensemen Joakim Ryan and Tim
 Jun 16, 2017
 Anaheim Ducks: Bought out the contract of defenseman Simon Despres.
 Edmonton Oilers: Signed left wing Jujhar Khaira to a two-year contract extension.
-Philadelphia Flyers: Acquired left wing Brendan Warren and a fifth-round pick in the 2018 NHL Draft from the Arizona Coyotes for center Nick Cousins and goaltender Merrick Madsen.
+Philadelphia Flyers: Acquired left wing Brendan Warren and a fifth-round pick (127th overall, Flyers selected Wyatt Wylie) in the 2018 NHL Draft from the Arizona Coyotes for center Nick Cousins and goaltender Merrick Madsen.
 Pittsburgh Penguins: Signed goaltender Filip Gustavsson to a three-year contract.
 
 Jun 15, 2017
 Colorado Avalanche: Bought out the contract of defenseman Francois Beauchemin.
-Montreal Canadiens: Acquired left wing Jonathan Drouin and a conditional sixth-round pick in the 2018 NHL Draft from the Tampa Bay Lightning for defenseman Mikhail Sergachev and a conditional second-round pick in the 2018 NHL Draft (if Sergachev plays less than 40 regular season or playoff games in 2017-18 picks are exchanged); signed Drouin to a six-year contract extension.
+Montreal Canadiens: Acquired left wing Jonathan Drouin and a conditional sixth-round pick in the 2018 NHL Draft from the Tampa Bay Lightning for defenseman Mikhail Sergachev and a conditional second-round pick in the 2018 NHL Draft (if Sergachev plays less than 40 regular season or playoff games in 2017-18 picks are exchanged, condition not fulfilled); signed Drouin to a six-year contract extension.
 
 Jun 14, 2017
 Boston Bruins: Signed defenseman Tommy Cross to a one-year contract extension.
 Detroit Red Wings: Announced the retirement of right wing Dan Cleary.
 New York Rangers: Bought out the contract of defenseman Dan Girardi; signed left wing Matt Puempel to a one-year contract extension.
-Washington Capitals: Acquired center Tyler Graovac from the Minnesota Wild for a fifth-round pick in the 2018 NHL Draft.
+Washington Capitals: Acquired center Tyler Graovac from the Minnesota Wild for a fifth-round pick (155th overall, Wild selected Damien Giroux) in the 2018 NHL Draft.
 
 Jun 13, 2017
 Buffalo Sabres: Signed goaltender Linus Ullmark to a two-year contract extension.
@@ -744,7 +744,7 @@ Winnipeg Jets: Signed center Michael Spacek to a three-year contract.
 May 31, 2017
 Buffalo Sabres: Signed goaltender Jonas Johansson to a three-year contract.
 Colorado Avalanche: Announced the retirement of goaltender Nathan Lieuwen.
-Los Angeles Kings: Acquired left wing Bokondji Imama from the Tampa Bay Lightning for a seventh-round pick in the 2018 NHL Draft.
+Los Angeles Kings: Acquired left wing Bokondji Imama from the Tampa Bay Lightning for a seventh-round pick (206th overall, Lightning selected Radim Salda) in the 2018 NHL Draft.
 
 May 30, 2017
 Boston Bruins: Signed left wing Anders Bjork to a three-year contract.
@@ -1051,28 +1051,28 @@ Washington Capitals: Signed left wing Mason Mitchell, and defensemen Colby Willi
 Mar 1, 2017
 Anaheim Ducks: Acquired center Sam Carrick and left wing Spencer Abbott from the Chicago Blackhawks for left wing Kenton Helgeson and a seventh-round pick in the 2019 NHL Draft.
 Arizona Coyotes: Acquired right wing Joe Whitney from the Colorado Avalanche for right wing Brendan Ranford.
-Boston Bruins: Acquired right wing Drew Stafford from the Winnipeg Jets for a conditional sixth-round pick in the 2018 NHL Draft.
+Boston Bruins: Acquired right wing Drew Stafford from the Winnipeg Jets for a conditional fifth-round pick (originally a sixth-round pick in the 2018 NHL Draft, if Bruins make the playoffs in 2017-18, the Jets receive a fifth-round pick in the 2018 NHL Draft, if Bruins reach the second round of the 2017-18 playoffs and Stafford plays in 50% of their playoff games, the Jets receive a fourth-round pick in the 2018 NHL Draft, first condition fulfilled; 150th overall, Jets selected Declan Chisholm) in the 2018 NHL Draft.
 Calgary Flames: Acquired right wing Curtis Lazar and defenseman Michael Kostka from the Ottawa Senators for defenseman Jyrki Jokipakka and a second-round pick (47th overall, Senators selected Alex Formenton) in the 2017 NHL Draft.
 Colorado Avalanche: Acquired right wing Sven Andrighetto from the Montreal Canadiens for left wing Andreas Martinsen; acquired goaltender Joe Cannata from the Washington Capitals for defenseman Cody Corbett.
 Columbus Blue Jackets: Acquired left wing Lauri Korpikoski from the Dallas Stars for defenseman Dillon Heatherington; acquired defenseman Kyle Quincey from the New Jersey Devils for defenseman Dalton Prout.
 Edmonton Oilers: Acquired right wing Justin Fontaine from the New York Rangers for left wing Taylor Beck; signed defenseman Ryan Mantha to a three-year contract.
 Florida Panthers: Acquired left wing Thomas Vanek from the Detroit Red Wings for defenseman Dylan McIlrath and a conditional third-round pick (if Florida fails to qualify for the 2017 Stanley Cup playoffs; 71st overall, Red Wings selected Kasper Kotkansalo) in the 2017 NHL Draft; acquired defenseman Reece Scarlett from the New Jersey Devils for right wing Shane Harper; acquired goaltender Adam Wilcox from the Tampa Bay Lightning for goaltender Mike McKenna.
-Los Angeles Kings: Acquired right wing Jarome Iginla from the Colorado Avalanche for a conditional fourth-round pick in the 2018 NHL Draft.
-Montreal Canadiens: Acquired center Steve Ott from the Detroit Red Wings for a sixth-round pick in the 2018 NHL Draft; acquired left wing Dwight King from the Los Angeles Kings for a conditional fourth-round pick in the 2018 NHL Draft.
+Los Angeles Kings: Acquired right wing Jarome Iginla from the Colorado Avalanche for a conditional fourth-round pick (if Iginla meets certain performance conditions in the 2016-17 NHL playoffs or re-signs with Los Angeles, Colorado receives a fourth-round pick in the 2018 NHL Draft, condition not fulfilled) in the 2018 NHL Draft.
+Montreal Canadiens: Acquired center Steve Ott from the Detroit Red Wings for a sixth-round pick (later traded to Columbus) in the 2018 NHL Draft; acquired left wing Dwight King from the Los Angeles Kings for a conditional fourth-round pick (if Montreal wins at least two rounds in the NHL playoffs and King plays more than 50% of their playoff games or King re-signs with Montreal and is on the team's roster from Jul 1 to Nov 15, 2017, the Kings receive a third-round pick in the 2018 NHL Draft, condition not fulfilled; later traded back to Montreal) in the 2018 NHL Draft.
 Nashville Predators: Acquired right wing P.A. Parenteau from the New Jersey Devils for a sixth-round pick (later traded to San Jose) in the 2017 NHL Draft.
 Philadelphia Flyers: Signed left wing Pierre-Edouard Bellemare to two-year contract extension; signed goaltender Michal Neuvirth to a two-year contract extension.
-Pittsburgh Penguins: Acquired defenseman Mark Streit from the Tampa Bay Lightning for a fourth-round pick in the 2018 NHL Draft; acquired defenseman Frank Corrado from the Toronto Maple Leafs for center Eric Fehr, defenseman Steven Oleksy and a fourth-round pick (124th overall, Maple Leafs selected Vladislav Kara) in the 2017 NHL Draft.
+Pittsburgh Penguins: Acquired defenseman Mark Streit from the Tampa Bay Lightning for a fourth-round pick (later traded to Vegas) in the 2018 NHL Draft; acquired defenseman Frank Corrado from the Toronto Maple Leafs for center Eric Fehr, defenseman Steven Oleksy and a fourth-round pick (124th overall, Maple Leafs selected Vladislav Kara) in the 2017 NHL Draft.
 San Jose Sharks: Acquired right wing Jannik Hansen from the Vancouver Canucks for left wing Nikolay Goldobin and a conditional fourth-round pick (a first-round pick if San Jose wins the Stanley Cup; later traded to Chicago) in the 2017 NHL Draft.
 Tampa Bay Lightning: Acquired defenseman Mark Streit from the Philadelphia Flyers for center Valtteri Filppula, a fourth-round pick (107th overall, Flyers selected Maxim Sushko) in the 2017 NHL Draft and a conditional seventh-round pick (if Tampa Bay trades Streit to another team; previously acquired from Los Angeles; 196th overall, Flyers selected Wyatt Kalynuk) in the 2017 NHL Draft.
 Vancouver Canucks: Claimed left wing Joseph Cramarossa off waivers from the Anaheim Ducks.
 Vegas Golden Knights: Signed center Reid Duke to a three-year contract.
 
 Feb 28, 2017
-Chicago Blackhawks: Acquired defenseman Johnny Oduya from the Dallas Starts for right wing Mark McNeill and a conditional fourth-round pick in the 2018 NHL Draft; signed right wing Jordin Tootoo and defenseman Michal Rozsival to one-year contract extensions.
+Chicago Blackhawks: Acquired defenseman Johnny Oduya from the Dallas Starts for right wing Mark McNeill and a conditional fourth-round pick (if Blackhawks win two rounds in the 2016-17 NHL playoffs and Oduya plays in 50% or more of their games, the Stars receive a third-round pick in the 2018 NHL Draft, condition not fulfilled; 100th overall, Stars selected Adam Mascherin) in the 2018 NHL Draft; signed right wing Jordin Tootoo and defenseman Michal Rozsival to one-year contract extensions.
 Columbus Blue Jackets: Signed defenseman Marc-Andre Bergeron to a one-year contract.
 Edmonton Oilers: Acquired center David Desharnais from the Montreal Canadiens for defenseman Brandon Davidson.
 Minnesota Wild: Signed defenseman Mike Weber to a one-year contract.
-New York Rangers: Acquired defenseman Brendan Smith from the Detroit Red Wings for a third-round pick (83rd overall, Red Wings selected Zachary Gallant) in the 2017 NHL Draft and a second-round pick (previously acquired from Ottawa) in the 2018 NHL Draft; acquired center Daniel Catenacci from the Buffalo Sabres for defenseman Mat Bodie.
+New York Rangers: Acquired defenseman Brendan Smith from the Detroit Red Wings for a third-round pick (83rd overall, Red Wings selected Zachary Gallant) in the 2017 NHL Draft and a second-round pick (previously acquired from Ottawa; 33rd overall, Red Wings selected Jonatan Berggren) in the 2018 NHL Draft; acquired center Daniel Catenacci from the Buffalo Sabres for defenseman Mat Bodie.
 Ottawa Senators: Acquired left wing Viktor Stalberg from the Carolina Hurricanes for a third-round pick (later traded to Chicago) in the 2017 NHL Draft.
 
 Feb 27, 2017
@@ -1088,7 +1088,7 @@ Washington Capitals: Acquired defenseman Kevin Shattenkirk and goaltender Pheoni
 
 Feb 26, 2017
 Los Angeles Kings: Acquired goaltender Ben Bishop and a fifth-round pick (138th overall, Kings selected Drake Rymsha) in the 2017 NHL Draft from the Tampa Bay Lightning for goaltender Peter Budaj, defenseman Erik Cernak, a conditional second-round pick (depending on Bishop meeting certain performance thresholds, condition not fulfilled) in the 2017 NHL Draft and a seventh-round pick (later traded to Philadelphia) in the 2017 NHL Draft.
-Minnesota Wild: Acquired centers Martin Hanzal and Ryan White and a fourth-round pick (97th overall, Wild selected Maso Shaw) in the 2017 NHL from the Arizona Coyotes for right wing Grayson Downing, a first-round pick (23rd overall, Coyotes selected Pierre-Olivier Joseph) in the 2017 NHL Draft, a second-round pick in the 2018 NHL Draft and a conditional fourth-round pick in the 2019 NHL Draft; signed center Ryan Carter to a one-year contract.
+Minnesota Wild: Acquired centers Martin Hanzal and Ryan White and a fourth-round pick (97th overall, Wild selected Mason Shaw) in the 2017 NHL Draft from the Arizona Coyotes for right wing Grayson Downing, a first-round pick (23rd overall, Coyotes selected Pierre-Olivier Joseph) in the 2017 NHL Draft, a second-round pick (55th overall, Coyotes selected Kevin Bahl) in the 2018 NHL Draft and a conditional fourth-round pick in the 2019 NHL Draft; signed center Ryan Carter to a one-year contract.
 
 Feb 25, 2017
 Arizona Coyotes: Acquired right wing Stefan Fournier from the Tampa Bay Lightning for left wing Jeremy Morin.
@@ -1109,7 +1109,7 @@ Feb 21, 2017
 Montreal Canadiens: Acquired defenseman Keegan Lowe from the Carolina Hurricanes for defenseman Philip Samuelsson.
 
 Feb 20, 2017
-Calgary Flames: Acquired defenseman Michael Stone from the Arizona Coyotes for a third-round pick (later traded to Edmonton) in the 2017 NHL Draft and a conditional fifth-round pick in the 2018 NHL Draft.
+Calgary Flames: Acquired defenseman Michael Stone from the Arizona Coyotes for a third-round pick (later traded to Edmonton) in the 2017 NHL Draft and a conditional fifth-round pick (if Stone re-signs with Calgary before Jul 1, 2017, condition fulfilled; later traded to New Jersey) in the 2018 NHL Draft.
 Ottawa Senators: Signed defenseman Fredrik Claesson to a one-year contract extension.
 
 Feb 19, 2017
@@ -1174,7 +1174,7 @@ Jan 13, 2017
 Colorado Avalanche: Acquired center Felix Girard from the Nashville Predators for left wing Cody McLeod.
 
 Jan 11, 2017
-Anaheim Ducks: Acquired goaltender Jhonas Enroth for a seventh-round pick in the 2018 NHL Draft.
+Anaheim Ducks: Acquired goaltender Jhonas Enroth for a seventh-round pick (209th overall, Maple Leafs selected Zachary Bouthillier) in the 2018 NHL Draft.
 Nashville Predators: Claimed center Derek Grant off waivers from the Buffalo Sabres.
 
 Jan 10, 2017

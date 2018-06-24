@@ -30,7 +30,7 @@ Arizona Coyotes: Claimed center Josh Jooris off waivers from the New York Ranger
 Boston Bruins: Signed left wing Jesse Gabrielle to a three-year contract.
 
 Dec 9, 2016
-Arizona Coyotes: Acquired center Peter Holland from the Toronto Maple Leafs for a conditional sixth-round pick in the 2018 NHL Entry Draft.
+Arizona Coyotes: Acquired center Peter Holland from the Toronto Maple Leafs for a conditional sixth-round pick (if Coyotes re-sign or trade Holland, condition not fulfilled) in the 2018 NHL Entry Draft.
 New York Islanders: Signed right wing Cal Clutterbuck to a five-year contract extension.
 
 Dec 6, 2016
@@ -86,7 +86,7 @@ Nov 11, 2016
 New Jersey Devils: Signed center Brandon Gignac to a three-year contract.
 
 Nov 8, 2016
-Florida Panthers: Acquired defenseman Dylan McIlrath from the New York Rangers for defenseman Steven Kampfer and a conditional seventh-round pick in the 2018 NHL Entry Draft.
+Florida Panthers: Acquired defenseman Dylan McIlrath from the New York Rangers for defenseman Steven Kampfer and a conditional seventh-round pick (if McIlrath plays 30 games in the 2016-17 NHL season, condition not fulfilled) in the 2018 NHL Entry Draft.
 
 Nov 7, 2016
 Chicago Blackhawks: Signed right wing Alex DeBrincat to a three-year contract.
@@ -267,7 +267,7 @@ Minnesota Wild: Signed defenseman Gustav Bouramman to a three-year contract.
 New York Rangers: Signed center Brandon Pirri, who had been with the Anaheim Ducks, to a one-year contract.
 
 Aug 25, 2016
-Arizona Coyotes: Acquired center Dave Bolland and left wing Lawson Crouse from the Florida Panthers for a conditional second-round pick in the 2018 NHL Entry Draft and a conditional third-round pick (Florida receives the highest of the two third-round picks Arizona currently owns; 66th overall, Panthers selected Max Gildon) in the 2017 NHL Draft. 
+Arizona Coyotes: Acquired center Dave Bolland and left wing Lawson Crouse from the Florida Panthers for a conditional second-round pick (if Crouse plays 10 NHL games in the 2016-17 season, otherwise a third-round pick in the 2018 NHL Entry Draft; 34th overall, Panthers selected Serron Noel) in the 2018 NHL Entry Draft and a conditional third-round pick (Florida receives the highest of the two third-round picks Arizona currently owns; 66th overall, Panthers selected Max Gildon) in the 2017 NHL Draft. 
 New York Rangers: Signed center Brandon Pirri, who had been with the Anaheim Ducks, to a one-year contract.
 
 Aug 24, 2016
@@ -385,7 +385,7 @@ Vancouver Canucks: Re-signed right wing Alexandre Grenier and defenseman Andrey 
 
 Jul 18, 2016
 New Jersey Devils: Re-signed defenseman Reece Scarlett to a one-year contract.
-Ottawa Senators: Acquired center Derick Brassard and a seventh-round pick in the 2018 NHL Entry Draft from the New York Rangers for center Mika Zibanejad and a second-round pick in the 2018 NHL Entry Draft.
+Ottawa Senators: Acquired center Derick Brassard and a seventh-round pick (194th overall, Senators selected Luke Loheit) in the 2018 NHL Entry Draft from the New York Rangers for center Mika Zibanejad and a second-round pick (later traded to Detroit) in the 2018 NHL Entry Draft.
 Winnipeg Jets: Signed center Jack Roslovic to a three-year contract.
 
 Jul 17, 2016
@@ -607,7 +607,7 @@ Toronto Maple Leafs: Acquired left wing Kerby Rychel from the Columbus Blue Jack
 
 Jun 24, 2016
 Arizona Coyotes: Acquired center Pavel Datsyuk and a first-round pick (16th overall, Coyotes selected Jakob Chychrun) in the 2016 NHL Entry Draft from the Detroit Red Wings for center Joe Vitale and first- (previously acquired from the New York Rangers; 20th overall, Red Wings selected Dennis Cholowski) and second-round (previously acquired as compensation for not signing former first-round pick Conner Bleackley; 53rd overall, Red Wings selected Filip Hronek) picks in the 2016 NHL Entry Draft; announced the retirement of Datsyuk.
-Calgary Flames: Acquired goaltender Brian Elliott for a second-round pick (35th overall, Blues selected Jordan Kyrou) in the 2016 NHL Entry Draft and a conditional third-round pick (if Elliott re-signs with Calgary before current contract expires) in the 2018 NHL Entry Draft.
+Calgary Flames: Acquired goaltender Brian Elliott for a second-round pick (35th overall, Blues selected Jordan Kyrou) in the 2016 NHL Entry Draft and a conditional third-round pick (if Elliott re-signs with Calgary before current contract expires, condition not fulfilled) in the 2018 NHL Entry Draft.
 Colorado Avalanche: Re-signed left wing Andreas Martinsen to a one-year contract.
 Dallas Stars: Signed defenseman Jordie Benn to a three-year contract extension.
 Minnesota Wild: Bought out the contract of left wing Thomas Vanek.
@@ -615,7 +615,7 @@ Montreal Canadiens: Acquired right wing Andrew Shaw from the Chicago Blackhawks 
 Ottawa Senators: Acquired a first-round pick (11th overall, Senators selected Logan Brown) in the 2016 NHL Entry Draft from the New Jersey Devils for first- (12th overall, Devils selected Michael McLeod) and third-round (previously acquired from the New York Islanders; 80th overall, Devils selected Brandon Gignac) picks in the 2016 NHL Entry Drafts.
 St. Louis Blues: Acquired a first-round pick (26th overall, Blues selected Tage Thompson) in the 2016 NHL Entry Draft from the Washington Capitals for first- (28th overall, Capitals selected Lucas Johansen) and third-round (previously acquired from Washington; 87th overall, Capitals selected Garrett Pilon) picks in the 2016 NHL Entry Draft.
 Tampa Bay Lightning: Signed center Cedric Paquette to a two-year contract extension; signed right wing J.T. Brown to a two-year contract extension; re-signed defenseman Luke Witkowski to a one-year contract.
-Washington Capitals: Acquired center Lars Eller from the Montreal Canadiens for second-round picks in the 2017 (58th overall, Canadiens selected Joni Ikonen) and 2018 NHL Drafts; signed defenseman Aaron Ness to a two-year contract extension; re-signed center Paul Carey to a one-year contract.
+Washington Capitals: Acquired center Lars Eller from the Montreal Canadiens for second-round picks in the 2017 (58th overall, Canadiens selected Joni Ikonen) and 2018 (later traded to Edmonton) NHL Drafts; signed defenseman Aaron Ness to a two-year contract extension; re-signed center Paul Carey to a one-year contract.
 Winnipeg Jets: Acquired first- and third-round picks (18th and 79th overall, Jets selected Logan Stanley and Luke Green) in the 2016 NHL Entry Draft from the Philadelphia Flyers for first- (previously acquired from Chicago; 22nd overall, Flyers selected German Rubtsov) and second-round (36th overall, Flyers selected Pascal Laberge) picks in the 2016 NHL Entry Draft.
 
 Jun 23, 2016
@@ -689,7 +689,7 @@ Calgary Flames: Signed goaltender David Rittich to a one-year contract.
 
 Jun 10, 2016
 Dallas Stars: Signed right wing Brett Ritchie to a one-year contract.
-New Jersey Devils: Acquired center Marc Savard and a second-round pick in the 2018 NHL Entry Draft from the Florida Panthers for right wing Paul Thompson and center Graham Black.
+New Jersey Devils: Acquired center Marc Savard and a second-round pick (later traded to Washington) in the 2018 NHL Entry Draft from the Florida Panthers for right wing Paul Thompson and center Graham Black.
 
 Jun 9, 2016
 Dallas Stars: Re-signed defenseman Mattias Backman to a one-year contract.
@@ -1030,15 +1030,15 @@ Washington Capitals: Acquired left wing Daniel Winnik and a fifth-round pick (pr
 Feb 27, 2016
 Arizona Coyotes: Claimed left wing Jiri Sekac off waivers from the Chicago Blackhawks.
 Buffalo Sabres: Acquired center Eric O'Dell, left wings Cole Schneider and Alex Guptill and defenseman Michael Sdao from the Ottawa Senators for center Philip Varone, right wing Jason Akeson, defenseman Jerome Leduc and a conditional seventh-round pick (if Schneider plays 3 NHL games for Buffalo in the 2015-16 season, condition not fulfilled) in the 2016 NHL Entry Draft.
-Florida Panthers: Acquired defenseman Jakub Kindl from the Detroit Red Wings for a sixth-round pick (164th overall, Red Wings selected Reilly Webb) in the 2017 NHL Draft; acquired right wing Teddy Purcell from the Edmonton Oilers for a third-round pick (84th overall, Oilers selected Matthew Cairns) in the 2016 NHL Entry Draft; acquired right wing Jiri Hudler from the Calgary Flames for a second-round pick in the 2016 NHL Entry Draft (54th overall, Flames selected Tyler Parsons) and a fourth-round pick in the 2018 NHL Entry Draft.
+Florida Panthers: Acquired defenseman Jakub Kindl from the Detroit Red Wings for a sixth-round pick (164th overall, Red Wings selected Reilly Webb) in the 2017 NHL Draft; acquired right wing Teddy Purcell from the Edmonton Oilers for a third-round pick (84th overall, Oilers selected Matthew Cairns) in the 2016 NHL Entry Draft; acquired right wing Jiri Hudler from the Calgary Flames for a second-round pick in the 2016 NHL Entry Draft (54th overall, Flames selected Tyler Parsons) and a fourth-round pick in the 2018 NHL Entry Draft (108th overall, Flames selected Demetrios Koumontzis).
 Ottawa Senators: Signed right wing Chris Neil to a one-year contract extension.
 Philadelphia Flyers: Signed right wing Colin McDonald to a two-year contract extension.
 Pittsburgh Penguins: Acquired defenseman Justin Schultz from the Edmonton Oilers for a third-round pick (91st overall, Oilers selected Filip Berglund) in the 2016 NHL Entry Draft.
 St. Louis Blues: Acquired goaltender Anders Nilsson from the Edmonton Oilers for goaltender Niklas Lundstrom and a fifth-round pick (149th overall, Oilers selected Graham McPhee) in the 2016 NHL Entry Draft.
-San Jose Sharks: Acquired goaltender James Reimer and left wing Jeremy Morin from the Toronto Maple Leafs for goaltender Alex Stalock, right wing Ben Smith and a conditional third-round pick (if San Jose advances to the 2016 Stanley Cup final, otherwise a fourth-round pick) in the 2018 NHL Entry Draft.
+San Jose Sharks: Acquired goaltender James Reimer and left wing Jeremy Morin from the Toronto Maple Leafs for goaltender Alex Stalock, right wing Ben Smith and a conditional third-round pick (if San Jose advances to the 2016 Stanley Cup finals, otherwise a fourth-round pick, condition fulfilled; 83rd overall, Maple Leafs selected Riley Stotts) in the 2018 NHL Entry Draft.
 
 Feb 26, 2016
-Chicago Blackhawks: Acquired left wing Tomas Fleischmann and right wing Dale Weise from the Montreal Canadiens for left wing Phillip Danault and a second-round pick in the 2018 NHL Entry Draft.
+Chicago Blackhawks: Acquired left wing Tomas Fleischmann and right wing Dale Weise from the Montreal Canadiens for left wing Phillip Danault and a second-round pick (38th overall, Canadiens selected Alexander Romanov) in the 2018 NHL Entry Draft.
 Los Angeles Kings: Acquired defenseman Rob Scuderi from the Chicago Blackhawks for defenseman Christian Ehrhoff.
 Nashville Predators: Signed defenseman Anthony Bitetto to a two-year contract extension.
 Pittsburgh Penguins: Signed defenseman Olli Maatta to a six-year contract extension.
@@ -1061,7 +1061,7 @@ Washington Capitals: Acquired defenseman Mike Weber from the Buffalo Sabres for 
 Feb 22, 2016
 Calgary Flames: Acquired center Hunter Shinkaruk from the Vancouver Canucks for center Markus Granlund.
 Nashville Predators: Signed center Colton Sissons to a three-year contract extension.
-San Jose Sharks: Acquired defenseman Roman Polak and center Nick Spaling for left wing Raffi Torres and second-round picks in the 2017 (later traded to Anaheim )and 2018 NHL Drafts.
+San Jose Sharks: Acquired defenseman Roman Polak and center Nick Spaling for left wing Raffi Torres and second-round picks in the 2017 (later traded to Anaheim) and 2018 (52nd overall, Maple Leafs selected Sean Durzi) NHL Drafts.
 
 Feb 21, 2016
 Colorado Avalanche: Acquired center Shawn Matthias from the Toronto Maple Leafs for center Colin Smith and a fourth-round pick (101st overall, Maple Leafs selected Keaton Middleton) in the 2016 NHL Entry Draft.
