@@ -325,7 +325,7 @@ Washington Capitals: Signed defenseman Rob Zettler, who had been with the Nashvi
 
 Sep 6, 1999
 Los Angeles Kings: Signed right wing Glen Murray.
-Philadelphia Flyers: Announced the retirement of goaltender Ron Hextall and named him a scout; re-signed left wings Valeri Zelepukin and Craig Berube to one-year contracts.
+Philadelphia Flyers: Announced the retirement of goaltender Ron Hextall; named Ron Hextall scout; re-signed left wings Valeri Zelepukin and Craig Berube to one-year contracts.
 Pittsburgh Penguins: Re-signed center Jan Hrdina to a multi-year contract.
 Tampa Bay Lightning: Signed right wing Dan Kesa, who had been with the Pittsburgh Penguins, to a one-year contract.
 
@@ -345,7 +345,7 @@ Edmonton Oilers: Re-signed defenseman Christian Laflamme to a three-year contrac
 Los Angeles Kings: Re-signed defenseman Aki Berg.
 Nashville Predators: Re-signed left wing Patrick Cote; signed center Randy Robitaille and defenseman Craig Millar.
 Phoenix Coyotes: Signed defenseman Stanislav Neckar to a multi-year contract.
-Pittsburgh Penguins: Re-signed center Tyler Wright to a multi-year contract; signed right wing Tom Chorske, left wing Greg Crozier and forward Dylan Gyori.
+Pittsburgh Penguins: Re-signed center Tyler Wright to a multi-year contract; signed left wing Greg Crozier and forward Dylan Gyori.
 St. Louis Blues: Named Aaron Komarek strength and conditioning coordinator, Stanley Richardson communications manager and Jeff Wright massage therapist.
 San Jose Sharks: Re-signed center Jarrod Skalde; signed right wing Teemu Riihijarvi.
 Tampa Bay Lightning: Named Brad Shaw assistant coach.
@@ -353,12 +353,14 @@ Vancouver Canucks: Re-signed left wing Todd Bertuzzi.
 
 Sep 2, 1999
 Boston Bruins: Signed left wing Antti Laaksonen and goaltender John Grahame to one-year contracts and defenseman Mattias Timander on a two-year contract.
+Minnesota Wild: Named Doug Risebrough executive vice president and general manager.
 Ottawa Senators: Signed right wing Kevin Dineen, who had been with the Carolina Hurricanes, to a multi-year contract.
+Pittsburgh Penguins: Signed left wing Tom Chorske, who had been with the Calgary Flames.
 Toronto Maple Leafs: Re-signed forwards Ladislav Kohn and Lonny Bohonos.
 
 Sep 1, 1999
 Chicago Blackhawks: Re-signed goaltender Jocelyn Thibault and defensemen Brad Brown and Jamie Allison to multi-year contracts.
-Dallas Stars: Signed right wing Warren Luhniing to a two-year contract an defenseman Keith Aldridge to a one-year contract with an option for the 2000-2001 season.
+Dallas Stars: Signed right wing Warren Luhning to a two-year contract; signed defenseman Keith Aldridge to a one-year contract with an option for the 2000-2001 season.
 Vancouver Canucks: Re-signed right wing Markus Naslund.
 
 Aug 31, 1999
@@ -464,7 +466,7 @@ Carolina Hurricanes: Signed goaltender Mark Fitzpatrick.
 
 Aug 6, 1999
 Calgary Flames: Signed forward Dave Roche and defensemen Wade Belak and Lee Sorochan.
-Tampa Bay Lightning: Acquired goaltender Jeff Reese and a ninth-round pick (287th overall, Lightning selected Milan Kopecky) in the 2000 NHL Entry Draft from the Toronto Maple Leafs for a ninth-round pick (265th overall, Maple Leafs selected Jean-Philippe Cote) in the 2000 NHL Entry Draft; announced the retirement of Reese and named him goaltending consultant.
+Tampa Bay Lightning: Acquired goaltender Jeff Reese and a ninth-round pick (287th overall, Lightning selected Milan Kopecky) in the 2000 NHL Entry Draft from the Toronto Maple Leafs for a ninth-round pick (265th overall, Maple Leafs selected Jean-Philippe Cote) in the 2000 NHL Entry Draft; announced the retirement of goaltender Jeff Reese; named Jeff Reese goaltending consultant.
 
 Aug 5, 1999
 Buffalo Sabres: Announced that defenseman Jason Woolley has been awarded a one-year contract by an NHL-NHLPA arbitrator.
@@ -511,7 +513,7 @@ Vancouver Canucks: Re-signed forward Harry York.
 
 Jul 28, 1999
 Anaheim Mighty Ducks: Signed defenseman Oleg Tverdovsky to a one-year contract.
-Boston Bruins: Signed left wing Dave Andreychuk to a one-year contract.
+Boston Bruins: Signed left wing Dave Andreychuk, who had been with the New Jersey Devils, to a one-year contract.
 Dallas Stars: Re-signed center Guy Carbonneau to a two-year contract.
 New York Rangers: Signed defenseman Tomas Kloucek.
 
@@ -538,7 +540,7 @@ Atlanta Thrashers: Signed right wing Steve Staios.
 Buffalo Sabres: Re-signed left wing Craig Fisher.
 New York Rangers: Signed goaltender Milan Hnilicka.
 Tampa Bay Lightning: Signed defenseman Phil von Stefenelli to a one-year contract.
-Toronto Maple Leafs: Signed center-right wing Syl Apps.
+Toronto Maple Leafs: Signed center/right wing Syl Apps.
 
 Jul 21, 1999
 Florida Panthers: Signed goaltenders Ryan Bach and Richard Shulmistra and defenseman Brent Thompson.
@@ -612,7 +614,7 @@ Buffalo Sabres: Re-signed defenseman Mike Hurlbut to a multi-year contract.
 Dallas Stars: Signed defenseman Mark Wotton, who had been with the Vancouver Canucks, to a three-year contract.
 Detroit Red Wings: Signed goaltender Ken Wregget to a multi-year contract.
 Phoenix Coyotes: Signed defenseman Kiril Safronov, their first-round pick in the 1999 NHL Entry Draft.
-Toronto Maple Leafs: Signed defensemen Greg Andrusak, who had been with the Pittsburgh Penguins, and Terran Sandwith, who had been with the Anaheim Mighty Ducks; signed defenseman Brian Wiseman.
+Toronto Maple Leafs: Signed defenseman Greg Andrusak, who had been with the Pittsburgh Penguins; signed defenseman Terran Sandwith, who had been with the Anaheim Mighty Ducks; signed defenseman Brian Wiseman.
 
 Jul 8, 1999
 Anaheim Mighty Ducks: Re-signed goaltender Dominic Roussel to a multi-year contract.
@@ -677,6 +679,7 @@ Vancouver Canucks: Acquired a first-round pick (later traded to Atlanta; 1st ove
 
 Jun 25, 1999
 Atlanta Thrashers: Claimed the following players in the 1999 NHL Expansion Draft: left wings Johan Garpenlov (Florida Panthers), Matt Johnson (Los Angeles Kings) and Tomi Kallio (Colorado Avalanche); centers Sylvain Cloutier (Chicago Blackhawks), Mike Stapleton (Phoenix Coyotes) and Terry Yake (St. Louis Blues); right wings Kelly Buchberger (Edmonton Oilers), Phil Crowe (Ottawa Senators), Peter Ferraro (Boston Bruins), Jody Hull (Philadelphia Flyers), Steve Staios (Vancouver Canucks), Ed Ward (Calgary Flames) and Alexei Yegorov (San Jose Sharks); defensemen Petr Buzek (Dallas Stars), Brett Clark (Montreal Canadiens), Kevin Dean (New Jersey Devils), Maxim Galanov (Pittsburgh Penguins), David Harlock (New York Islanders), Jamie Pushor (Anaheim Mighty Ducks), Darryl Shannon (Buffalo Sabres), Chris Tamer (New York Rangers), Mark Tinordi (Washington Capitals) and Yannick Tremblay (Toronto Maple Leafs); goaltenders Trevor Kidd (Carolina Hurricanes), Norm Maracle (Detroit Red Wings) and Corey Schwab (Tampa Bay Lightning); acquired center Randy Robitaille from the Boston Bruins for right wing Peter Ferraro; acquired defenseman Gord Murphy, center Herbert Vasilyev, defenseman Daniel Tjarnqvist and a sixth-round pick (previously acquired from Ottaws, later traded to Dallas; 184th overall) in the 1999 NHL Entry Draft from the Florida Panthers for goaltender Trevor Kidd; acquired goaltender Scott Langkow from the Phoenix Coyotes for future considerations; acquired defenseman Ulf Samuelsson from the Detroit Red Wings for future considerations; acquired defenseman Sergei Vshedkevich from the New Jersey Devils for future considerations; acquired right wing Dean Sylvester from the Buffalo Sabres for future considerations; acquired fourth- and ninth-round picks (99th and 246th overall, Thrashers selected Rob Zepp and Ray DiLauro) in the 1999 NHL Entry Draft from the Vancouver Canucks for future considerations; acquired center Andreas Karlsson from the Calgary Flames for future considerations.
+Dallas Stars: Acquired right wing Warren Luhning from the New York Islanders for a third-round pick (later traded back to Dallas) in the 1999 NHL Entry Draft.
 
 Jun 22, 1999
 Carolina Hurricanes: Signed head coach Paul Maurice to a three-year contract; signed assistant coaches Kevin McCarthy and Randy Ladoceur to three-year contracts.
@@ -692,6 +695,7 @@ Washington Capitals: Re-signed left wing James Black to a two-year contract; acq
 
 Jun 20, 1999
 New York Islanders: Acquired center Olli Jokinen, left wing Josh Green, defenseman Mathieu Biron and a first-round pick (8th overall, Islanders selected Taylor Pyatt) in the 1999 NHL Entry Draft from the Los Angeles Kings for right wing Zigmund Palffy, center Bryan Smolinski, goaltender Marcel Cousineau and a fourth-round pick (previously acquired from New Jersey; 125th overall, Kings selected Daniel Johansson) in the 1999 NHL Entry Draft.
+St. Louis Blues: Acquired goaltender Roman Turek from the Dallas Stars for a second-round pick (previously acquired as compensaation for ...; 66th overall, Stars selected Dan Jancevski) in the 1999 NHL Entry Draft.
 
 Jun 18, 1999
 Atlanta Thrashers: Acquired goaltender Damian Rhodes from the Ottawa Senators for future considerations.

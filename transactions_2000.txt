@@ -91,7 +91,7 @@ Buffalo Sabres: Re-signed goaltender Martin Biron.
 
 Nov 6, 2000 
 Dallas Stars: Signed defenseman Dan Jancevski to a three-year contract. 
-Florida Panthers: Signed left wing Greg Adams to a one-year contract; acquired defenseman Anders Eriksson from the Chicago Blackhawks for defenseman Jaroslav Spacek.
+Florida Panthers: Signed left wing Greg Adams, who had been with the Phoenix Coyotes, to a one-year contract; acquired defenseman Anders Eriksson from the Chicago Blackhawks for defenseman Jaroslav Spacek.
 New Jersey Devils: Acquired defenseman Geordie Kinnear from the Atlanta Thrashers for future considerations. 
 
 Nov 4, 2000 
@@ -293,7 +293,7 @@ New York Rangers: Signed forward Johan Witehall.
 
 Sep 6, 2000
 Atlanta Thrashers: Signed defenseman Petr Buzek.
-Calgary Flames: Announced the retirement of goaltender Grant Fuhr and named him goaltending consultant.
+Calgary Flames: Announced the retirement of goaltender Grant Fuhr; named Grant Fuhr goaltending consultant.
 Chicago Blackhawks: Announced an affiliation agreement with Jackson of the ECHL.
 Colorado Avalanche: Re-signed right wing Milan Hejduk to a multi-year contract.
 Edmonton Oilers: Signed left wing Rem Murray to a three-year contract.
@@ -321,7 +321,7 @@ Vancouver Canucks: Re-signed center Brendan Morrison.
 
 Aug 31, 2000
 Columbus Blue Jackets: Signed goaltender Marc Denis to a multi-year contract.
-Edmonton Oilers: Signed defenseman Alain Nasreddine and right wing Paul Healey.
+Edmonton Oilers: Signed defenseman Alain Nasreddine; signed right wing Paul Healey, who had been with the Nashville Predators.
 Minnesota Wild: Signed defensemen Eric Charron and Lawrence Nycholat.
 Philadelphia Flyers: Re-signed goaltender Brian Boucher to a two-year contract.
 Phoenix Coyotes: Signed defensemen Joel Bouchard and Dave MacIntyre.
@@ -512,6 +512,7 @@ Dallas Stars: Re-signed left wing Jamie Wright to a one-year contract; signed ce
 Detroit Red Wings: Re-signed goaltender Chris Osgood to a three-year contract.
 Florida Panthers: Re-signed center Rob Niedermayer to a one-year contract.
 Pittsburgh Penguins: Signed defenseman Sven Butenschon and forward Darcy Verot.
+St. Louis Blues: Announced the retirement of right wing Kelly Chase.
 
 Jul 27, 2000
 Anaheim Mighty Ducks: Re-signed left wing Mike Leclerc to a one-year contract.
@@ -719,7 +720,7 @@ Boston Bruins: Acquired a ninth-round pick (279th overall, Bruins selected Andre
 Buffalo Sabres: Acquired an eighth-round pick (258th overall, Sabres selected Sean McMorrow) in the 2000 NHL Entry Draft from the Calgary Flames for an eighth-round pick (251st overall, Flames selected Ville Hamalainen) in the 2001 NHL Entry Draft; acquired a seventh-round pick (previously acquired from Ottawa; 220th overall, Sabres selected Paul Gaustad) in the 2000 NHL Entry Draft from the Tampa Bay Lightning for seventh- (later traded to Ottawa; 218th overall) and ninth-round (281st overall, Lightning selected Ilya Solarev) picks in the 2001 NHL Entry Draft.
 Carolina Hurricanes: Acquired a fourth-round pick (97th overall, Hurricanes selected Niclas Wallin) in the 2000 NHL Entry Draft from the Atlanta Thrashers for fourth- (previously acquired from Anaheim; 108th overall, Thrashers selected Blake Robson), fifth- (previously received as compensation for the loss of Ray Sheppard; 147th overall, Thrashers selected Matthew McRae) and eighth-round (244th overall, Thrashers selected Eric Bowen) picks in the 2000 NHL Entry Draft.
 Columbus Blue Jackets: Acquired a ninth-round pick (286th overall, Blue Jackets selected Andrej Nedorost) in the 2000 NHL Entry Draft from the Florida Panthers for a ninth-round pick (267th overall, Panthers selected Ivan Majesky) in the 2001 NHL Entry Draft; acquired a ninth-round pick (292nd overall, Blue Jackets selected Louis Manderville) in the 2000 NHL Entry Draft from the Detroit Red Wings for a ninth-round pick (262nd overall, Red Wings selected Christian Soderstrom) in the 2002 NHL Entry Draft.
-Dallas Stars: Acquired defenseman Brad Lukowich and third- and ninth-round picks (70th and 265th overall, Stars selected Yared Hagos and Dale Sullivan) in the 2001 NHL Entry Draft from the Minnesota Wild for centers Aaron Gavey and Pavel Patera, an eighth-round pick (255th overall, Wild selected Eric Johansson) in the 2000 NHL Entry Draft and a fourth-round pick (later traded to Los Angeles via Minnesota; 104th overall) in the 2002 NHL Entry Draft.
+Dallas Stars: Acquired defenseman Brad Lukowich and third- and ninth-round picks (70th and 265th overall, Stars selected Yared Hagos and Dale Sullivan) in the 2001 NHL Entry Draft from the Minnesota Wild for center Aaron Gavey, left wing Pavel Patera, an eighth-round pick (255th overall, Wild selected Eric Johansson) in the 2000 NHL Entry Draft and a fourth-round pick (later traded to Los Angeles via Minnesota; 104th overall) in the 2002 NHL Entry Draft.
 Detroit Red Wings: Acquired a fourth-round pick (102nd overall, Red Wings selected Stefan Liv) in the 2000 NHL Entry Draft from the Nashville Predators for a third-round pick (later traded to Philadelphia; 95th overall) in the 2001 NHL Entry Draft.
 Los Angeles Kings: Acquired a fourth-round pick (118th overall, Kings selected Lubomir Visnovsky) in the 2000 NHL Entry Draft from the Ottawa Senators for two fifth-round picks (the latter received acquired as compensation for the loss of Doug Bodger; 156th and 157th overall, Senators selected Greg Zanon and Grant Potulny) in the 2000 NHL Entry Draft.
 Montreal Canadiens: Acquired a fourth-round pick (114th overall, Canadiens selected Christian Larrivee) in the 2000 NHL Entry Draft from the Pittsburgh Penguins for fourth- (previously acquired from Washington via Anaheim; 124th overall, Penguins selected Michel Ouellet) and fifth-round (146th overall, Penguins David Koci) picks in the 2000 NHL Entry Draft; acquired a sixth-round pick (182nd overall, Canadiens selected Petr Chvojka) in the 2000 NHL Entry Draft from the Buffalo Sabres for a fifth-round pick (???xxx) in the 2001 NHL Entry Draft.
@@ -789,7 +790,7 @@ Columbus Blue Jackets: Acquired right wing Krzysztof Oliwa from the New Jersey D
 Dallas Stars: Signed goaltender Chad Alban to a one-year contract.
 Edmonton Oilers: Acquired left wing Patrick Cote from the Nashville Predators for a fifth-round pick (previously acquired from Phoenix; 154th overall, Oilers selected Matt Koalska) in the 2000 NHL Entry Draft.
 Los Angeles Kings: Signed left wing Tomas Vlasak.
-Minnesota Wild: Acquired goaltender Manny Fernandez and defenseman Brad Lukowich from the Dallas Stars for a third-round pick (68th overall, Stars selected Joel Lundqvist) in the 2000 NHL Entry Draft and a fourth-round pick (latert traded to Los Angeles via Minnesota; 104th overall) in the 2002 NHL Entry Draft.
+Minnesota Wild: Acquired goaltender Manny Fernandez and defenseman Brad Lukowich from the Dallas Stars for a third-round pick (68th overall, Stars selected Joel Lundqvist) in the 2000 NHL Entry Draft and a fourth-round pick (later traded to Los Angeles via Minnesota; 104th overall) in the 2002 NHL Entry Draft.
 Nashville Predators: Re-signed forward Patric Kjellberg.
 New Jersey Devils: Acquired right wing-defenseman Steve Staios from the Atlanta Thrashers for a ninth-round pick (290th overall, Thrashers selected Simon Gamache) in the 2000 NHL Entry Draft; acquired right wing Ed Ward from the Anaheim Mighty Ducks for a seventh-round pick (224th overall, Mighty Ducks selected Tony Martensson) in the 2001 NHL Entry Draft.
 Philadelphia Flyers: Acquired center Mark Janssens from the Chicago Blackhawks for a ninth-round pick (291st overall, Blackhawks selected Arne Ramholt) in the 2000 NHL Entry Draft.
@@ -1093,9 +1094,9 @@ Edmonton Oilers: Acquired right wing Alexandre Volchkov from the Washington Capi
 Pittsburgh Penguins: Claimed right wing Pat Falloon off waivers from the Edmonton Oilers.
 
 Feb 3, 2000
-Cakgary Flames: Claimed defenseman Stewart Malgunas off waivers from the Nashville Predators.
+Calgary Flames: Claimed defenseman Stewart Malgunas off waivers from the Nashville Predators.
 New York Rangers: Acquired right wing Jason Dawe from the Nahville Predators for defenseman John Namestnikov.
-Phoenix Coyotes: Signed left wing Benoit Hogue to a one-year contract.
+Phoenix Coyotes: Signed left wing Benoit Hogue, who had been with the Dallas Stars, to a one-year contract.
 
 Feb 2, 2000
 Nashville Predators: Acquired defenseman Stewart Malgunas from the Washington Capitals for future considerations.
