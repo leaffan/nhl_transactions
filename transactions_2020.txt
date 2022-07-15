@@ -24,7 +24,7 @@ Montreal Canadies: Signed right wing Corey Perry to a one-year contract.
 Dec 27, 2020
 Buffalo Sabres: Granted leave of absence to defenseman Casey Nelson to opt out of the 2020-21 NHL season.
 Ottawa Senators: Signed left wing Tim Stuetzle to a three-year contract.
-Tampa Bay Lightning: Acquired goaltender Anders Nilsson and right wing Marian Gaborik from the Ottawa Senators for defenseman Braydon Coburn, center Cedric Paquette and a second-round pick in the 2022 NHL Draft.
+Tampa Bay Lightning: Acquired goaltender Anders Nilsson and right wing Marian Gaborik from the Ottawa Senators for defenseman Braydon Coburn, center Cedric Paquette and a second-round pick (64th overall, Senators selected Filip Nordberg) in the 2022 NHL Draft.
 Winnipeg Jets: Announced the retirement of center Mark Letestu.
 
 Dec 26, 2020
@@ -273,7 +273,7 @@ Vancouver Canucks: Re-signed defenseman Ashton Sautner to a one-year contract.
 Oct 12, 2020
 Carolina Hurricanes: Signed defenseman Joakim Ryan, who had been with the Los Angeles Kings, to a one-year contract.
 Chicago Blackhawks: Signed left wing Mattias Janmark, who had been with the Dallas Stars, to a one-year contract; signed center Lucas Wallmark, who had been with the Florida Panthers, to a one-year contract.
-Colorado Avalanche: Re-signed defenseman Ryan Graves to a three-year contract; acquired defenseman Devon Toews from the New York Islanders for a second-round pick (later traded to Arizona) in the 2021 NHL Draft and a second-round pick in the 2022 NHL Draft.
+Colorado Avalanche: Re-signed defenseman Ryan Graves to a three-year contract; acquired defenseman Devon Toews from the New York Islanders for a second-round pick (later traded to Arizona) in the 2021 NHL Draft and a second-round pick (65th overall, Islanders selected Calle Odelius) in the 2022 NHL Draft.
 Los Angeles Kings: Re-signed defenseman Austin Strand to a one-year contract.
 Minnesota Wild: Re-signed goaltender Kaapo Kahkonen to a two-year contract.
 Montreal Canadiens: Signed right wing Tyler Toffoli, who had been with the Vancouver Canucks, to a four-year contract.
@@ -282,6 +282,7 @@ New York Islanders: Re-signed defenseman Grant Hutton to a two-year contract; si
 New York Rangers: Signed left wing Alexis Lafreniere to a three-year contract.
 Philadelphia Flyers: Signed defenseman Erik Gustafsson, who had been with the Calgary Flames, to a one-year contract; signed center Zayde Wisdom to a three-year contract.
 Tampa Bay Lightning: Re-signed defenseman Ben Thomas to a one-year contract.
+Vancouver Canucks: Acquired defenseman Nate Schmidt from the Vegas Golden Knights for a third-round pick (later traded back to Vancouver via Ottawa) in the 2022 NHL Draft.
 Vegas Golden Knights: Signed defenseman Alex Pietrangelo, who had been with the St. Louis Blues, to a seven-year contract.
 
 Oct 11, 2020
@@ -352,7 +353,7 @@ Toronto Maple Leafs: Signed defenseman T.J. Brodie, who had been with the Calgar
 Vancouver Canucks: Signed goaltender Braden Holty, who had been with the Washington Capitals, to two-year contract; re-signed left wing Tyler Motte to a two-year contract.
 Vegas Golden Knights: Re-signed center Tomas Nosek to a one-year contract.
 Washington Capitals: Signed goaltender Henrik Lundqvist, who had been with the New York Rangers, to a one-year contract; signed defenseman Justin Schultz, who had been with the Pittsburgh Penguins, to a two-year contract; announced the retirement of defenseman Connor Hobbs
-Winnipeg Jets: Acquired center Paul Stastny from the Vegas Golden Knights for defenseman Clas Dahlstrom and a conditional fourth-round pick in the 2022 NHL Draft; re-signed defenseman Nathan Beaulieu and right wing Mason Appleton to two-year contracts; re-signed defenseman Luca Sbisa to a one-year contract.
+Winnipeg Jets: Acquired center Paul Stastny from the Vegas Golden Knights for defenseman Clas Dahlstrom and a conditional fourth-round pick (later traded to the New York Rangers) in the 2022 NHL Draft; re-signed defenseman Nathan Beaulieu and right wing Mason Appleton to two-year contracts; re-signed defenseman Luca Sbisa to a one-year contract.
 
 Oct 8, 2020
 Anaheim Ducks: Signed center Chase De Leo to a one-year contract extension.
@@ -369,7 +370,7 @@ Tampa Bay Lightning: Signed goaltender Spencer Martin to a one-year contract ext
 Vegas Golden Knights: Signed defenseman Jimmy Schuldt and center Reid Duke to one-year contract extensions.
 
 Oct 7, 2020
-Anaheim Ducks: Acquired a seventh-round pick (207th overall, Ducks select Ethan Bowen) in the 2020 NHL Draft from the Columbus Blue Jackets for a conditional seventh-round pick in the 2021 or 2022 NHL Draft.
+Anaheim Ducks: Acquired a seventh-round pick (207th overall, Ducks select Ethan Bowen) in the 2020 NHL Draft from the Columbus Blue Jackets for a conditional seventh-round pick (203rd overall, Blue Jackets selected James Fisher) in the 2022 NHL Draft.
 Arizona Coyotes: Acquired a seventh-round pick (192nd overall, Coyotes selected Elliot Ekefjard) in the 2020 NHL Draft from the New Jersey Devils for a seventh-round pick (203rd overall, Devils selected Zakhar Bardakov) in the 2021 NHL Draft.
 Buffalo Sabres: Acquired a second-round pick in the 2020 NHL Draft (34th overall, Sabres selected John-Jason Peterka) from the San Jose Sharks for second- (38th overall, Sharks selected Thomas Bordeleau) and fourth-round (later traded to Edmtonton) picks in the 2020 NHL Draft; signed goaltender Jonas Johansson to a one-year contract extension.
 Chicago Blackhawks: Acquired a seventh-round pick (previously acquired from Ottawa; 188th overall, Blackhawks selected Louis Crevier) in the 2020 NHL Draft from the Montreal Canadiens for a seventh-round pick (previously acquired from Montreal, later traded to Arizona) in the 2021 NHL Draft.
@@ -386,7 +387,7 @@ Philadelphia Flyers: Acquired a fourth-round pick (previously acquired from Detr
 San Jose Sharks: Acquired a third-round pick (76th overall, Sharks selected Daniil Gushchin) in the 2020 NHL Draft from the Edmonton Oilers for fourth- and fifth-round picks (previously acquired from Buffalo and Ottawa; 100th and 126th overall, Oilers selected Carter Savoie and Tyler Tullio) in the 2020 NHL Draft; acquired a fourth-round pick (98th overall, Sharks selected Brandon Coe) in the 2020 NHL Draft from the Montreal Canadiens for a third-round pick (previously acquired from Washington; 87th overall, Canadiens selected Dmitri Kostenko) in the 2021 NHL Draft; signed center Antti Suomela to a one-year contract extension.
 Tampa Bay Lightning: Acquired a second-round pick (previously acquired from St. Louis; 57th overall, Lightning selected Jack Finley) in the 2020 NHL Draft from the Montreal Canadiens for a second-round pick (64th overall, Canadiens selected Oliver Kapanen) in the 2021 NHL Draft and a fourth-round pick (124th overall, Canadiens selected Sean Farrell) in the 2020 NHL Draft; signed center Mitchell Stephens to a two-year contract extension; signed left wing Gemel Smith to a one-year contract extension.
 Toronto Maple Leafs: Acquired a fifth-round pick (previously acquired from Toronto; 137th overall, Maple Leafs selected Dmitri Ovchinnikov) in the 2020 NHL Draft from the Florida Panthers for fifth- (previously acquired from Vegas; 153rd overall, Panthers selected Kasper Puutio) and seventh-round picks (212th overall, Panthers selected Devon Levi) in the 2020 NHL Draft; acquired a seventh-round pick (213th overall, Maple Leafs selected Ryan Tverberg) in the 2020 NHL Draft from the Boston Bruins for a seventh-round pick (217th overall, Bruins selected Ty Gallagher) in the 2021 NHL Draft.
-Vegas Golden Knights: Acquired a fifth-round pick (125th overall, Golden Knights select Jesper Vikman) in the 2020 NHL Draft from the Detroit Red Wings for a fourth-round pick in the 2022 NHL Draft; signed center Chandler Stephenson to a four-year contract extension; signed left wing Gage Quinney to a one-year contract extension.
+Vegas Golden Knights: Acquired a fifth-round pick (125th overall, Golden Knights select Jesper Vikman) in the 2020 NHL Draft from the Detroit Red Wings for a fourth-round pick (113rd overall, Red Wings selected Amadeus Lombardi) in the 2022 NHL Draft; signed center Chandler Stephenson to a four-year contract extension; signed left wing Gage Quinney to a one-year contract extension.
 Washington Capitals: Acquired a seventh-round pick (previously acquired from Colorado; 211th overall, Capitals selected Oskar Magnusson) in the 2020 NHL Draft from the Pittsburgh Penguins for a seventh-round pick (215th overall, Penguins selected Daniel Laatsch) in the 2021 NHL Draft.
 Winnipeg Jets: Signed defenseman Dylan DeMelo to a four-year contract extension.
 
@@ -406,7 +407,7 @@ New York Islanders: Signed defenseman Sebastian Aho to a two-year contract exten
 Ottawa Senators: Signed defenseman Josh Brown to a two-year contract extension.
 Philadelphia Flyers: Signed defenseman Justin Braun to a two-year contract extension; announced the retirement of defenseman Matt Niskanen.
 Pittsburgh Penguins: Bought out the contract of defenseman Jack Johnson.
-San Jose Sharks: Acquired goaltender Devan Dubnyk, left wing Ryan Donato and a seventh-round pick in the 2022 NHL Draft from the Minnesota Wild for a third-round pick (previously acquired from Pittsburgh, later traded to Edmonton) in the 2021 NHL Draft and a fifth-round pick in the 2022 NHL Draft; signed left wing Jayden Halbgewachs and defenseman Jacob Middleton to two-year contract extensions; signed center Maxim Letunov and defenseman Niclas Meloche to one-year contract extensions.
+San Jose Sharks: Acquired goaltender Devan Dubnyk, left wing Ryan Donato and a seventh-round pick (217th overall, Sharks selected Reese Laubach) in the 2022 NHL Draft from the Minnesota Wild for a third-round pick (previously acquired from Pittsburgh, later traded to Edmonton) in the 2021 NHL Draft and a fifth-round pick (later traded back to San Jose) in the 2022 NHL Draft; signed left wing Jayden Halbgewachs and defenseman Jacob Middleton to two-year contract extensions; signed center Maxim Letunov and defenseman Niclas Meloche to one-year contract extensions.
 Toronto Maple Leafs: Signed right wing Jason Spezza to a one-year contract extension.
 
 Oct 4, 2020
@@ -500,7 +501,7 @@ Sep 4, 2020
 Montreal Canadiens: Signed left wing Lukas Vejdemo to a one-year contract extension.
 
 Sep 2, 2020
-Montreal Canadiens: Acquired goaltender Jake Allen and a seventh-round pick in the 2022 NHL Draft from the St. Louis Blues for third- (previously acquired from Washington; 86th overall, Blues selected Dylan Peterson) and seventh-round (previously acquired from Chicago, later traded to Detroit) picks in the 2020 NHL Draft.
+Montreal Canadiens: Acquired goaltender Jake Allen and a seventh-round pick (later traded back to Montreal via Philadelphia and Arizona) in the 2022 NHL Draft from the St. Louis Blues for third- (previously acquired from Washington; 86th overall, Blues selected Dylan Peterson) and seventh-round (previously acquired from Chicago, later traded to Detroit) picks in the 2020 NHL Draft.
 
 Sep 1, 2020
 Los Angeles Kings: Signed right wing Austin Wagner to a three-year contract extension; signed left wing Carl Grundstrom to a two-year contract extension.
@@ -918,7 +919,7 @@ Feb 27, 2002
 Vegas Golden Knights: Signed left wing William Carrier to a four-year contract extension.
 
 Feb 24, 2020
-Anaheim Ducks: Acquired defenseman Joel Persson from the Edmonton Oilers for goaltender Angus Redmond and a conditional seventh-round pick (if Persson plays in at least 25 games for the Ducks in the 2020-21 season) in the 2022 NHL Draft; acquired left wing Sonny Milano from the Columbus Blue Jackets for center Devin Shore; claimed center Andrew Agozzino off waivers from the Pittsburgh Penguins.
+Anaheim Ducks: Acquired defenseman Joel Persson from the Edmonton Oilers for goaltender Angus Redmond and a conditional seventh-round pick (if Persson plays in at least 25 games for the Ducks in the 2020-21 season, condition not fulfilled) in the 2022 NHL Draft; acquired left wing Sonny Milano from the Columbus Blue Jackets for center Devin Shore; claimed center Andrew Agozzino off waivers from the Pittsburgh Penguins.
 Arizona Coyotes: Acquired right wing Markus Hannikainen from the Columbus Blue Jackets for a conditional seventh-round pick (if Hannikainen plays in at least 10 games for the Coyotes in the 2019-20 regular season, condition not met) in the 2020 NHL Draft.
 Boston Bruins: Acquired left wing Nick Ritchie from the Anaheim Ducks for left wing Danton Heinen.
 Buffalo Sabres: Acquired left wing Dominik Kahun from the Pittsburgh Penguins for left wing Conor Sheary and center Evan Rodrigues; acquired right wing Wayne Simmonds from the New Jersey Devils for a conditional fifth-round pick (a fourth-round pick if Simmonds plays in at least 10 games of the 2019-20 regular season and Buffalo qualifies for the 2019-20 playoffs, condition not fulfilled; 129th overall, Devils selected Topias Vilen) in the 2021 NHL Draft.
@@ -929,7 +930,7 @@ Colorado Avalanche: Acquired left wing Vladislav Namestnikov from the Ottawa Sen
 Detroit Red Wings: Claimed left wing Dmytro Timashov off waivers from the Toronto Maple Leafs.
 Edmonton Oilers: Acquired right wing Andreas Athanasiou and left wing Ryan Kuffner from the Detroit Red Wings for center Sam Gagner, a second-round pick (later traded to Los Angeles) in the 2020 NHL Draft and a second-round pick (later traded to the New York Islanders) in the 2021 NHL Draft; acquired left wing Tyler Ennis from the Ottawa Senators for a fifth-round pick (later traded to Anaheim) in the 2021 NHL Draft; acquired defenseman Mike Green from the Detroit Red Wings for center Kyle Brodziak and a conditional fourth-round pick (a third-round pick in the 2021 NHL Draft if Edmonton reaches the 2020 Conference Finals and Green plays in at least 50% of their playoff games, condition not met; 107th overall, Red Wings selected Jan Bednar) in the 2020 NHL Draft.
 Florida Panthers: Acquired defenseman Emil Djuse from the Dallas Stars for a sixth-round pick (previously acquired from Buffalo via Carolina; 162nd overall, Stars selected Yevgeni Oksentyuk) in the 2020 NHL Draft; acquired right wing Matthew Peca from the Montreal Canadiens for center Aaron Luchuk and a seventh-round pick (later traded to Chicago) in the 2020 NHL Draft.
-Nashville Predators: Acquired defenseman Korbinian Holzer from the Anaheim Ducks for defenseman Matt Irwin and a sixth-round pick in the 2022 NHL Draft; signed right wing Rocco Grimaldi to two-year contract extension.
+Nashville Predators: Acquired defenseman Korbinian Holzer from the Anaheim Ducks for defenseman Matt Irwin and a sixth-round pick (178th overall, Ducks selected Vyacheslav Buteyets) in the 2022 NHL Draft; signed right wing Rocco Grimaldi to two-year contract extension.
 New York Islanders: Acquired center Jean-Gabriel Pageau from the Ottawa Senators for a conditional first-round pick in the 2020 NHL Draft (if the Islanders win the 2020 draft lottery and select in the top 3 the pick is transferred to 2021, condition not met; 28th overall, Senators selected Ridly Greig), a second-round pick in the 2020 NHL Draft (later traded to Toronto) and a conditional third-round pick (if the Islanders win the 2020 Stanley Cup; condition not met) in the 2022 NHL Draft; signed center Jean-Gabriel Pageau to a six-year contract extension.
 New York Rangers: Signed left wing Chris Kreider to a seven-year contract extension. 
 Philadelphia Flyers: Acquired center Derek Grant from the Anaheim Ducks for center Kyle Criscuolo and a conditional fourth-round pick (Anaheim will receive the earlier of either Philadelphia's or Nashville's pick; previously acquired from Nashville; 104th overall, Ducks selected Thimo Nickl) in the 2020 NHL Draft; acquired center Nate Thompson from the Montreal Canadiens for a fifth-round pick (142nd overall, Canadiens selected Daniil Sobolev) in the 2021 NHL Draft.
@@ -976,7 +977,7 @@ Winnipeg Jets: Acquired defenseman Dylan DeMelo from the Ottawa Senators for a t
 
 Feb 17, 2020
 Ottawa Senators: Claimed right wing Jayce Hawryluk off waivers from the Florida Panthers.
-Vancouver Canucks: Acquired right wing Tyler Toffoli from thee Los Angeles Kings for left wing Tim Schaller, center Tyler Madden, a second-round pick (later traded to Detroit) in the 2020 NHL Draft and a conditional fourth-round pick (if Toffoli re-signs with Vancouver) in the 2022 NHL Draft.
+Vancouver Canucks: Acquired right wing Tyler Toffoli from thee Los Angeles Kings for left wing Tim Schaller, center Tyler Madden, a second-round pick (later traded to Detroit) in the 2020 NHL Draft and a conditional fourth-round pick (if Toffoli re-signs with Vancouver, condition not fulfilled) in the 2022 NHL Draft.
 
 Feb 16, 2020
 New York Islanders: Acquired defenseman Andy Greene from the New Jersey Devils for defenseman David Quenneville and a second-round pick (later traded to Colorado) in the 2021 NHL Draft.
