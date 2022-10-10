@@ -357,7 +357,6 @@ Nashville Predators: Signed center Jimmy Huntington to a one-year contract exten
 New York Rangers: Signed defenseman Libor Hajek to a one-year contract extension.
 Pittsburgh Penguins: Signed right wing Rickard Rakell to a six-year contract extension; signed right wing Alexander Nylander to a one-year contract extension.
 Seattle Kraken: Signed right wing Karson Kuhlman to a one-year contract extension.
-
 Toronto Maple Leafs: Acquired goaltender Matt Murray, a third-round pick in the 2023 NHL Draft and a seventh-round pick in the 2024 NHL Draft from the Ottawa Senators for future considerations.
 
 Jul 10, 2022
@@ -390,13 +389,10 @@ Jul 7, 2022
 Arizona Coyotes: Acquired a first-round pick (11th overall, Coyotes selected Conor Geekie) in the 2022 NHL Draft from the San Jose Sharks a first-round pick (previously acquired from Carolina via Montreal; 27th overall, Sharks selected Filip Bystedt) and two second-round picks (the latter previously acquired from the New York Islanders; 34th and 45th overall, Sharks selected Cameron Lund and Mattias Havelid) in the 2022 NHL Draft; acquired right wing Zack Kassian, a first-round pick (29th overall, Coyotes selected Maveric Lamoureux) in the 2022 NHL Draft and a third-round pick in the 2024 NHL Draft from the Edmonton Oilers for a first-round pick (previously acquired from Colorado; 32nd overall, Oilers selected Reid Schaefer) in the 2022 NHL Draft.
 Chicago Blackhawks: Acquired goaltender Petr Mrazek and a first-round pick (25th overall, Blackhawks selected Sam Rinzel) in the 2022 NHL Draft from the Toronto Maple Leafs for a second-round pick (38th overall, Maple Leafs selected Fraser Minten) in the 2022 NHL Draft.
 Colorado Avalanche: Acquired goaltender Alexandar Georgiev from the New York Rangers for third- and fifth-round picks (97th and 161st overall, Rangers selected Bryce McConnell-Barker and Maxim Barbashev) in the 2022 NHL Draft and a third-round pick in the 2023 NHL Draft.
+Minnesota Wild: Signed goaltender Marc-Andre Fleury to a two-year contract extension.
 Montreal Canadiens: Acquired center Kirby Dach from the Chicago Blackhawks for a first- and third-round picks (the former previously acquired from the New York Islanders; 13th and 66th overall, Blackhawks selected Frank Nazar and Gavin Hayes) in the 2022 NHL Draft.
 New York Islanders: Acquired defenseman Alexander Romanov and a fourth-round pick (98th overall, Islanders selected Isaiah George) in the 2022 NHL Draft from the Montreal Canadiens for a first-round pick (later traded to Chicago) in the 2022 NHL Draft.
-Ottawa Senators: Acquired right wing Alex DeBrincat from the Chicago Blackhawks for first- and second-round picks (7th and 39th overall, Blackhawks selected Kevin Korchinski and Paul Ludwinski) in the 2022 NHL Draft and a third-round pick in the 2024 NHL Draft.
-
-Jul 7, 2022
-Minnesota Wild: Signed goaltender Marc-Andre Fleury to a two-year contract extension.
-Ottawa Senators: Signed defenseman Dillon Heatherington to a two-year contract extension.
+Ottawa Senators: Acquired right wing Alex DeBrincat from the Chicago Blackhawks for first- and second-round picks (7th and 39th overall, Blackhawks selected Kevin Korchinski and Paul Ludwinski) in the 2022 NHL Draft and a third-round pick in the 2024 NHL Draft; signed defenseman Dillon Heatherington to a two-year contract extension.
 Pittsburgh Penguins: Signed defenseman Kris Letang to a six-year contract extension.
 
 Jul 6, 2022
@@ -498,6 +494,7 @@ New York Rangers: Signed right wing Vitali Kravtsov to a one-year contract exten
 
 Jun 10, 2022
 Buffalo Sabres: Acquired goaltender Ben Bishop and a seventh-round pick (211th overall, Sabres selected Linus Sjodin) in the 2022 NHL Draft from the Dallas Stars for future considerations.
+Florida Panthers: Signed defenseman Calle Sjalin to a two-year contract.
 
 Jun 9, 2022
 Detroit Red Wings: Signed center Elmer Soderblom to a three-year contract.
@@ -526,7 +523,7 @@ San Jose Sharks: Signed defenseman Gannon Laroque to a three-year contract.
 May 31, 2022
 Anaheim Ducks: Signed left wing Pavol Regenda to a three-year contract. 
 Arizona Coyotes: Signed defenseman Ronald Knot to a one-year contract.
-Buffalo Sabres: Signed right wing Isak ROsen to a three-year contract.
+Buffalo Sabres: Signed right wing Isak Rosen to a three-year contract.
 
 May 30, 2022
 Winnipeg Jets: Signed defenseman Tyrel Bauer to a three-year contract.
