@@ -35,7 +35,7 @@ Vancouver Canucks: Signed center Max Sasson to a two-year contract-extension.
 Dec 12, 2025
 Carolina Hurricanes: Signed defenseman Joel Nystrom to a four-year contract extension.
 Edmonton Oilers: Acquired goaltender Tristan Jarry and center Samuel Poulin from the Pittsburgh Penguins for goaltender Stuart Skinner, defenseman Brett Kulak and a second-round pick in the 2029 NHL Draft; acquired defenseman Spencer Stastney from the Nashville Predators for a third-round pick in the 2027 NHL Draft.
-Minnesota Wild: Acquired defenseman Quinn Hughes from the Vancouver Canucks for center Marco Rossi, defenseman Zeev Buium, left wing Liam Öhgren and a first-round pick in the 2026 NHL Draft.
+Minnesota Wild: Acquired defenseman Quinn Hughes from the Vancouver Canucks for center Marco Rossi, defenseman Zeev Buium, left wing Liam Öhgren and a first-round pick (24th overall, Canucks selected Adam Novotny) in the 2026 NHL Draft.
 
 Dec 10, 2025
 Buffalo Sabres: Signed center Trevor Kuntar to a one-year contract.
@@ -988,7 +988,7 @@ Chicago Blackhawks: Acquired center Joe Veleno from the Detroit Red Wings for go
 Colorado Avalanche: Acquired center Charlie Coyle and a fifth-round pick (152nd overall, Avalanche selected Teddy Lechner) in the 2026 NHL Draft from the Boston Bruins for center Casey Mittelstadt, left wing William Zellers and a second-round pick (previously acquired from Carolina; 61st overall, Bruins selected Liam Pettersson) in the 2025 NHL Draft; signed defenseman Wyatt Aamodt to a two-year contract extension.
 Columbus Blue Jackets: Acquired center Luke Kunin from the San Jose Sharks for a fourth-round pick (previously acquired from St. Louis; 115th overall, Sharks selected Ilya Magomedsultanov) in the 2025 NHL Draft.
 Dallas Stars: Acquired right wing Mikko Rantanen from the Carolina Hurricanes for right wing Logan Stankoven, a first-round pick (later traded to Montreal via the New York Rangers and Vegas) in the 2026 NHL Draft, a first-round pick in the 2028 NHL Draft, a third-round pick (later traded to Ottawa via Los Angeles) in the 2026 NHL Draft and a third-round pick in the 2027 NHL Draft; signed right wing Mikko Rantanen to an eight-year contract extension; signed center Wyatt Johnston to a five-year contract extension.
-Edmonton Oilers: Acquired defenseman Jake Walman from the San Jose Sharks for a conditional (top-twelve protected) first-round pick in the 2026 NHL Draft and center Carl Berglund.
+Edmonton Oilers: Acquired defenseman Jake Walman from the San Jose Sharks for a conditional (top-twelve protected) first-round pick (later traded to Buffalo) in the 2026 NHL Draft and center Carl Berglund.
 Florida Panthers: Acquired left wing Brad Marchand (50% salary retained) from the Boston Bruins for a conditional second-round pick (a first-round pick in Florida wins two rounds in the 2025 NHL Playoffs and Marchand plays in 50% of the games) in the 2027 NHL Draft.
 Los Angeles Kings: Acquired left wing Andrei Kuzmenko and a seventh-round pick (196th overall, Kings selected Brendan McMorrow) in the 2025 NHL Draft from the Philadelphia Flyers for a third-round pick in the 2027 NHL Draft.
 New Jersey Devils: Acquired defenseman Dennis Cholowski from the New York Islanders for left wing Adam Beckman; acquired right wing Daniel Sprong from the Seattle Kraken for a seventh-round pick (204th overall, Kraken selected William Tomko) in the 2026 NHL Draft; acquired right wing Cody Glass and left wing Jonathan Gruden from the Pittsburgh Penguins for right wing Chase Stillman, center Max Graham and a third-round pick in the 2027 NHL Draft; signed defenseman Jonathan Kovacevic to a five-year contract extension.
@@ -997,7 +997,7 @@ Ottawa Senators: Acquired center Dylan Cozens, defenseman Dennis Gilbert and a s
 Philadelphia Flyers: Acquired right wing Givani Smith from the Colorado Avalanche for defenseman Erik Johnson.
 Pittsburgh Penguins: Acquired defenseman Conor Timmins and center Connor Dewar from the Toronto Maple Leafs for a fifth-round pick (137th overall, Maple Leafs selected William Belle) in the 2025 NHL Draft; signed defenseman Ryan Shea to a one-year contract extension.
 San Jose Sharks: Signed goaltender Gabriel Carriere to a one-year contract extension.
-Toronto Maple Leafs: Acquired center Scott Laughton and fourth- and sixth-round picks (the former later traded to Boston) in the 2025 NHL Draft from the Philadelphia Flyers for right wing Nikita Grebenkin and a conditional (top-ten protected) first-round pick in the 2027 NHL Draft; acquired defenseman Brandon Carlo from the Boston Bruins for center Fraser Minten, a conditional (top-five protected) first-round pick in the 2026 NHL Draft and a fourth-round pick (previously acquired from Philadelphia; 100th overall, Bruins selected Vashek Richards) in the 2025 NHL Draft; acquired center Reese Johnson from the Minnesota Wild for future considerations.
+Toronto Maple Leafs: Acquired center Scott Laughton and fourth- and sixth-round picks (the former later traded to Boston) in the 2025 NHL Draft from the Philadelphia Flyers for right wing Nikita Grebenkin and a conditional (top-ten protected) first-round pick in the 2027 NHL Draft; acquired defenseman Brandon Carlo from the Boston Bruins for center Fraser Minten, a conditional (top-five protected, condition not fulfilled) first-round pick in the 2026 or 2028 NHL Draft and a fourth-round pick (previously acquired from Philadelphia; 100th overall, Bruins selected Vashek Richards) in the 2025 NHL Draft; acquired center Reese Johnson from the Minnesota Wild for future considerations.
 Washington Capitals: Acquired left wing Anthony Beauvillier from the Pittsburgh Penguins for a second-round pick (later traded to Los Angeles) in the 2025 NHL Draft.
 Winnipeg Jets: Acquired left wing Brandon Tanev from the Seattle Kraken for a second-round pick in the 2027 NHL Draft; acquired defenseman Luke Schenn from the Pittsburgh Penguins for a second-round pick (39th overall, Penguins selected Markus Ruck) in the 2026 NHL Draft and a fourth-round pick in the 2027 NHL Draft.
 
@@ -1111,7 +1111,7 @@ Utah Hockey Club: Agreed on a mutual contract termination with right wing Milos 
 
 Jan 27, 2025
 Detroit Red Wings: Signed right wing Dominik Shine to a two-year contract.
-New York Islanders: Acquired defenseman Scott Perunovich from the St. Louis Blues for a conditional fifth-round pick in the 2026 NHL Draft.
+New York Islanders: Acquired defenseman Scott Perunovich from the St. Louis Blues for a conditional fifth-round pick (condition not fulfilled) in the 2026 NHL Draft.
 Washington Capitals: Signed goaltender Logan Thompson to a six-year contract extension.
 
 Jan 25, 2025
