@@ -44,7 +44,7 @@ Dec 1, 2023
 Montreal Canadiens: Signed goaltender Samuel Montembeault to a three-year contract extension.
 
 Nov 30, 2023
-Vancouver Canucks: Acquired defenseman Nikita Zadorov from the Calgary Flames for a conditional fifth-round pick (previously acquired from Chicago, later traded to San Jose) in the 2024 NHL Draft and a third-round pick in the 2026 NHL Draft.
+Vancouver Canucks: Acquired defenseman Nikita Zadorov from the Calgary Flames for a conditional fifth-round pick (previously acquired from Chicago, later traded to San Jose) in the 2024 NHL Draft and a third-round pick (65th overall, Flames selected Joe Iginla) in the 2026 NHL Draft.
 
 Nov 29, 2023
 Chicago Blackhawks: Terminated the contract of right wing Corey Perry.
@@ -82,7 +82,7 @@ Pittsburgh Penguins: Agreed on a mutual contract termination with left wing Andr
 
 Nov 8, 2023
 Minnesota Wild: Acquired defenseman Zach Bogosian from the Tampa Bay Lightning for a seventh-round pick (212th overall, Lightning selected Grant Spada) in the 2025 NHL Draft.
-San Jose Sharks: Acquired defenseman Calen Addison from  the Minnesota Wild for right wing Adam Raska and a fifth-round pick in the 2026 NHL Draft.
+San Jose Sharks: Acquired defenseman Calen Addison from the Minnesota Wild for right wing Adam Raska and a fifth-round pick (137th overall, Wild selected Filip Ruzicka) in the 2026 NHL Draft.
 
 Oct 31, 2023
 Carolina Hurricanes: Announced the retirement of center Paul Stastny.
@@ -300,7 +300,7 @@ Anaheim Ducks: Signed goaltender Alex Stalock to a one-year contract.
 Aug 6, 2023
 Arizona Coyotes: Signed defenseman Matt Dumba, who had been with the Minnesota Wild to a one-year contract; agreed on a mutual contract termination with center Jean-Sebastien Dea.
 Montreal Canadiens: Acquired defenseman Jeff Petry, goaltender Casey DeSmith, right wing Nathan Legare and a second-round pick (later traded to Carolina) in the 2025 NHL Draft from the Pittsburgh Penguins for right wing Mike Hoffman and center Rem Pitlick.
-Pittsburgh Penguins: Acquired defenseman Erik Karlsson, left wing Dillon Hamaliuk and a third-round pick in the 2026 NHL Draft from the San Jose Sharks for center Mikael Granlund, right wing Mike Hoffman, defenseman Jan Rutta and a conditional first-round pick (if outside of the top ten selection; later traded to Buffalo) in the 2024 NHL Draft.
+Pittsburgh Penguins: Acquired defenseman Erik Karlsson, left wing Dillon Hamaliuk and a third-round pick (later traded to Toronto via Detroit and St. Louis) in the 2026 NHL Draft from the San Jose Sharks for center Mikael Granlund, right wing Mike Hoffman, defenseman Jan Rutta and a conditional first-round pick (if outside of the top ten selection; later traded to Buffalo) in the 2024 NHL Draft.
 
 Aug 5, 2023
 Philadelphia Flyers: Signed goaltender Samuel Ersson to a two-year contract extension.
@@ -570,7 +570,7 @@ Vancouver Canucks: Signed defenseman Noah Juulsen to a two-year contract extensi
 Vegas Golden Knights: Signed goaltender Adin Hill to a two-year contract extension.
 
 Jun 29, 2023
-Chicago Blackhawks: Acquired right wing Corey Perry from the Tampa Bay Lightning for a seventh-round pick (195th overall, Lightning selected Joe Connor) in the 2024 NHL Draft; acquired right wing Josh Bailey and a second-round pick in the 2026 NHL Draft from the New York Islanders for future considerations.
+Chicago Blackhawks: Acquired right wing Corey Perry from the Tampa Bay Lightning for a seventh-round pick (195th overall, Lightning selected Joe Connor) in the 2024 NHL Draft; acquired right wing Josh Bailey and a second-round pick (later traded to Anaheim via Buffalo) in the 2026 NHL Draft from the New York Islanders for future considerations.
 Columbus Blue Jackets: Acquired a seventh-round pick (224th overall, Blue Jackets selected Tyler Peddle) from the Vegas Golden Knights for a seventh-round pick (197th overall, Golden Knights selected Lucas van Vliet) in the 2024 NHL Draft.
 Dallas Stars: Acquired a third-round pick (79th overall, Stars selected Brad Gardiner) in the 2023 NHL Draft for third- and sixth-round picks (the latter traded to Utah; 94th overall, Predators selected Hiroki Gojsic) in the 2024 NHL Draft.
 Detroit Red Wings: Acquired right wing Kailer Yamamoto and left wing Klim Kostin from the Edmonton Oilers for future considerations.
@@ -1014,14 +1014,14 @@ Vegas Golden Knights: Acquired goaltender Jonathan Quick (50% salary retained) f
 Washington Capitals: Signed center Ethen Frank to a one-year contract.
 
 Mar 1, 2023
-Carolina Hurricanes: Acquired defenseman Shayne Gostisbehere from the Arizona Coyotes for a third-round pick in the 2026 NHL Draft.
+Carolina Hurricanes: Acquired defenseman Shayne Gostisbehere from the Arizona Coyotes for a third-round pick (96th overall, Mammoth selected Adam Valentini) in the 2026 NHL Draft.
 Colorado Avalanche: Acquired center Lars Eller (31% salary retained) from the Washington Capitals for a second-round pick (later traded to Calgary) in the 2025 NHL Draft.
 Detroit Red Wings: Signed center Dylan Larkin to an eight-year contract extension; signed center Alexandre Doucet to a three-year contract.
 Los Angeles Kings: Acquired goaltender Joonas Korpisalo and defenseman Vladislav Gavrikov from the Columbus Blue Jackets for goaltender Jonathan Quick, a conditional first-round pick (two second-round picks in the 2023 and 2024 NHL Drafts if Los Angeles does not qualify for the 2023 NHL playoffs, condition not fulfilled; later traded to Philadelphia) in the 2023 NHL Draft and a third-round pick (86th overall, Blue Jackets selected Luca Marrelli) in the 2024 NHL Draft; acquired goaltender Erik Portillo from the Buffalo Sabres for a third-round pick (86th overall, Sabres selected Gavin McCarthy) in the 2023 NHL Draft.
 Minnesota Wild: Signed center Caedan Bankier to a three-year contract.
 Montreal Canadiens: Signed right wing Xavier Simoneau to a two-year contract.
 New York Islanders: Signed goaltender Tristan Lennox to a three-year contract.
-Ottawa Senators: Acquired defenseman Jacob Chychrun from the Arizona Coyotes for a conditional first-round pick (a first-round pick in the 2024 NHL Draft if it happens to be located in the top 5, condition not fulfilled; 12th overall, Coyotes selected Daniil But) in the 2023 NHL Draft, a conditional second-round pick (a first-round pick in the 2024 NHL Draft if Ottawa advances to the Eastern Conference Final, condition not fulfilled; previously acquired from Washington, later traded to New Jersey) in the 2024 NHL Draft and a second-round pick in the 2026 NHL Draft.
+Ottawa Senators: Acquired defenseman Jacob Chychrun from the Arizona Coyotes for a conditional first-round pick (a first-round pick in the 2024 NHL Draft if it happens to be located in the top 5, condition not fulfilled; 12th overall, Coyotes selected Daniil But) in the 2023 NHL Draft, a conditional second-round pick (a first-round pick in the 2024 NHL Draft if Ottawa advances to the Eastern Conference Final, condition not fulfilled; previously acquired from Washington, later traded to New Jersey) in the 2024 NHL Draft and a second-round pick (later traded to Calgary) in the 2026 NHL Draft.
 Pittsburgh Penguins: Acquired center Mikael Granlund from the Nashville Predators for a second-round pick (46th overall, Predators selected Kalan Lind) in the 2023 NHL Draft; signed defenseman Isaac Belliveau to a three-year contract.
 St. Louis Blues: Signed defenseman Michael Buchinger to a three-year contract.
 San Jose Sharks: Acquired left wing Vladislav Namestnikov (50% salary retained) from the Tampa Bay Lightning for center Michael Eyssimont.
@@ -1046,7 +1046,7 @@ Washington Capitals: Acquired defenseman Rasmus Sandin from the Toronto Maple Le
 
 Feb 27, 2023
 Buffalo Sabres: Acquired defenseman Riley Stillman from the Vancouver Canucks for left wing Josh Bloom; signed goaltender Michael Houser to a one-year contract.
-Toronto Maple Leafs: Acquired defenseman Jake McCabe (50% salary retained), center Sam Lafferty, a conditional fifth-round pick (previously acquired from Nashville; 151st overall, Maple Leafs selected Miroslav Holinka) in the 2024 NHL Draft and a conditional fifth-round pick (later traded to Pittsburgh via Washington) in the 2025 NHL Draft for right wing Joey Anderson, left wing Pavel Gogolev, a conditional first-round pick (25th overall, Blackhawks selected Vaclav Nestrasil) in the 2025 NHL Draft and a second-round pick in the 2026 NHL Draft.
+Toronto Maple Leafs: Acquired defenseman Jake McCabe (50% salary retained), center Sam Lafferty, a conditional fifth-round pick (previously acquired from Nashville; 151st overall, Maple Leafs selected Miroslav Holinka) in the 2024 NHL Draft and a conditional fifth-round pick (later traded to Pittsburgh via Washington) in the 2025 NHL Draft for right wing Joey Anderson, left wing Pavel Gogolev, a conditional first-round pick (25th overall, Blackhawks selected Vaclav Nestrasil) in the 2025 NHL Draft and a second-round pick (later traded to New Jersey) in the 2026 NHL Draft.
 
 Feb 26, 2023
 Colorado Avalanche: Acquired defenseman Jack Johnson from the Chicago Blackhawks for defenseman Andreas Englund.
@@ -1060,7 +1060,7 @@ Feb 25, 2023
 Boston Bruins: Acquired center Shane Bowers from the Colorado Avalanche for goaltender Keith Kinkaid.
 Colorado Avalanche: Signed defenseman Keaton Middleton to a two-year contract extension.
 St. Louis Blues: Claimed right wing Kasperi Kapanen off waivers from the Pittsburgh Penguins.
-Vancouver Canucks: Acquired right wing Vitali Kravtsov from the New York Rangers for right wing William Lockwood and a seventh-round pick in the 2026 NHL Draft.
+Vancouver Canucks: Acquired right wing Vitali Kravtsov from the New York Rangers for right wing William Lockwood and a seventh-round pick (193rd overall, Rangers selected Ivan Patrikhayev) in the 2026 NHL Draft.
 Winnipeg Jets: Acquired left wing Nino Niederreiter from the Nashville Predators for a second-round pick (later traded to Philadelphia) in the 2024 NHL Draft.
 
 Feb 23, 2023
@@ -1071,7 +1071,7 @@ Minnesota Wild: Acquired defenseman Dmitry Orlov (50% salary retained) from the 
 Montreal Canadiens: Claimed center Chris Tierney off waivers from the Florida Panthers.
 
 Feb 22, 2023
-Chicago Blackhawks: Acquired defenseman Nikita Zaitsev, a second-round pick (44th overall, Blackhawks selected Roman Kantserov) in the 2023 NHL Draft and a fourth-round pick in the 2026 NHL Draft from the Ottawa Senators for future considerations.
+Chicago Blackhawks: Acquired defenseman Nikita Zaitsev, a second-round pick (44th overall, Blackhawks selected Roman Kantserov) in the 2023 NHL Draft and a fourth-round pick (later traded to New Jersey) in the 2026 NHL Draft from the Ottawa Senators for future considerations.
 Vegas Golden Knights: Acquired defenseman Dysin Mayo from the Arizona Coyotes for defenseman Shea Weber and a fifth-round pick (160th overall, Coyotes selected Justin Kipkie) in the 2023 NHL Draft.
 
 Feb 19, 2023

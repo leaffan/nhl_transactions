@@ -6,15 +6,15 @@ Calgary Flames: Signed goaltender Devin Cooley to a two-year contract extension.
 
 Dec 29, 2025
 Edmonton Oilers: Agreed on a mutual contract termination with right wing David Tomasek.
-Pittsburgh Penguins: Acquired right wing Yegor Chinakhov from the Columbus Blue Jackets for left wing Danton Heinen, a second-round pick (previously acquired from St. Louis) in the 2026 NHL Draft and a third-round pick (previously acquired from Washington) in the 2027 NHL Draft.
+Pittsburgh Penguins: Acquired right wing Yegor Chinakhov from the Columbus Blue Jackets for left wing Danton Heinen, a second-round pick (previously acquired from St. Louis, later traded to Colorado) in the 2026 NHL Draft and a third-round pick (previously acquired from Washington) in the 2027 NHL Draft.
 
 Dec 28, 2025
 Carolina Hurricanes: Claimed center Noah Philp off waivers from the Edmonton Oilers.
 Minnesota Wild: Acquired left wing Boris Katchouk from the Tampa Bay Lightning for left wing Michael Milne.
 
 Dec 19, 2025
-Columbus Blue Jackets: Acquired left wing Mason Marchment from the Seattle Kraken for a second-round pick in the 2027 NHL Draft and a fourth-round pick (previously acquired from the New York Rangers) in the 2026 NHL Draft.
-Montreal Canadiens: Acquired center Phillip Danault from the Los Angeles Kings for a second-round pick (previously acquired from Columbus) in the 2026 NHL Draft.
+Columbus Blue Jackets: Acquired left wing Mason Marchment from the Seattle Kraken for a second-round pick in the 2027 NHL Draft and a fourth-round pick (previously acquired from the New York Rangers; 99th overall, Kraken selected Viktor Fedorov) in the 2026 NHL Draft.
+Montreal Canadiens: Acquired center Phillip Danault from the Los Angeles Kings for a second-round pick (previously acquired from Columbus; 46th overall, Kings selected Liam Lefebvre) in the 2026 NHL Draft.
 
 Dec 15, 2025
 Boston Bruins: Claimed defenseman Vladislav Kolyachonok off waivers from the Dallas Stars.
@@ -173,7 +173,7 @@ Utah Mammoth: Signed center Kevin Rooney to a one-year contract.
 Oct 5, 2025
 Buffalo Sabres: Claimed goaltender Colten Ellis off waivers from the St. Louis Blues.
 Chicago Blackhawks: Signed defenseman Matt Grzelcyk to a one-year contract.
-San Jose Sharks: Acquired defenseman Ryan Ellis and a conditional sixth-round pick in the 2026 NHL Draft from the Philadelphia Flyers for defenseman Artem Guryev and left wing Carl Grundström.
+San Jose Sharks: Acquired defenseman Ryan Ellis and a conditional sixth-round pick (the higher of Columbus or Philadelphia's picks; previously acquired from Columbus; 174th overall, Sharks selected Jake Gustafson) in the 2026 NHL Draft from the Philadelphia Flyers for defenseman Artem Guryev and left wing Carl Grundström.
 Tampa Bay Lightning: Claimed center Curtis Douglas off waivers from the Utah Mammoth.
 Toronto Maple Leafs: Claimed goaltender Cayden Primeau off waivers from the Carolina Hurricanes; claimed left wing Sammy Blais off waivers from the Montreal Canadiens.
 Vegas Golden Knights: Signed defenseman Jeremy Davies to a two-year contract.
@@ -232,7 +232,7 @@ Chicago Blackhawks: Signed defenseman Wyatt Kaiser to a two-year contract.
 St. Louis Blues: Signed left wing Nathan Walker to a two-year contract.
 
 Sep 14, 2025
-Columbus Blue Jackets: Acquired goaltender Ivan Fedotov from the Philadelphia Flyers for a sixth-round pick in the 2026 NHL Draft.
+Columbus Blue Jackets: Acquired goaltender Ivan Fedotov from the Philadelphia Flyers for a sixth-round pick (later traded to San Jose) in the 2026 NHL Draft.
 
 Sep 13, 2025
 Chicago Blackhawks: Signed goaltender Spencer Knight to a three-year contract extension.
@@ -250,7 +250,7 @@ Calgary Flames: Signed goaltender Dustin Wolf to a seven-year contract extension
 Sep 5, 2025
 Calgary Flames: Signed center Connor Zary to a three-year contract extension.
 Edmonton Oilers: Announced the retirement of center Derek Ryan.
-San Jose Sharks: Acquired goaltender Carey Price and a fifth-round pick in the 2026 NHL Draft from the Montreal Canadiens for defenseman Gannon Laroque.
+San Jose Sharks: Acquired goaltender Carey Price and a fifth-round pick (later traded to Boston) in the 2026 NHL Draft from the Montreal Canadiens for defenseman Gannon Laroque.
 
 Sep 4, 2025
 Philadelphia Flyers: Acquired center Tucker Robertson from the Seattle Kraken for center Jon-Randall Avon.
@@ -487,11 +487,11 @@ Winnipeg Jets: Signed center Gustav Nyquist, right wing Walker Duehr, goaltender
 
 Jul 1, 2025
 Anaheim Ducks: Signed center Mikael Granlund, who had been with the Dallas Stars, to a three-year contract.
-Boston Bruins: Acquired right wing Viktor Arvidsson from the Edmonton Oilers for a fifth-round pick in the 2027 NHL Draft; signed right wing Tanner Jeannot, who had been with the Los Angeles Kings, to a five-year contract; signed right wing Matej Blumel, goaltender Luke Cavallin, defensemen Jordan Harris and Jonathan Aspirot, left wing Riley Tufte and center Alex Steeves to one-year contracts; signed center Michael Eyssimont, who had been with the Seattle Kraken, to a two-year contract; signed center Sean Kuraly, who had been with the ..., to a two-year contract.
+Boston Bruins: Acquired right wing Viktor Arvidsson from the Edmonton Oilers for a fifth-round pick in the 2027 NHL Draft; signed right wing Tanner Jeannot, who had been with the Los Angeles Kings, to a five-year contract; signed right wing Matej Blumel, goaltender Luke Cavallin, defensemen Jordan Harris and Jonathan Aspirot, left wing Riley Tufte and center Alex Steeves to one-year contracts; signed center Michael Eyssimont, who had been with the Seattle Kraken, to a two-year contract; signed center Sean Kuraly, who had been with the Columbus Blue Jackets, to a two-year contract.
 Buffalo Sabres: Signed defenseman Ryan Johnson to a three-year contract extension, signed goaltender Alex Lyon to a one-year contract; re-signed center Tyson Kozak to a three-year contract; signed right wing Justin Danforth, who had been with the Columbus Blue Jackets, to a two-year contract; signed left wing Mason Geertsen, who had been with the Los Angeles Kings, to a two-year contract; re-signed center Ryan McLeod to a four-year contract; signed defensemen Zachary Jones and Zach Metsa to one-year contracts; signed center Riley Fiddler-Schultz to a two-year contract; signed right wing Carson Meyer, who had been with the Anaheim Ducks, to a two-year contract.
 Calgary Flames: Signed defenseman Joel Hanley to a two-year contract extension; signed goaltender Ivan Prosvetov and defenseman Nick Cicek to one-year contracts.
-Chicago Blackhawks: Acquired center Sam Lafferty from the Buffalo Sabres for a sixth-round pick in the 2026 NHL Draft; signed center Dominic Toninato, who had been with the Winnipeg Jets, to a two-year contract. 
-Carolina Hurricanes: Signed right wing Logan Stankoven to an eight-year contract extension; signed goaltender Amir Miftakhov and defenseman Mike Reilly to one-year contracts; acquired defenseman K'Andre Miller from the New York Rangers for defenseman Scott Morrow, a conditional first-round pick (top-10 protected, the better of either Dallas or Carolina's pick) in the 2026 NHL Draft and a second-round pick in the 2026 NHL Draft; signed goaltender Cayden Primeau to a one-year contract.
+Chicago Blackhawks: Acquired center Sam Lafferty from the Buffalo Sabres for a sixth-round pick (later traded to the New York Rangers) in the 2026 NHL Draft; signed center Dominic Toninato, who had been with the Winnipeg Jets, to a two-year contract. 
+Carolina Hurricanes: Signed right wing Logan Stankoven to an eight-year contract extension; signed goaltender Amir Miftakhov and defenseman Mike Reilly to one-year contracts; acquired defenseman K'Andre Miller from the New York Rangers for defenseman Scott Morrow, a conditional first-round pick (top-10 protected, the better of either Dallas or Carolina's pick, turned out to be Dallas' pick; later traded to Montreal via Vegas) in the 2026 NHL Draft and a second-round pick (64th overall, Rangers selected Ben Macbeath) in the 2026 NHL Draft; signed goaltender Cayden Primeau to a one-year contract.
 Colorado Avalanche: Re-signed left wing Parker Kelly to a four-year contract; re-signed defenseman Jack Ahcan and center T.J. Tynan to one-year contracts; signed defenseman Ronald Attard to a one-year contract.
 Columbus Blue Jackets: Signed defenseman Christian Jaros to a one-year contract; re-signed center Owen Sillinger to a one-year contract; signed center Isac Lundeström, who had been with the Anaheim Ducks, to a two-year contract.
 Dallas Stars: Re-signed center Colin Blackwell to a two-year contract; signed center Radek Faksa, who had been with the St. Louis Blues, to a three-year contract.
@@ -504,7 +504,7 @@ Montreal Canadiens: Acquired center Zack Bolduc from the St. Louis Blues for def
 Nashville Predators: Signed defenseman Nicklaus Perbix, who had been with the Tampa Bay Lightning, to a two-year contract.
 New Jersey Devils: Signed goaltender Jake Allen to five-year contract extension; signed right wing Connor Brown, who had been with the Edmonton Oilres, to a four-year contract; signed left wing Angus Crookshank, who had been with the Ottawa Senators, to a two-year contract; signed defensemen Dennis Cholowski and Calen Addison and right wing Evgenii Dadonov to one-year contracts.
 New York Islanders: Signed defenseman Tony DeAngelo to a one-year contract extension; signed left wing Jonathan Drouin, who had been with the Colorado Avalanche, to a two-year contract; signed defensemen Ethan Bear and Cole McWard, center Matthew Highmore and goaltender David Rittich to one-year contracts; re-signed right wing Simon Holmström to a two-year contract.
-New York Rangers: Signed defenseman Vladislav Gavrikov, who had been with the Los Angeles Kings, to a seven-year contract; signed center Justin Dowling, who had been with the ..., to a two-year contract; re-signed defenseman K'Andre Miller to an eight-year contract; re-signed left wing Will Cuylle to a two-year contract; signed right wing Taylor Raddysh, who had been with the Washington Capitals, to a two-year contract; signed defenseman Derrick Pouliot, who had been with the Tampa Bay Lightning, to a two-year contract.
+New York Rangers: Signed defenseman Vladislav Gavrikov, who had been with the Los Angeles Kings, to a seven-year contract; signed center Justin Dowling, who had been with the New Jersey Devils to a two-year contract; re-signed defenseman K'Andre Miller to an eight-year contract; re-signed left wing Will Cuylle to a two-year contract; signed right wing Taylor Raddysh, who had been with the Washington Capitals, to a two-year contract; signed defenseman Derrick Pouliot, who had been with the Tampa Bay Lightning, to a two-year contract.
 Ottawa Senators: Signed centers Olle Lycksell and Lars Eller to one-year contracts; re-signed center Wyatt Bongiovanni to a one-year contract..
 Philadelphia Flyers: Signed goaltender Dan Vladar, who had been with the Calgary Flames, to a two-year contract;signed defensemen Noah Juulsen and Dennis Gilbert and center Lane Pederson to one-year contracts; signed left wing Christian Dvorak, who had been with the Montreal Canadiens, to a one-year contract.
 Pittsburgh Penguins: Signed defenseman Parker Wotherspoon, who had been with the Boston Bruins, to a two-year contract; re-signed centers Connor Dewar and Philip Tomasino to one-year contracts; signed right wing Justin Brazeau, who had been with the Minnesota Wild, to a two-year contract; signed defenseman Caleb Jones, who had been with the Los Angeles Kings, to a two-year contract.
@@ -522,7 +522,7 @@ Winnipeg Jets: Signed center Jonathan Toews, defenseman Phillip di Giuseppe and 
 Jun 30, 2025
 Boston Bruins: Signed defenseman Henri Jokiharju to a three-year contract extension; signed centers John Beecher and Georgii Merkulov to one-year contract extensions; signed goaltender Michael DiPietro to a two-year contract extension.
 Calgary Flames: Signed center Clark Bishop to a one-year contract extension.
-Carolina Hurricanes: Acquired goaltender Cayden Primeau from the Montreal Canadiens for a seventh-round pick in the 2026 NHL Draft.
+Carolina Hurricanes: Acquired goaltender Cayden Primeau from the Montreal Canadiens for a seventh-round pick (224th overall, Canadiens selected Tyler Deakos) in the 2026 NHL Draft.
 Colorado Avalanche: Signed defenseman Sam Malinski to a one-year contract extension; signed goaltender Trent Miner to a two-year contract extension.
 Columbus Blue Jackets: Signed defenseman Ivan Provorov to a seven-year contract extension.
 Detroit Red Wings: Signed defenseman Albert Johansson to a two-year contract extension; signed right wings Patrick Kane and Jonatan Berggren to one-year contract extensions.
@@ -553,19 +553,19 @@ Toronto Maple Leafs: Signed left wing Matthew Knies to a six-year contract exten
 Washington Capitals: Signed right wing Justin Sourdif to a two-year contract extension.
 
 Jun 28, 2025
-Calgary Flames: Acquired a seventh-round pick (previously acquired from St. Louis; 211th overall, Flames selected Yan Matveiko) in the 2025 NHL Draft from the Detroit Red Wings for a seventh-round pick in the 2026 NHL Draft.
-Carolina Hurricanes: Acquired a third-round pick (previously acquired from Nashville via Ottawa; 67th overall Hurricanes selected Kurban Limatov) in the 2025 NHL Draft from the Los Angeles Kings for a third-round pick (previously acquired from Dallas) in the 2026 NHL Draft and a fourth-round pick (125th overall, Kings selected Jimmy Lombardi) in the 2025 NHL Draft.
-Columbus Blue Jackets: Acquired a third-round pick (76th overall, Blue Jackets selected Malte Vas) in the 2025 NHL Draft from the Detroit Red Wings for fourth-round picks in the 2025 (109th overall, Red Wings selected Brent Solomon) and 2026 NHL Drafts; acquired a seventh-round pick (198th overall, Blue Jackets selected Jeremy Loranger) in the 2025 NHL Draft from the Seattle Kraken for two seventh-round picks (one previously acquired from Vegas; 205th and 218th overall, Kraken selected Karl Annborn and Loke Krantz) signed goaltender Zach Sawchenko to a one-year contract extension.
-Detroit Red Wings: Acquired goaltender John Gibson from the Anaheim Ducks for goaltender Petr Mrazek, a second-round pick in the 2027 NHL Draft and a fourth-round pick in the 2026 NHL Draft.
-Edmonton Oilers: Acquired a fifth-round pick (131st overall, Oilers selected Asher Barnett) in the 2025 NHL Draft from the Nashville Predators for a fifth-round pick in the 2026 NHL Draft.
-Florida Panthers: Acquired a seventh-round pick (previously acquired from Boston; 197th overall, Panthers selected Brendan Dunphy) in the 2025 NHL Draft from the Chicago Blackhawks for a sixth-round pick in the 2026 NHL Draft.
+Calgary Flames: Acquired a seventh-round pick (previously acquired from St. Louis; 211th overall, Flames selected Yan Matveiko) in the 2025 NHL Draft from the Detroit Red Wings for a seventh-round pick (196th overall, Red Wings selected Myles Brosnan) in the 2026 NHL Draft.
+Carolina Hurricanes: Acquired a third-round pick (previously acquired from Nashville via Ottawa; 67th overall Hurricanes selected Kurban Limatov) in the 2025 NHL Draft from the Los Angeles Kings for a third-round pick (previously acquired from Dallas, later traded to Ottawa) in the 2026 NHL Draft and a fourth-round pick (125th overall, Kings selected Jimmy Lombardi) in the 2025 NHL Draft.
+Columbus Blue Jackets: Acquired a third-round pick (76th overall, Blue Jackets selected Malte Vas) in the 2025 NHL Draft from the Detroit Red Wings for fourth-round picks in the 2025 (109th overall, Red Wings selected Brent Solomon) and 2026 (later traded to Ottawa) NHL Drafts; acquired a seventh-round pick (198th overall, Blue Jackets selected Jeremy Loranger) in the 2025 NHL Draft from the Seattle Kraken for two seventh-round picks (one previously acquired from Vegas; 205th and 218th overall, Kraken selected Karl Annborn and Loke Krantz) signed goaltender Zach Sawchenko to a one-year contract extension.
+Detroit Red Wings: Acquired goaltender John Gibson from the Anaheim Ducks for goaltender Petr Mrazek, a second-round pick in the 2027 NHL Draft and a fourth-round pick (later traded to Pittsburgh via Boston) in the 2026 NHL Draft.
+Edmonton Oilers: Acquired a fifth-round pick (131st overall, Oilers selected Asher Barnett) in the 2025 NHL Draft from the Nashville Predators for a fifth-round pick (later traded to Seattle via the New York Rangers) in the 2026 NHL Draft.
+Florida Panthers: Acquired a seventh-round pick (previously acquired from Boston; 197th overall, Panthers selected Brendan Dunphy) in the 2025 NHL Draft from the Chicago Blackhawks for a seventh-round pick (200th overall, Blackhawks selected William Sörbrand) in the 2026 NHL Draft.
 Montreal Canadiens: Acquired second- and sixth-round picks (the former previously acquired from Chicago; 34th and 189th overall, Canadiens selected Alexander Zharovsky and Andrew MacNiel) in the 2025 NHL Draft from the Carolina Hurricanes for two second-round picks (one previously acquired from Pittsburgh; 41st and 49th overall, Hurricanes selected Semyon Frolov and Charlie Cerrato) in the 2025 NHL Draft; acquired a third-round pick (69th overall, Canadiens selected Hayden Paupanekis) in the 2025 NHL Draft from the Boston Bruins for third- and fourth-round picks (the former previously acquired from Vancouver, the latter previously acquired from Detroit later traded to Tampa Bay; 79th overall, Bruins selected Cooper Simpson) in the 2025 NHL Draft.
-Ottawa Senators: Acquired defenseman Jordan Spence from the Los Angeles Kings for a third-round pick (previously acquired from Nashville, later traded to Carolina) in the 2025 NHL Draft and a sixth-round pick in the 2026 NHL Draft; acquired a third-round pick (previously acquired from Carolina; 93rd overall, Senators selected Blake Vanek) in the 2025 NHL Draft from the Washington Capitals for a third-round pick (previously acquired from Florida; 96th overall, Capitals selected Maxim Schäfer) in the 2025 NHL Draft and a seventh-round pick in the 2027 NHL Draft.
+Ottawa Senators: Acquired defenseman Jordan Spence from the Los Angeles Kings for a third-round pick (previously acquired from Nashville, later traded to Carolina) in the 2025 NHL Draft and a sixth-round pick (previously acquired from Colorado, later traded to Montreal) in the 2026 NHL Draft; acquired a third-round pick (previously acquired from Carolina; 93rd overall, Senators selected Blake Vanek) in the 2025 NHL Draft from the Washington Capitals for a third-round pick (previously acquired from Florida; 96th overall, Capitals selected Maxim Schäfer) in the 2025 NHL Draft and a seventh-round pick in the 2027 NHL Draft.
 Pittsburgh Penguins: Acquired defenseman Connor Clifton and a second-round pick (39th overall, Penguins selected Peyton Kettles) in the 2025 NHL Draft from the Buffalo Sabres for defensemen Conor Timmins and Isaac Belliveau.
 St. Louis Blues: Signed goaltender Joel Hofer to a two-year contract extension.
 Seattle Kraken: Acquired second- and third-round picks (36th and 68th overall, Kraken selected Blake Fiddler and Will Reynolds) in the 2025 NHL Draft from the Philadelphia Flyers for two second-round picks (one previously acquired from Toronto via Utah and Tampa Bay; 38th and 57th overall, Flyers selected Carter Amico and Matthew Gard) in the 2025 NHL Draft.
-Tampa Bay Lightning: Acquired a fourth-round pick (previously acquired from Detroit via Montreal; 108th overall, Lightning selected Benjamin Rautiainen) in the 2025 NHL Draft from the Boston Bruins for a fourth-round pick in the 2026 NHL Draft.
-Utah Mammoth: Acquired a sixth-round pick (previously acquired from Colorado; 182nd overall, Mammoth selected Reko Alanko) in the 2025 NHL Draft from the Nashville Predators for a sixth-round pick in the 2026 NHL Draft.
+Tampa Bay Lightning: Acquired a fourth-round pick (previously acquired from Detroit via Montreal; 108th overall, Lightning selected Benjamin Rautiainen) in the 2025 NHL Draft from the Boston Bruins for a fourth-round pick (122nd overall, Bruins selected Oscar Olsson) in the 2026 NHL Draft.
+Utah Mammoth: Acquired a sixth-round pick (previously acquired from Colorado; 182nd overall, Mammoth selected Reko Alanko) in the 2025 NHL Draft from the Nashville Predators for a sixth-round pick (179th overall, Predators selected Benjamin Cossette-Ayotte) in the 2026 NHL Draft.
 Vancouver Canucks: Acquired center Ilya Safonov from the Chicago Blackhawks for future considerations.
 Vegas Golden Knights: Acquired a second-round pick (previously acquired from Tampa Bay; 55th overall, Golden Knights selected Jakob Ihs-Wozniak) in the 2025 NHL Draft from the Nashville Predators for second- and fourth-round picks (58th and 122nd overall, Predators selected Jack Ivankovic and Alex Huang) in the 2025 NHL Draft; acquired a third-round pick (previously acquired from Ottawa via St. Louis; 85th overall, Golden Knights selected Mateo Nobert) in the 2025 NHL Draft from the Pittsburgh Penguins for third- and fifth-round picks (the former previously acquired from Washington; 91st and 154th overall, Penguins selected Brady Peddle and Jordan Charron) in the 2025 NHL Draft.
 Washington Capitals: Acquired defenseman Declan Chisholm and a sixth-round pick (180th overall, Capitals selected Aron Dahlqvist) in the 2025 NHL Draft from the Minnesota Wild for defenseman Chase Priskie and a fourth-round pick (123rd overall, Wild selected Carter Klippenstein) in the 2025 NHL Draft.
@@ -594,7 +594,7 @@ Detroit Red Wings: Signed defenseman Antti Tuomisto to a one-year contract exten
 Florida Panthers: Acquired goaltender Daniil Tarasov from the Columbus Blue Jackets for a fifth-round pick (160th overall, Blue Jackets selected Owen Griffin) in the 2025 NHL Draft.
 Seattle Kraken: Acquired center Frederick Gaudreau from the Minnesota Wild for a fourth-round pick (102nd overall, Wild selected Adam Benak) in the 2025 NHL Draft.   
 Utah Hockey Club: Acquired right wing John-Jason Peterka from the Buffalo Sabres for defenseman Michael Kesselring and right wing Josh Doan; signed right wing John-Jason Peterka to a five-year contract extension.
-Washington Capitals: Acquired right wing Justin Sourdif from the Florida Panthers for a second-round pick in the 2026 NHL Draft and a fourth-round pick in the 2027 NHL Draft; signed right wing Henrik Rybinski to a one-year contract.
+Washington Capitals: Acquired right wing Justin Sourdif from the Florida Panthers for a second-round pick (48th overall, Panthers selected Ryder Cali) in the 2026 NHL Draft and a fourth-round pick in the 2027 NHL Draft; signed right wing Henrik Rybinski to a one-year contract.
 
 Jun 25, 2025
 Vancouver Canucks: Acquired left wing Evander Kane from the Edmonton Oilers for a fourth-round pick (previously acquired from Ottawa via Edmonton; 117th overall, Oilers selected David Lewandowski) in the 2025 NHL Draft.
@@ -608,7 +608,7 @@ Boston Bruins: Signed defenseman Mason Lohrei to a two-year contract extension.
 Calgary Flames: Signed left wing Justin Kirkland to a one-year contract extension.
 Dallas Stars: Signed right wing Kole Lind to a one-year contract extension.
 New York Rangers: Signed right wing Adam Edstrom to a two-year contract extension.
-Philadelphia Flyers: Acquired left wing Trevor Zegras from the Anaheim Ducks for center Ryan Poehling, a second-round pick (previously acquired from Columbus; 45th overall, Ducks selected Marcus Nilson) in the 2025 NHL Draft and a fourth-round pick in the 2026 NHL Draft.
+Philadelphia Flyers: Acquired left wing Trevor Zegras from the Anaheim Ducks for center Ryan Poehling, a second-round pick (previously acquired from Columbus; 45th overall, Ducks selected Marcus Nilson) in the 2025 NHL Draft and a fourth-round pick (later traded to Montreal via Vegas) in the 2026 NHL Draft.
 
 Jun 22, 2025
 Chicago Blackhawks: Bought out the contract of defenseman T.J. Brodie.
@@ -628,7 +628,7 @@ Seattle Kraken: Signed defenseman Cale Fleury to a two-year contract extension.
 Jun 19, 2025
 Dallas Stars: Signed center Matt Duchene to a four-year contract extension.
 Ottawa Senators: Signed left wing Fabian Zetterlund to a three-year contract extension.
-Seattle Kraken: Acquired left wing Mason Marchment from the Dallas Stars for a third-round pick in the 2026 NHL Draft and a fourth-round pick (previously acquired from Dallas via the New York Rangers; 126th overall, Stars selected Brandon Gorzynski) in the 2025 NHL Draft.
+Seattle Kraken: Acquired left wing Mason Marchment from the Dallas Stars for a third-round pick (later traded to Nashville) in the 2026 NHL Draft and a fourth-round pick (previously acquired from Dallas via the New York Rangers; 126th overall, Stars selected Brandon Gorzynski) in the 2025 NHL Draft.
 
 Jun 18, 2025
 Anaheim Ducks: Signed left wing Nikita Nesterenko to a two-year contract extension.
@@ -981,32 +981,32 @@ Pittsburgh Penguins: Signed defenseman Chase Pietila to a three-year contract.
 
 Mar 7, 2025
 Anaheim Ducks: Acquired defenseman Oliver Kylington from the New York Islanders for future considerations.
-Boston Bruins: Acquired defenseman Henri Jokiharju from the Buffalo Sarbes for a fourth-round pick (previously acquired from Edmonton) in the 2026 NHL Draft; acquired defenseman Daniil Misyul from the New Jersey Devils for center Marc McLaughlin.
+Boston Bruins: Acquired defenseman Henri Jokiharju from the Buffalo Sarbes for a fourth-round pick (previously acquired from Edmonton, later traded to Winnipeg) in the 2026 NHL Draft; acquired defenseman Daniil Misyul from the New Jersey Devils for center Marc McLaughlin.
 Buffalo Sabres: Signed left wing Jason Zucker to a two-year contract extension.
-Carolina Hurricanes: Acquired center Mark Jankowski from the Nashville Predators for a fifth-round pick in the 2025 NHL Draft.
-Chicago Blackhawks: Acquired center Joe Veleno from the Detroit Red Wings for goaltender Petr Mrazek and right wing Craig Smith; acquired defensemen Shea Weber and Victor Söderström and right wing Aku Räty from the Utah Hockey Club for a fifth-round pick in the 2026 NHL Draft.
-Colorado Avalanche: Acquired center Charlie Coyle and a fifth-round pick in the 2026 NHL Draft from the Boston Bruins for center Casey Mittelstadt, left wing William Zellers and a second-round pick (previously acquired from Carolina; 61st overall, Bruins selected Liam Pettersson) in the 2025 NHL Draft; signed defenseman Wyatt Aamodt to a two-year contract extension.
+Carolina Hurricanes: Acquired center Mark Jankowski from the Nashville Predators for a fifth-round pick (later traded to Pittsburgh) in the 2026 NHL Draft.
+Chicago Blackhawks: Acquired center Joe Veleno from the Detroit Red Wings for goaltender Petr Mrazek and right wing Craig Smith; acquired defensemen Shea Weber and Victor Söderström and right wing Aku Räty from the Utah Hockey Club for a fifth-round pick (130th overall, Mammoth selected Theodor Knights) in the 2026 NHL Draft.
+Colorado Avalanche: Acquired center Charlie Coyle and a fifth-round pick (152nd overall, Avalanche selected Teddy Lechner) in the 2026 NHL Draft from the Boston Bruins for center Casey Mittelstadt, left wing William Zellers and a second-round pick (previously acquired from Carolina; 61st overall, Bruins selected Liam Pettersson) in the 2025 NHL Draft; signed defenseman Wyatt Aamodt to a two-year contract extension.
 Columbus Blue Jackets: Acquired center Luke Kunin from the San Jose Sharks for a fourth-round pick (previously acquired from St. Louis; 115th overall, Sharks selected Ilya Magomedsultanov) in the 2025 NHL Draft.
-Dallas Stars: Acquired right wing Mikko Rantanen from the Carolina Hurricanes for right wing Logan Stankoven, first-round picks in the 2026 and 2028 NHL Drafts and third-round picks in the 2026 and 2027 NHL Drafts; signed right wing Mikko Rantanen to an eight-year contract extension; signed center Wyatt Johnston to a five-year contract extension.
+Dallas Stars: Acquired right wing Mikko Rantanen from the Carolina Hurricanes for right wing Logan Stankoven, a first-round pick (later traded to Montreal via the New York Rangers and Vegas) in the 2026 NHL Draft, a first-round pick in the 2028 NHL Draft, a third-round pick (later traded to Ottawa via Los Angeles) in the 2026 NHL Draft and a third-round pick in the 2027 NHL Draft; signed right wing Mikko Rantanen to an eight-year contract extension; signed center Wyatt Johnston to a five-year contract extension.
 Edmonton Oilers: Acquired defenseman Jake Walman from the San Jose Sharks for a conditional (top-twelve protected) first-round pick in the 2026 NHL Draft and center Carl Berglund.
 Florida Panthers: Acquired left wing Brad Marchand (50% salary retained) from the Boston Bruins for a conditional second-round pick (a first-round pick in Florida wins two rounds in the 2025 NHL Playoffs and Marchand plays in 50% of the games) in the 2027 NHL Draft.
 Los Angeles Kings: Acquired left wing Andrei Kuzmenko and a seventh-round pick (196th overall, Kings selected Brendan McMorrow) in the 2025 NHL Draft from the Philadelphia Flyers for a third-round pick in the 2027 NHL Draft.
-New Jersey Devils: Acquired defenseman Dennis Cholowski from the New York Islanders for left wing Adam Beckman; acquired right wing Daniel Sprong from the Seattle Kraken for a seventh-round pick in the 2026 NHL Draft; acquired right wing Cody Glass and left wing Jonathan Gruden from the Pittsburgh Penguins for right wing Chase Stillman, center Max Graham and a third-round pick in the 2027 NHL Draft; signed defenseman Jonathan Kovacevic to a five-year contract extension.
+New Jersey Devils: Acquired defenseman Dennis Cholowski from the New York Islanders for left wing Adam Beckman; acquired right wing Daniel Sprong from the Seattle Kraken for a seventh-round pick (204th overall, Kraken selected William Tomko) in the 2026 NHL Draft; acquired right wing Cody Glass and left wing Jonathan Gruden from the Pittsburgh Penguins for right wing Chase Stillman, center Max Graham and a third-round pick in the 2027 NHL Draft; signed defenseman Jonathan Kovacevic to a five-year contract extension.
 New York Rangers: Acquired right wing Nicolas Aube-Kubel from the Buffalo Sabres for defenseman Erik Brännström; signed defenseman Urho Vaakanainen to a two-year contract extension.
-Ottawa Senators: Acquired center Dylan Cozens, defenseman Dennis Gilbert and a second-round pick in the 2026 NHL Draft from the Buffalo Sabres for center Josh Norris and defenseman Jacob Bernard-Docker; acquired left wing Fabian Zetterlund, center Tristen Robins and a fourth-round pick (97th overall, Senators selected Lucas Beckman) in the 2025 NHL Draft from the San Jose Sharks for center Zack Ostapchuk, right wing Noah Gregor and a second-round pick (53rd overall, Sharks selected Cole McKinney) in the 2025 NHL Draft.
+Ottawa Senators: Acquired center Dylan Cozens, defenseman Dennis Gilbert and a second-round pick (later traded to Toronto via Los Angeles) in the 2026 NHL Draft from the Buffalo Sabres for center Josh Norris and defenseman Jacob Bernard-Docker; acquired left wing Fabian Zetterlund, center Tristen Robins and a fourth-round pick (97th overall, Senators selected Lucas Beckman) in the 2025 NHL Draft from the San Jose Sharks for center Zack Ostapchuk, right wing Noah Gregor and a second-round pick (53rd overall, Sharks selected Cole McKinney) in the 2025 NHL Draft.
 Philadelphia Flyers: Acquired right wing Givani Smith from the Colorado Avalanche for defenseman Erik Johnson.
 Pittsburgh Penguins: Acquired defenseman Conor Timmins and center Connor Dewar from the Toronto Maple Leafs for a fifth-round pick (137th overall, Maple Leafs selected William Belle) in the 2025 NHL Draft; signed defenseman Ryan Shea to a one-year contract extension.
 San Jose Sharks: Signed goaltender Gabriel Carriere to a one-year contract extension.
 Toronto Maple Leafs: Acquired center Scott Laughton and fourth- and sixth-round picks (the former later traded to Boston) in the 2025 NHL Draft from the Philadelphia Flyers for right wing Nikita Grebenkin and a conditional (top-ten protected) first-round pick in the 2027 NHL Draft; acquired defenseman Brandon Carlo from the Boston Bruins for center Fraser Minten, a conditional (top-five protected) first-round pick in the 2026 NHL Draft and a fourth-round pick (previously acquired from Philadelphia; 100th overall, Bruins selected Vashek Richards) in the 2025 NHL Draft; acquired center Reese Johnson from the Minnesota Wild for future considerations.
 Washington Capitals: Acquired left wing Anthony Beauvillier from the Pittsburgh Penguins for a second-round pick (later traded to Los Angeles) in the 2025 NHL Draft.
-Winnipeg Jets: Acquired left wing Brandon Tanev from the Seattle Kraken for a second-round pick in the 2027 NHL Draft; acquired defenseman Luke Schenn from the Pittsburgh Penguins for a second-round pick in the 2026 NHL Draft and a fourth-round pick in the 2027 NHL Draft.
+Winnipeg Jets: Acquired left wing Brandon Tanev from the Seattle Kraken for a second-round pick in the 2027 NHL Draft; acquired defenseman Luke Schenn from the Pittsburgh Penguins for a second-round pick (39th overall, Penguins selected Markus Ruck) in the 2026 NHL Draft and a fourth-round pick in the 2027 NHL Draft.
 
 Mar 6, 2025
 Boston Bruins: Signed right wing Tyler Pitlick to a one-year contract.
 Colorado Avalanche: Acquired center Brock Nelson and right wing William Dufour from the New York Islanders for center Calum Ritchie, a conditional first-round pick in the 2026 or 2027 NHL Draft, a conditional third-round pick (if Colorado wins the 2025 Stanley Cup and Nelson plays in at least 50% of the playoff games) in the 2028 NHL Draft and defenseman Oliver Kylington.
 Columbus Blue Jackets: Claimed right wing Christian Fischer off waivers from the Detroit Red Wings.
-Florida Panthers: Acquired center Nico Sturm and a seventh-round pick in the 2027 NHL Draft from the San Jose Sharks for a fourth-round pick in the 2026 NHL Draft; acquired goaltender Kaapo Kähkönen from the Winnipeg Jets for goaltender Chris Driedger; signed goaltender Evan Cormier to a one-year contract.
-Minnesota Wild: Acquired right wing Justin Brazeau from the Boston Bruins for center Marat Khusnutdinov, left wing Jakub Lauko and a sixth-round pick (previously acquired from Boston) in the 2026 NHL Draft.
+Florida Panthers: Acquired center Nico Sturm and a seventh-round pick in the 2027 NHL Draft from the San Jose Sharks for a fourth-round pick (later traded to Boston) in the 2026 NHL Draft; acquired goaltender Kaapo Kähkönen from the Winnipeg Jets for goaltender Chris Driedger; signed goaltender Evan Cormier to a one-year contract.
+Minnesota Wild: Acquired right wing Justin Brazeau from the Boston Bruins for center Marat Khusnutdinov, left wing Jakub Lauko and a sixth-round pick (previously acquired from Boston, later traded to Vancouver) in the 2026 NHL Draft.
 Nashville Predators: Claimed defenseman Jordan Oesterle off waivers from the Boston Bruins; claimed left wing Jakub Vrana off waivers from the Washington Capitals.
 New York Rangers: Acquired defenseman Carson Soucy from the Vancouver Canucks for a third-round pick (previously acquired from San Jose via Vegas; 65th overall, Canucks selected Kieren Dervin) in the 2025 NHL Draft.
 St. Louis Blues: Signed goaltender Colten Ellis toa two-year contract extension.
@@ -1022,13 +1022,13 @@ Detroit Red Wings: Acquired center Yanni Gourde (50% salary retained) from the S
 Florida Panthers: Acquired goaltender Vitek Vanecek from the San Jose Sharks for center Patrick Giles; signed center Jesper Boqvist to a two-year contract extension; signed right wing Jesse Puljujarvi to a one-year contract.
 Montreal Canadiens: Signed center Jake Evans to a four-year contract extension.
 New Jersey Devils: Acquired defenseman Brian Dumoulin (50% salary retained) from the Anaheim Ducks for left wing Herman Träff and a conditional second-round pick (the higher of Edmonton's or Winnipeg's picks; previously acquired from Winnipeg; 60th overall, Ducks selected Lasse Boelius) in the 2025 NHL Draft.
-Pittsburgh Penguins: Acquired center Tommy Novak and defenseman Luke Schenn from the Nashville Predators for left wing Michael Bunting and a fourth-round pick in the 2026 NHL Draft.
+Pittsburgh Penguins: Acquired center Tommy Novak and defenseman Luke Schenn from the Nashville Predators for left wing Michael Bunting and a fourth-round pick (118th overall, Predators selected Justin Graf) in the 2026 NHL Draft.
 San Jose Sharks: Acquired defenseman Vincent Desharnais from the Pittsburgh Penguins for a fifth-round pick in the 2028 NHL Draft.
-Tampa Bay Lightning: Acquired center Yanni Gourde (25% salary retained) from the Detroit Red Wings for a conditional fourth-round pick (119th overall, Red Wings selected Michal Svrcek) in the 2025 NHL Draft; acquired defenseman Kyle Aucoin, right wing Oliver Bjorkstrand and a fifth-round pick in the 2026 NHL Draft from the Seattle Kraken for center Mikey Eyssimont, a conditional first-round pick in the 2026 or 2027 NHL Draft, a conditional first-round pick in the 2027 or 208 NHL Draft and a second-round pick in the 2025 NHL Draft (previously acquired from Toronto via Utah, later traded to Philadelphia); signed center Logan Brown to a one-year contract extension.
+Tampa Bay Lightning: Acquired center Yanni Gourde (25% salary retained) from the Detroit Red Wings for a conditional fourth-round pick (119th overall, Red Wings selected Michal Svrcek) in the 2025 NHL Draft; acquired defenseman Kyle Aucoin, right wing Oliver Bjorkstrand and a fifth-round pick (134th overall, Lightning selected Morgan Anderberg) in the 2026 NHL Draft from the Seattle Kraken for center Mikey Eyssimont, a conditional first-round pick in the 2026 or 2027 NHL Draft, a conditional first-round pick in the 2027 or 208 NHL Draft and a second-round pick in the 2025 NHL Draft (previously acquired from Toronto via Utah, later traded to Philadelphia); signed center Logan Brown to a one-year contract extension.
 Utah Hockey CLub: Signed goaltender Karel Vejmelka to a five-year contract extension; signed defenseman Ian Cole and center Alex Kerfoot to one-year contract extensions.
 
 Mar 4, 2025:
-Boston Bruins: Acquired defenseman Max Wanner, a second-round pick in the 2025 NHL Draft (previously acquired from St. Louis via Pittsburgh and St. Louis) and a fourth-round pick in the 2026 NHL Draft from the Edmonton Oilers for right wing Petr Hauser and left wing Max Jones.
+Boston Bruins: Acquired defenseman Max Wanner, a second-round pick in the 2025 NHL Draft (previously acquired from St. Louis via Pittsburgh and St. Louis) and a fourth-round pick (later traded to Winnipeg via Buffalo) in the 2026 NHL Draft from the Edmonton Oilers for right wing Petr Hauser and left wing Max Jones.
 Edmonton Oilers: Acquired center Trent Frederic (25% salary retained) from the New Jersey Devils for left wing Shane Lachance.
 New Jersey Devils: Acquired center Trent Frederic (50% salary retained) from the Boston Bruins for right wing Petr Hauser.
 
@@ -1041,8 +1041,8 @@ Washington Capitals: Signed goaltender Charlie Lindgren to a three-year contract
 
 Mar 1, 2025
 Colorado Avalanche: Acquired defensemen Ryan Lindgren and Hank Kempf and left wing Jimmy Vesey from the New York Rangers for right wing Juuso Pärssinen, defenseman Calvin de Haan and conditional second- and fourth-round picks (the former previously acquired from the NY Rangers via Utah, the latter previously acquired from Vancouver; 43rd and 11th overall, Rangers selected Malcolm Spence and Mikkel Eriksen) in the 2025 NHL Draft.
-Florida Panthers: Acquired defenseman Seth Jones ($2.5m salary retained) and a fourth-round pick in the 2026 NHL Draft from the Chicago Blackhawks for goaltender Spencer Knight and a conditional first-round pick in the 2026 or 2027 NHL Draft.
-Minnesota Wild: Acquired right wing Gustav Nyquist from the Nashville Predators for a second-round pick in the 2026 NHL Draft.
+Florida Panthers: Acquired defenseman Seth Jones ($2.5m salary retained) and a fourth-round pick (98th overall, Panthers selected Jonas Kemps) in the 2026 NHL Draft from the Chicago Blackhawks for goaltender Spencer Knight and a conditional first-round pick in the 2026 or 2027 NHL Draft.
+Minnesota Wild: Acquired right wing Gustav Nyquist from the Nashville Predators for a second-round pick (later traded to Montreal via Carolina) in the 2026 NHL Draft.
 Toronto Maple Leafs: Signed right wing Borya Valis to a three-year contract.
 
 Feb 28, 2025
@@ -1121,7 +1121,7 @@ Tampa Bay Lightning: Acquired center Ryder Korczak from the New York Rangers for
 Jan 24, 2025
 Chicago Blackhawks: Acquired right wing Mikko Rantanen from the Colorado Avalanche for left wing Nils Juntorp.
 Carolina Hurricanes: Acquired right wing Mikko Rantanen (50% salary retained) and left wing Taylor Hall from the Chicago Blackhawks for a third-round pick (previously acquired from Chicago; 66th overall, Chicago selected Nathan Behm) in the 2025 NHL Draft.
-Colorado Avalanche: Acquired center Jack Drury, right wing Martin Necas, a second-round pick (later traded to Boston) in the 2025 NHL Draft and a fourth-round pick in the 2026 NHL Draft from the Carolina Hurricanes for left wing Nils Juntorp.
+Colorado Avalanche: Acquired center Jack Drury, right wing Martin Necas, a second-round pick (later traded to Boston) in the 2025 NHL Draft and a fourth-round pick (128th overall, Avalanche selected Axel Elofsson) in the 2026 NHL Draft from the Carolina Hurricanes for left wing Nils Juntorp.
 New York Islanders: Signed defenseman Tony DeAngelo to a one-year contract.
 New York Rangers: Signed defenseman Will Borgen to a five-year contract extension.
 
