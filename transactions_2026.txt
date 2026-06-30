@@ -1,5 +1,21 @@
+Jun 29, 2026
+Boston Bruins: Signed center Ivan Ivan to a one-year contract extension.
+Buffalo Sabres: Signed left wing Beck Malenstyn to a six-year contract extension.
+Colorado Avalanche: Signed left wing Taylor Makar to a two-year contract extension.
+Columbus Blue Jackets: Signed right wing Jack Williams to a two-year contract extension.
+Florida Panthers: Acquired defenseman Radko Gudas from the Anaheim Ducks for left wing A.J. Greer.
+Pittsburgh Penguins: Acquired center David Gustafsson from the Winnipeg Jets for defenseman Jack St. Ivany.
+Montreal Canadiens: Acquired defenseman Maksymilian Szuber from the Utah Mammoth for center Joshua Roy.
+Nashville Predators: Acquired left wing Nils Höglander from the Vancouver Canucks for a third-round pick (previously acquired from Colorado) in the 2029 NHL Draft.
+Seattle Kraken: Signed left wing Lleyton Roed and center Jon-Randall Avon to one-year contract extensions.
+Toronto Maple Leafs: Signed defenseman Troy Stecher to a two-year contract extension.
+Utah Mammoth: Signed defenseman Nick DeSimone and right wing Kailer Yamamoto to two-year contract extensions; signed center Joshua Roy to a one-year contract extension.
+Vancouver Canucks: Acquired right wing Brendan Gallagher (50% salary retained) from the Montreal Canadiens for future considerations.
+Vegas Golden Knights: Signed goaltender Carl Lindbom to a three-year contract extension.
+
 Jun 28, 2026
 Nashville Predators: Signed center Jack Drury to a five-year contract extension.
+San Jose Sharks: Signed defenseman Michael Kesselring to a three-year contract extension.
 
 Jun 27, 2026
 Boston Bruins: Acquired center Ivan Ivan from the Colorado Avalanche for right wing Fabian Lysell.
@@ -23,7 +39,7 @@ Washington Capitals: Acquired a fourth-round pick (previously acquired from Toro
 
 Jun 26, 2026
 Anaheim Ducks: Acquired a first-round pick (previously acquired from Montreal; 28th overall, Ducks selected Marcus Nordmark) in the 2026 NHL Draft from the Vegas Golden Knights for first- (previously acquired from Colorado via the New York Islanders and St. Louis; 29th overall, Golden Knights selected Juho Piiparinen) and fourth-round (previously acquired from Philadelphia, later traded to Montreal) picks in the 2026 NHL Draft.
-Boston Bruins: Acquired right wing John-Jason Peterka from the Utah Mammoth for a first-round pick (23rd overall) in the 2026 NHL Draft and a conditional first-round pick (previously acquired from Florida) in the 2028 NHL Draft.
+Boston Bruins: Acquired right wing John-Jason Peterka from the Utah Mammoth for a first-round pick (later traded to Detroit) in the 2026 NHL Draft and a conditional first-round pick (previously acquired from Florida) in the 2028 NHL Draft.
 Buffalo Sabres: Acquired defenseman Olen Zellweger from the Anaheim Ducks for center Anton Wahlberg and a second-round pick (previously acquired from the New York Islanders via Chicago; 45th overall, Ducks selected Jayden Kurtz) in the 2026 NHL Draft.
 Montreal Canadiens: Acquired left wing Brett Berard from the New York Rangers for defenseman William Trudeau.
 Colorado Avalanche: Signed defenseman Brent Burns to a one-year contract extension; signed defenseman Brett Kulak to a five-year contract extension.
@@ -411,7 +427,7 @@ Detroit Red Wings: Acquired defenseman Justin Faulk from the St. Louis Blues for
 Florida Panthers: Acquired right wing Vinnie Hinostroza from the Minnesota Wild for future considerations; claimed left wing Cole Reinhardt off waivers from the Vegas Golden Knights.
 Los Angeles Kings: Acquired center Scott Laughton from the Toronto Maple Leafs for a conditional third-round pick (a second-round pick if Los Angeles qualifies for the 2026 Stanley Cup Playoffs, condition fulfilled; previously acquired from Buffalo via Ottawa; 60th overall, Maple Leafs selected Alexander Bilecki) in the 2026 NHL Draft; signed right wing Mathieu Joseph to a one-year contract.
 Minnesota Wild: Acquired right wing Bobby Brink from the Philadelphia Flyers for defenseman David Jiricek; acquired left wing Nick Foligno from the Chicago Blackhawks for future considerations.
-New York Islanders: Acquired center Brayden Schenn from the St. Louis Blues for left wing Jonathan Drouin, goaltender Marcus Gidlöf and first- and third-round picks (the former previously acquired from Colorado, later traded to Anaheim via Vegas, the latter previously acquired from New Jersey, later traded to Toronto) in the 2026 NHL Draft; signed center Jean-Gabriel Pageau to a three-year contract extension.
+New York Islanders: Acquired center Brayden Schenn from the St. Louis Blues for left wing Jonathan Drouin, goaltender Marcus Gidlöf and first- and third-round picks (the former previously acquired from Colorado, later traded to Vegas via Anaheim, the latter previously acquired from New Jersey, later traded to Toronto) in the 2026 NHL Draft; signed center Jean-Gabriel Pageau to a three-year contract extension.
 Philadelphia Flyers: Claimed center Luke Glendening off waivers from the New Jersey Devils.
 St. Louis Blues: Agreed on a mutual contract termination with right wing Mathieu Joseph.   
 San Jose Sharks: Signed goaltender Alex Nedeljkovic to a two-year contract extension.
